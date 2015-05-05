@@ -1,0 +1,28 @@
+{
+  "name": "worm-scraper",
+  "description": "Scrapes the web serial Worm into an ebook format",
+  "keywords": [
+    "ebook",
+    "worm",
+    "parahuman",
+    "scraper"
+  ],
+  "version": "1.0.0-pre",
+  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
+  "license": "WTFPL",
+  "repository": "domenic/worm-scraper",
+  "main": "lib/worm-scraper.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "lint": "eslint lib && jscs lib"
+  },
+  "dependencies": {
+    "jsdom": "^5.3.0"
+  },
+  "devDependencies": {
+    "eslint": "0.20.0",
+    "jscs": "^1.13.1"
+  }
+}

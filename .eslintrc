@@ -1,0 +1,29 @@
+{
+  "ecmaFeatures": {
+    "binaryLiterals": true,
+    "blockBindings": true,
+    "classes": true,
+    "forOf": true,
+    "generators": true,
+    "objectLiteralShorthandMethods": true,
+    "objectLiteralShorthandProperties": true,
+    "octalLiterals": true,
+    "templateStrings": true
+  },
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-extra-parens": 2,
+    "no-eq-null": 2,
+    "no-floating-decimal": 2,
+    "no-self-compare": 2,
+    "no-throw-literal": 2,
+    "no-void": 2,
+    "wrap-iife": [2, "outside"],
+    "strict": [2, "global"],
+    "no-var": 2,
+    "generator-star-spacing": [2, "after"],
+    "object-shorthand": [2, "always"]
+  }
+}
