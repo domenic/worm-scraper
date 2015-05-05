@@ -15,6 +15,8 @@
   },
   "rules": {
     "no-extra-parens": 2,
+    "no-inner-declarations": 0,
+    "consistent-return": 0,
     "no-eq-null": 2,
     "no-floating-decimal": 2,
     "no-self-compare": 2,
@@ -22,6 +24,7 @@
     "no-void": 2,
     "wrap-iife": [2, "outside"],
     "strict": [2, "global"],
+    "no-use-before-define": [2, "nofunc"],
     "no-var": 2,
     "generator-star-spacing": [2, "after"],
     "object-shorthand": [2, "always"]
