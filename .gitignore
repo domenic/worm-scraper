@@ -3,3 +3,5 @@
 
 cache/
 out/
+!out/mimetime
+!out/META-INF/

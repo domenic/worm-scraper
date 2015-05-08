@@ -7,3 +7,6 @@ trim_trailing_whitespace = true
 charset = utf-8
 indent_style = space
 indent_size = 2
+
+[out/mimetype]
+insert_final_newline = false
