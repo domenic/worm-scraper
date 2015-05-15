@@ -53,16 +53,164 @@
       "after": "Lost in thought.”"
     }
   ],
+  "https://parahumans.wordpress.com/2012/12/13/interlude-16-donation-bonus-2/": [
+    {
+      "before": "<i>“</i>",
+      "after": "”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/12/15/monarch-16-7/": [
+    {
+      "before": "Brockton bay",
+      "after": "Brockton Bay"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/12/29/monarch-16-11/": [
     {
       "before": "attemtps",
       "after": "attempts"
     }
   ],
-  "https://parahumans.wordpress.com/2013/01/01/monarch-16-12/": [
+  "https://parahumans.wordpress.com/2013/01/09/migration-17-2/": [
     {
-      "before": "<em>Did they make her </em><em>smell like me?</em><span style=\"line-height:15px;\">  They had to have, to keep the dogs from barking distress.  But how?  Had Calvert had his men raid my stuff?  Had he used my dirty laundry?</span>",
-      "after": "<em>Did they make her smell like me?</em>  They had to have, to keep the dogs from barking distress.  But how?  Had Calvert had his men raid my stuff?  Had he used my dirty laundry?"
+      "before": "fence</em>!",
+      "after": "fence!</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/10/migration-17-3/": [
+    {
+      "before": "divots intp",
+      "after": "divots into"
+    },
+    {
+      "before": "No.  the",
+      "after": "No.  The"
+    },
+    {
+      "before": "help?”  He",
+      "after": "help?” he"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/12/migration-17-5/": [
+    {
+      "before": "been replying",
+      "after": "been replaying"
+    },
+    {
+      "before": "sort of stuff that , and",
+      "after": "sort of stuff that ???, and"
+    },
+    {
+      "before": "stirred.  her eyes",
+      "after": "stirred.  Her eyes"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/13/migration-17-6/": [
+    {
+      "before": "ground.  Not exactly",
+      "after": "ground.  “Not exactly"
+    },
+    {
+      "before": "MWBB <em>",
+      "after": "<em>MWBB "
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/14/migration-17-7/": [
+    {
+      "before": "focus</em>.  This is because of <em>Noelle",
+      "after": "focus.  This is because of Noelle"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
+    {
+      "before": "could beon",
+      "after": "could be on"
+    },
+    {
+      "before": "<em>untrustworthy.</em>",
+      "after": "<em>untrustworthy</em>."
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/24/interlude-18x/": [
+    {
+      "before": "french accent",
+      "after": "French accent"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/31/interlude-18-donation-bonus-2/": [
+    {
+      "before": "Bay.<em>She",
+      "after": "Bay.  <em>She"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/07/interlude-18-donation-bonus-3/": [
+    {
+      "before": "instinctthat",
+      "after": "instinct that"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/12/queen-18-8/": [
+    {
+      "before": "dragged long",
+      "after": "dragged along"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/14/interlude-18-donation-bonus-4/": [
+    {
+      "before": "C.U.l  China",
+      "after": "C.U.  China"
+    },
+    {
+      "before": "Faulltine asked",
+      "after": "Faultline asked"
+    },
+    {
+      "before": "through Faulltine",
+      "after": "through Faultline"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/16/interlude-18/": [
+    {
+      "before": "Gruewas",
+      "after": "Grue was"
+    },
+    {
+      "before": "askinga",
+      "after": "asking a"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/19/scourge-19-1/": [
+    {
+      "before": "‘s9′",
+      "after": "‘s9’"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/23/scourge-19-2/": [
+    {
+      "before": "You’llstop",
+      "after": "You’ll stop"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/26/scourge-19-3/": [
+    {
+      "before": "areconnected",
+      "after": "are connected"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/28/interlude-19-donation-bonus-1/": [
+    {
+      "before": "English?”  He asked",
+      "after": "English?” he asked"
+    },
+    {
+      "before": "and be brought it",
+      "after": "and he brought it"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/16/interlude-19-y/": [
+    {
+      "before": "Brockton bay",
+      "after": "Brockton Bay"
     }
   ]
 }
