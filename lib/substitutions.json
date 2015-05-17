@@ -1,4 +1,34 @@
 {
+  "https://parahumans.wordpress.com/2011/08/06/interlude-2/": [
+    {
+      "before": "<em>principles, </em>Glory",
+      "after": "<em>principles</em>, Glory"
+    }
+  ],
+  "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
+    {
+      "before": "insult.  An exc</em>use to trounce me physically<em>.</em>",
+      "after": "insult.</em> An excuse to trounce me physically."
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/03/13/extermination-8-4/": [
+    {
+      "before": "Endbringer<em>.  </em>After the laser petered out<em>, h</em>e",
+      "after": "Endbringer.  After the laser petered out, he"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/03/17/extermination-8-5/": [
+    {
+      "before": "past tense-, or",
+      "after": "past tense—or"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/08/11/snare-13-5/": [
+    {
+      "before": "<em>similar.  </em>",
+      "after": "<em>similar</em>.  "
+    }
+  ],
   "https://parahumans.wordpress.com/2012/09/11/prey-14-3/": [
     {
       "before": "truck reached<br/>\nthe other Nine",
@@ -27,12 +57,6 @@
     {
       "before": "this sort of resistance.",
       "after": "this sort of resistance?"
-    }
-  ],
-  "https://parahumans.wordpress.com/2012/11/27/monarch-16-2/": [
-    {
-      "before": "waseven <i>less</i>",
-      "after": "was even <em>less</em>"
     }
   ],
   "https://parahumans.wordpress.com/2012/12/04/monarch-16-4/": [
@@ -73,8 +97,8 @@
   ],
   "https://parahumans.wordpress.com/2013/01/09/migration-17-2/": [
     {
-      "before": "fence</em>!",
-      "after": "fence!</em>"
+      "before": "left now.</em>’</p>",
+      "after": "left now.</em></p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/10/migration-17-3/": [
@@ -85,10 +109,6 @@
     {
       "before": "No.  the",
       "after": "No.  The"
-    },
-    {
-      "before": "help?”  He",
-      "after": "help?” he"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/12/migration-17-5/": [
@@ -123,10 +143,6 @@
   ],
   "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
     {
-      "before": "could beon",
-      "after": "could be on"
-    },
-    {
       "before": "<em>untrustworthy.</em>",
       "after": "<em>untrustworthy</em>."
     }
@@ -135,18 +151,6 @@
     {
       "before": "french accent",
       "after": "French accent"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/01/31/interlude-18-donation-bonus-2/": [
-    {
-      "before": "Bay.<em>She",
-      "after": "Bay.  <em>She"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/02/07/interlude-18-donation-bonus-3/": [
-    {
-      "before": "instinctthat",
-      "after": "instinct that"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/12/queen-18-8/": [
@@ -158,7 +162,7 @@
   "https://parahumans.wordpress.com/2013/02/14/interlude-18-donation-bonus-4/": [
     {
       "before": "C.U.l  China",
-      "after": "C.U.  China"
+      "after": "C.U.I.  China"
     },
     {
       "before": "Faulltine asked",
@@ -169,48 +173,116 @@
       "after": "through Faultline"
     }
   ],
-  "https://parahumans.wordpress.com/2013/02/16/interlude-18/": [
-    {
-      "before": "Gruewas",
-      "after": "Grue was"
-    },
-    {
-      "before": "askinga",
-      "after": "asking a"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/02/19/scourge-19-1/": [
-    {
-      "before": "‘s9′",
-      "after": "‘s9’"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/02/23/scourge-19-2/": [
-    {
-      "before": "You’llstop",
-      "after": "You’ll stop"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/02/26/scourge-19-3/": [
-    {
-      "before": "areconnected",
-      "after": "are connected"
-    }
-  ],
   "https://parahumans.wordpress.com/2013/02/28/interlude-19-donation-bonus-1/": [
-    {
-      "before": "English?”  He asked",
-      "after": "English?” he asked"
-    },
     {
       "before": "and be brought it",
       "after": "and he brought it"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/09/scourge-19-6/": [
+    {
+      "before": "heailng",
+      "after": "healing"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/12/scourge-19-7/": [
+    {
+      "before": "they<em> did, but how we</em> dealt",
+      "after": "they <em>did</em>, but <em>how</em> we dealt"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/16/interlude-19-y/": [
     {
       "before": "Brockton bay",
       "after": "Brockton Bay"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/30/chrysalis-20-4/": [
+    {
+      "before": "guess-, while",
+      "after": "guess—while"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/04/04/interlude-20-donation-bonus-1/": [
+    {
+      "before": "’20th’",
+      "after": "‘20th’"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/04/06/interlude-20/": [
+    {
+      "before": "the costume were studded",
+      "after": "the costume was studded"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/04/13/imago-21-2/": [
+    {
+      "before": "Captain’s hill",
+      "after": "Captain’s Hill"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/04/25/imago-21-7/": [
+    {
+      "before": "Dinah</em>. <em>because this",
+      "after": "Dinah. Because this"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/04/30/interlude-21/": [
+    {
+      "before": "But…Maybe she",
+      "after": "But… Maybe she"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/05/07/cell-22-2/": [
+    {
+      "before": "said, “Is to set",
+      "after": "said, “is to set"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/05/18/interlude-22/": [
+    {
+      "before": "long,” <em>she</em> warned",
+      "after": "long,” she warned"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/": [
+    {
+      "before": "“is it reassuring",
+      "after": "“Is it reassuring"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/05/25/drone-23-1/": [
+    {
+      "before": "Defiant spoke , “Let’s",
+      "after": "Defiant spoke. “Let’s"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/05/28/drone-23-2/": [
+    {
+      "before": "of the ship.  It’s",
+      "after": "of the ship.’  It’s"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/01/drone-23-4/": [
+    {
+      "before": "better off?'”",
+      "after": "better off?’”"
+    },
+    {
+      "before": "said.  Someone",
+      "after": "said.  “Someone"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/28/venom-29-5/": [
+    {
+      "before": "<em>Losing y</em>ou as you get further down<em>.”</em>",
+      "after": "<em>Losing you as you get further down.</em>”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/11/05/teneral-e-2/": [
+    {
+      "before": "<em>property of Ner</em>o",
+      "after": "<em>property of Nero</em>"
     }
   ]
 }
