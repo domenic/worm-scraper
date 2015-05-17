@@ -121,6 +121,10 @@
     {
       "before": "left now.</em>’</p>",
       "after": "left now.</em></p>"
+    },
+    {
+      "before": "and</em> <i>your time—”</i>",
+      "after": "and your time—</em>”"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/10/migration-17-3/": [
@@ -165,6 +169,12 @@
     {
       "before": "focus</em>.  This is because of <em>Noelle",
       "after": "focus.  This is because of Noelle"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/15/migration-17-8/": [
+    {
+      "before": "replied.  <i>Need to talk about being more secure with our names.  “</i>What’s going on?<i>“</i>",
+      "after": "replied.  <em>Need to talk about being more secure with our names.</em>  “What’s going on?”"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
