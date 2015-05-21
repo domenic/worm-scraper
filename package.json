@@ -19,6 +19,7 @@
     "lint": "eslint lib && jscs lib"
   },
   "dependencies": {
+    "archiver": "^0.14.4",
     "cpr": "^0.4.0",
     "jsdom": "^5.3.0",
     "mkdirp-then": "^1.0.1",
