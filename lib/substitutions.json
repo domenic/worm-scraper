@@ -17,14 +17,14 @@
   ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
     {
-      "before": "insult.  An exc</em>use to trounce me physically<em>.</em>",
-      "after": "insult.</em> An excuse to trounce me physically."
+      "before": "insult.  An exc</em>use to",
+      "after": "insult.</em> An excuse to"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/13/extermination-8-4/": [
     {
-      "before": "Endbringer<em>.  </em>After the laser petered out<em>, h</em>e",
-      "after": "Endbringer.  After the laser petered out, he"
+      "before": "petered out<em>, h</em>e",
+      "after": "petered out, he"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/17/extermination-8-5/": [
@@ -157,6 +157,12 @@
     {
       "before": "No.  the",
       "after": "No.  The"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/01/11/migration-17-4/": [
+    {
+      "before": "GWER-.</p>",
+      "after": "GWER—.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/12/migration-17-5/": [
@@ -301,7 +307,7 @@
   ],
   "https://parahumans.wordpress.com/2013/04/25/imago-21-7/": [
     {
-      "before": "Dinah</em>. <em>because this",
+      "before": "Dinah. because this",
       "after": "Dinah. Because this"
     }
   ],
@@ -355,6 +361,44 @@
       "after": "said.  “Someone"
     }
   ],
+  "https://parahumans.wordpress.com/2013/06/11/crushed-24-2/": [
+    {
+      "before": "To Behemoth”",
+      "after": "To Behemoth.”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/15/crushed-24-3/": [
+    {
+      "before": "<em>Phir Sē echoed me.  “</em>",
+      "after": "Phir Sē echoed me.  “"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/18/crushed-24-4/": [
+    {
+      "before": "aren’t allies.",
+      "after": "aren’t allies.”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/22/interlude-24/": [
+    {
+      "before": "remained  He",
+      "after": "remained.  He"
+    },
+    {
+      "before": "somehow within",
+      "after": "somehow get within"
+    },
+    {
+      "before": "very fell over",
+      "after": "very nearly fell over"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/25/interlude-24-donation-bonus-1/": [
+    {
+      "before": "silence like this.  Divide: They",
+      "after": "silence like this.<br/>  Divide: They"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/08/03/sting-26-6/": [
     {
       "before": "canals..",
@@ -365,6 +409,82 @@
     {
       "before": "<em>variation..</em>.",
       "after": "<em>variation</em>…"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/29/scarab-25-1/": [
+    {
+      "before": "sheets pillows",
+      "after": "sheets, pillows"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/02/scarab-25-2/": [
+    {
+      "before": "said.  Except without",
+      "after": "said.  “Except without"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/06/scarab-25-3/": [
+    {
+      "before": "along Addison. roughly four",
+      "after": "along Addison. Roughly four"
+    },
+    {
+      "before": "There’ <em>more</em>",
+      "after": "There’s <em>more</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/09/scarab-25-4/": [
+    {
+      "before": "<em>bugs I don’t like</em>",
+      "after": "<em>bugs</em> I don’t like"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/13/scarab-25-6/": [
+    {
+      "before": "the fuck</em> did you go?",
+      "after": "the fuck did you go?</em>"
+    },
+    {
+      "before": "SimurghNotes",
+      "after": "Simurgh<br/>Notes"
+    },
+    {
+      "before": "avoided-",
+      "after": "avoided"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/20/sting-26-2/": [
+    {
+      "before": "And gauntlet</em>, to reply to the last one",
+      "after": "And gauntlet, to reply to the last one</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/23/sting-26-3/": [
+    {
+      "before": "the other-.",
+      "after": "the other—"
+    },
+    {
+      "before": "“Yeah”",
+      "after": "“Yeah.”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/07/30/sting-26-5/": [
+    {
+      "before": "</em>  Wait…",
+      "after": "  Wait…</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/08/06/interlude-26a/": [
+    {
+      "before": "city, Golem thought.</em>",
+      "after": "city</em>, Golem thought."
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/08/08/interlude-26b/": [
+    {
+      "before": "a battered Cuff",
+      "after": "A battered Cuff"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/22/extinction-27-4/": [
