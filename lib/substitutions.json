@@ -1,8 +1,18 @@
 {
   "https://parahumans.wordpress.com/2011/08/06/interlude-2/": [
     {
+      "before": "sue you, he gasped",
+      "after": "sue you,” he gasped"
+    },
+    {
       "before": "<em>principles, </em>Glory",
       "after": "<em>principles</em>, Glory"
+    }
+  ],
+  "https://parahumans.wordpress.com/2011/09/13/agitation-3-11/": [
+    {
+      "before": "weapon of all,“ Tattletale purred",
+      "after": "weapon of all,” Tattletale purred"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
@@ -29,10 +39,22 @@
       "after": "was… how"
     }
   ],
+  "https://parahumans.wordpress.com/2012/07/03/plague-12-3/": [
+    {
+      "before": "Noelle, “ Trickster said",
+      "after": "Noelle,” Trickster said"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/08/11/snare-13-5/": [
     {
       "before": "<em>similar.  </em>",
       "after": "<em>similar</em>.  "
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/08/18/snare-13-7/": [
+    {
+      "before": "three…</em>“ My swarm",
+      "after": "three…</em>” My swarm"
     }
   ],
   "https://parahumans.wordpress.com/2012/09/11/prey-14-3/": [
@@ -237,6 +259,10 @@
     {
       "before": "they<em> did, but how we</em> dealt",
       "after": "they <em>did</em>, but <em>how</em> we dealt"
+    },
+    {
+      "before": "<em>That</em>, Tattletale said",
+      "after": "<em>That</em>,” Tattletale said"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/16/interlude-19-y/": [
@@ -289,6 +315,10 @@
     {
       "before": "said, “Is to set",
       "after": "said, “is to set"
+    },
+    {
+      "before": "<em>But.</em>“ He",
+      "after": "<em>But.</em>”  He"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/18/interlude-22/": [
