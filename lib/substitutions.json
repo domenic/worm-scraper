@@ -15,10 +15,22 @@
       "after": "weapon of all,” Tattletale purred"
     }
   ],
+  "https://parahumans.wordpress.com/2011/11/15/hive-5-4/": [
+    {
+      "before": "They’re <em>all</em>‘ relevant",
+      "after": "They’re <em>all</em> relevant"
+    }
+  ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
     {
       "before": "insult.  An exc</em>use to",
       "after": "insult.</em> An excuse to"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/03/03/extermination-8-1/": [
+    {
+      "before": "besides <em>them</em>‘",
+      "after": "besides <em>them</em>’"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/13/extermination-8-4/": [
@@ -37,6 +49,24 @@
     {
       "before": "was.. how",
       "after": "was… how"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/29/infestation-11-4/": [
+    {
+      "before": "of facility</em>‘",
+      "after": "of facility</em>’"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/16/interlude-11a/": [
+    {
+      "before": "<em>she</em>‘d",
+      "after": "<em>she’d</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/21/interlude-11f/": [
+    {
+      "before": "my ‘candy</em>‘",
+      "after": "my ‘candy’</em>"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/03/plague-12-3/": [
@@ -63,10 +93,22 @@
       "after": "truck reached the other Nine"
     }
   ],
+  "https://parahumans.wordpress.com/2012/09/15/prey-14-4/": [
+    {
+      "before": "a ‘<em>No, you just told me.</em>‘, but",
+      "after": "a “<em>No, you just told me</em>,” but"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/10/18/interlude-15-donation-bonus/": [
     {
       "before": "volunteered, <em>asked<br/>\n</em> to",
       "after": "volunteered, <em>asked</em> to"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/10/25/interlude-15-donation-bonus-2/": [
+    {
+      "before": "here?</em>  He",
+      "after": "here?</em> he"
     }
   ],
   "https://parahumans.wordpress.com/2012/10/27/colony-15-4/": [
@@ -297,6 +339,11 @@
     {
       "before": "the costume were studded",
       "after": "the costume was studded"
+    },
+    {
+      "before": "the Clairvoyant",
+      "after": "the clairvoyant",
+      "_comment": "see convert.js; this corrects an over-correction"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/13/imago-21-2/": [
@@ -352,10 +399,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/06/01/drone-23-4/": [
-    {
-      "before": "better off?'”",
-      "after": "better off?’”"
-    },
     {
       "before": "said.  Someone",
       "after": "said.  “Someone"
@@ -487,16 +530,202 @@
       "after": "A battered Cuff"
     }
   ],
+  "https://parahumans.wordpress.com/2013/08/17/extinction-27-2/": [
+    {
+      "before": "unruffled  He",
+      "after": "unruffled.  He"
+    },
+    {
+      "before": "very, likely",
+      "after": "very likely"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/08/22/extinction-27-4/": [
     {
       "before": "pattern..",
       "after": "pattern."
     }
   ],
+  "https://parahumans.wordpress.com/2013/08/24/extinction-27-5/": [
+    {
+      "before": "around around",
+      "after": "and around"
+    },
+    {
+      "before": "His <em>transformations",
+      "after": "<em>His transformations"
+    },
+    {
+      "before": "somethign",
+      "after": "something"
+    },
+    {
+      "before": "surface  Just the",
+      "after": "surface.  Just the"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/08/27/interlude-27/": [
+    {
+      "before": "chain reaction of loses",
+      "after": "chain reaction of losses"
+    },
+    {
+      "before": "Weavers",
+      "after": "Weaver’s"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/08/31/cockroaches-28-1/": [
+    {
+      "before": "lot of supplies in”",
+      "after": "lot of supplies in.”"
+    },
+    {
+      "before": "could save issue",
+      "after": "could say issue"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/07/cockroaches-28-4/": [
+    {
+      "before": "if you could, but that",
+      "after": "if you could, that"
+    },
+    {
+      "before": "No reaction from Tattletale",
+      "after": "No reaction from the Simurgh"
+    },
+    {
+      "before": "One hundred and eighty<em> integers",
+      "after": "<em>One hundred and eighty integers"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/10/cockroaches-28-5/": [
+    {
+      "before": "I’m <em>not?  Fuck</em>.  There’s",
+      "after": "I’m <em>not</em>?  <em>Fuck.</em>  There’s"
+    },
+    {
+      "before": "‘<em>Freud</em>‘, and",
+      "after": "‘<em>Freud</em>’, and"
+    },
+    {
+      "before": "‘<em>who knows?</em>‘",
+      "after": "‘<em>who knows?</em>’"
+    },
+    {
+      "before": "I suspect It’s a",
+      "after": "I suspect it’s a"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/17/interlude-28/": [
+    {
+      "before": "“Password protected”",
+      "after": "“Password protected.”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/19/venom-29-1/": [
+    {
+      "before": "blow dr. baby-talk’s mind",
+      "after": "blow Doctor Baby-talk’s mind"
+    },
+    {
+      "before": "whoever Dr. baby-talk is",
+      "after": "whoever Doctor Baby-talk is"
+    },
+    {
+      "before": "look for doctor baby-talk",
+      "after": "look for Doctor Baby-talk"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/21/venom-29-2/": [
+    {
+      "before": "look for babytalk",
+      "after": "look for Baby-talk"
+    },
+    {
+      "before": "<em>Once the bead was in place, every</em> bullet hit.",
+      "after": "Once the bead was in place, every bullet hit."
+    },
+    {
+      "before": "I ‘m",
+      "after": "I’m"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/24/venom-29-3/": [
+    {
+      "before": "<em>Weld</em>?  No.",
+      "after": "<em>Weld?</em>  No."
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/09/26/venom-29-4/": [
+    {
+      "before": "here!”  Someone called",
+      "after": "here!” someone called"
+    },
+    {
+      "before": "“Pretty <em>guy’s",
+      "after": "“<em>Pretty guy’s"
+    },
+    {
+      "before": "Nobody there, in Satyrical’s",
+      "after": "Nobody there in Satyrical’s"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/09/28/venom-29-5/": [
     {
       "before": "<em>Losing y</em>ou as you get further down<em>.”</em>",
       "after": "<em>Losing you as you get further down.</em>”"
+    },
+    {
+      "before": "before went and",
+      "after": "before he went and"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/01/venom-29-6/": [
+    {
+      "before": "the doormaker",
+      "after": "the Doormaker"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/05/venom-29-8/": [
+    {
+      "before": "images an artist’s sketchpad",
+      "after": "images of an artist’s sketchpad"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/08/venom-29-9/": [
+    {
+      "before": "eyeless clairvoyant",
+      "after": "eyeless Clairvoyant"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/12/interlude-29/": [
+    {
+      "before": "the host’s natures",
+      "after": "the hosts’ natures"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/15/speck-30-1/": [
+    {
+      "before": "<em>What did I do</em>?",
+      "after": "<em>What did I do?</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/17/speck-30-2/": [
+    {
+      "before": "‘lowed to do that, ‘miright",
+      "after": "’lowed to do that, ’miright"
+    },
+    {
+      "before": "path was clear,",
+      "after": "path was clear."
+    },
+    {
+      "before": "hard, don’t you</em>?",
+      "after": "hard, don’t you?</em>"
+    },
+    {
+      "before": "Ladies!”  One called",
+      "after": "Ladies!” one called"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/05/teneral-e-2/": [
