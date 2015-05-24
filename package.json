@@ -13,7 +13,8 @@
   "repository": "domenic/worm-scraper",
   "main": "lib/worm-scraper.js",
   "files": [
-    "lib/"
+    "lib/",
+    "scaffolding/"
   ],
   "scripts": {
     "lint": "eslint lib && jscs lib"
