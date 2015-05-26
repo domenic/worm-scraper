@@ -1,4 +1,20 @@
 {
+  "https://parahumans.wordpress.com/2011/06/11/1-1/": [
+    {
+      "before": "bugs; Flies, ants",
+      "after": "bugs: flies, ants"
+    }
+  ],
+  "https://parahumans.wordpress.com/2011/06/14/gestation-1-2/": [
+    {
+      "before": "each others houses",
+      "after": "each others’ houses"
+    },
+    {
+      "before": "creepy crawly",
+      "after": "creepy-crawly"
+    }
+  ],
   "https://parahumans.wordpress.com/2011/08/06/interlude-2/": [
     {
       "before": "sue you, he gasped",
@@ -614,12 +630,20 @@
     {
       "before": "I suspect It’s a",
       "after": "I suspect it’s a"
+    },
+    {
+      "before": "Case Fifty-three",
+      "after": "case fifty-three"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/17/interlude-28/": [
     {
       "before": "“Password protected”",
       "after": "“Password protected.”"
+    },
+    {
+      "before": "Case fifty-threes",
+      "after": "case fifty-threes"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/19/venom-29-1/": [
@@ -728,10 +752,324 @@
       "after": "Ladies!” one called"
     }
   ],
+  "https://parahumans.wordpress.com/2013/10/19/speck-30-3/": [
+    {
+      "before": "She’s—You’re looking in",
+      "after": "She’s— You’re looking in"
+    },
+    {
+      "before": "anyone alleged with",
+      "after": "anyone allied with"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/22/speck-30-4/": [
+    {
+      "before": "I don’t—I can’t",
+      "after": "I don’t— I can’t"
+    },
+    {
+      "before": "Was that—Was it",
+      "after": "Was that— Was it"
+    },
+    {
+      "before": "It would—would have",
+      "after": "It would— would have"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/24/speck-30-5/": [
+    {
+      "before": "clin—the clincher",
+      "after": "clin— the clincher"
+    },
+    {
+      "before": "Have to—have to",
+      "after": "Have to— Have to"
+    },
+    {
+      "before": "He—he lost",
+      "after": "He— He lost"
+    },
+    {
+      "before": "that—Let’s go",
+      "after": "that— Let’s go"
+    },
+    {
+      "before": "I just—I needed",
+      "after": "I just— I needed"
+    },
+    {
+      "before": "Same strat—strat—same",
+      "after": "Same strat— strat— same"
+    },
+    {
+      "before": "Wha—what?",
+      "after": "Wha— what?"
+    },
+    {
+      "before": "You still—you still",
+      "after": "You still— You stil"
+    },
+    {
+      "before": "This—this is the",
+      "after": "This— This is the"
+    },
+    {
+      "before": "all alo—alone",
+      "after": "all alo— alone"
+    },
+    {
+      "before": "<em>S-s-sen—Sentiment</em>?",
+      "after": "<em>S-s-sen— Sentiment?</em>"
+    },
+    {
+      "before": "le—let me",
+      "after": "le— let me"
+    },
+    {
+      "before": "wan—wants",
+      "after": "wan— wants"
+    },
+    {
+      "before": "woul—wouldn’t work a—anyways.  N—no use",
+      "after": "woul— wouldn’t work a— anyways.  N-no use"
+    },
+    {
+      "before": "Need—need—need—need—",
+      "after": "Need— need— need— need—"
+    },
+    {
+      "before": "Need—need—</em>",
+      "after": "Need— need—</em>"
+    },
+    {
+      "before": "Think—think",
+      "after": "Think— think"
+    },
+    {
+      "before": "It—it’s",
+      "after": "It— it’s"
+    },
+    {
+      "before": "not—not",
+      "after": "not— not"
+    },
+    {
+      "before": "Sl—sl—",
+      "after": "Sl-sl—"
+    },
+    {
+      "before": "I’d pretty much but there",
+      "after": "I’d pretty much ???, but there"
+    },
+    {
+      "before": "gun build",
+      "after": "gun built"
+    },
+    {
+      "before": "hunchbacked Case fifty-three",
+      "after": "hunchbacked case fifty-three"
+    },
+    {
+      "before": "moved Case fifty-threes",
+      "after": "moved case fifty-threes"
+    },
+    {
+      "before": "future sight of his .",
+      "after": "future sight of his."
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/26/speck-30-6/": [
+    {
+      "before": "frat—fratern—<em>clubs",
+      "after": "frat— fratern— <em>clubs"
+    },
+    {
+      "before": "Glaistig U—the Faerie Queen",
+      "after": "Glaistig U— the Faerie Queen"
+    },
+    {
+      "before": "Strip—stripping flesh",
+      "after": "Strip— Stripping flesh"
+    },
+    {
+      "before": "Dis—Dissonance",
+      "after": "Dis— Dissonance"
+    },
+    {
+      "before": "com-comf—why did it",
+      "after": "com— comf— why did it"
+    },
+    {
+      "before": "Needed—needed to",
+      "after": "Needed— Needed to"
+    },
+    {
+      "before": "into h—her pet",
+      "after": "into h-her pet"
+    },
+    {
+      "before": "chan-chann—station to",
+      "after": "chan— chann— station to"
+    },
+    {
+      "before": "Mm-m—my",
+      "after": "Mm-m-my"
+    },
+    {
+      "before": "resulting crater that compared with",
+      "after": "resulting crater compared with"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/10/29/30-7/": [
+    {
+      "before": "Con—conflict.",
+      "after": "Con— Conflict."
+    },
+    {
+      "before": "That singing—Singing",
+      "after": "That singing— Singing"
+    },
+    {
+      "before": "wasn’t the—wasn’t the",
+      "after": "wasn’t the— wasn’t the"
+    },
+    {
+      "before": "I was—it was",
+      "after": "I was— It was"
+    },
+    {
+      "before": "other two—I recognized",
+      "after": "other two— I recognized"
+    },
+    {
+      "before": "W-wwha—ddo",
+      "after": "W-wwha— ddo"
+    },
+    {
+      "before": "Don’t—don’t regret",
+      "after": "Don’t— Don’t regret"
+    },
+    {
+      "before": "Was—had to",
+      "after": "Was— Had to"
+    },
+    {
+      "before": "s—so very small",
+      "after": "s-so very small"
+    },
+    {
+      "before": "“Yes,’ I",
+      "after": "“Yes,” I"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/11/05/teneral-e-2/": [
     {
       "before": "<em>property of Ner</em>o",
       "after": "<em>property of Nero</em>"
+    },
+    {
+      "before": "“Stay, Hooligan”",
+      "after": "“Stay, Hooligan.”"
+    },
+    {
+      "before": "<em>Nero</em>, Why don’t we get",
+      "after": "<em>Nero</em>, why don’t we get"
+    },
+    {
+      "before": "ms. ‘Unresolved’",
+      "after": "Ms. ‘Unresolved’"
+    },
+    {
+      "before": "<em>Capiche</em>?",
+      "after": "<em>Capiche?</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/11/09/teneral-e-3/": [
+    {
+      "before": "vageuly",
+      "after": "vaguely"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/11/12/teneral-e-4/": [
+    {
+      "before": "The Foxhound",
+      "after": "The foxhound"
+    },
+    {
+      "before": "<em>articulate</em>d",
+      "after": "<em>articulated</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/11/16/teneral-e-5/": [
+    {
+      "before": "and His flesh began",
+      "after": "and his flesh began"
+    },
+    {
+      "before": "the ‘cage",
+      "after": "the ’cage"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
+    {
+      "before": "Imp:I’ve",
+      "after": "Imp: I’ve"
+    },
+    {
+      "before": "Tattletale:<br/>\nwaiting?",
+      "after": "Tattletale: waiting?"
+    },
+    {
+      "before": "<em>yes!  </em>",
+      "after": "<em>yes</em>!  "
+    },
+    {
+      "before": "Please, If you",
+      "after": "Please, if you"
+    },
+    {
+      "before": "ten—thousandth",
+      "after": "ten-thousandth"
+    },
+    {
+      "before": "Don’t—Don’t worry",
+      "after": "Don’t— Don’t worry"
+    },
+    {
+      "before": "“Powers?”",
+      "after": "“powers?”"
+    },
+    {
+      "before": "Embarrassed ‘self on",
+      "after": "Embarrassed ’self on"
+    },
+    {
+      "before": "Hav—haven’t gotten",
+      "after": "Hav— Haven’t gotten"
+    },
+    {
+      "before": "since y—since my",
+      "after": "since y— since my"
+    },
+    {
+      "before": "I don’t—I—",
+      "after": "I don’t— I—"
+    },
+    {
+      "before": "Y—you",
+      "after": "Y-you"
+    },
+    {
+      "before": "I—I picked",
+      "after": "I— I picked"
+    },
+    {
+      "before": "I’m—I was a",
+      "after": "I’m— I was a"
+    },
+    {
+      "before": "I—I’m your daughter",
+      "after": "I— I’m your daughter"
     }
   ]
 }
