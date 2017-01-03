@@ -1,6 +1,6 @@
 {
   "name": "worm-scraper",
-  "description": "Scrapes the web serial Worm into an ebook format",
+  "description": "Scrapes the web serial Worm into an eBook format",
   "keywords": [
     "ebook",
     "worm",
@@ -11,7 +11,7 @@
   "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
   "license": "WTFPL",
   "repository": "domenic/worm-scraper",
-  "main": "lib/worm-scraper.js",
+  "bin": "lib/worm-scraper.js",
   "files": [
     "lib/",
     "scaffolding/"
