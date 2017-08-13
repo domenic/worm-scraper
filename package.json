@@ -20,19 +20,19 @@
     "lint": "eslint lib"
   },
   "dependencies": {
-    "archiver": "^1.3.0",
-    "cpr": "^2.0.2",
-    "jsdom": "^9.9.1",
+    "archiver": "^2.0.0",
+    "cpr": "^2.2.0",
+    "jsdom": "^11.1.0",
     "mkdirp-then": "^1.0.1",
     "requisition": "^1.5.0",
     "rimraf-then": "^1.0.0",
-    "thenify": "^3.1.0",
-    "throat": "^3.0.0",
+    "thenify": "^3.3.0",
+    "throat": "^4.1.0",
     "xmlserializer": "^0.6.0",
-    "yargs": "^6.6.0",
+    "yargs": "^8.0.2",
     "zfill": "0.0.2"
   },
   "devDependencies": {
-    "eslint": "3.12.2"
+    "eslint": "4.4.1"
   }
 }
