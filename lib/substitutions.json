@@ -23,6 +23,10 @@
     {
       "before": "top 5",
       "after": "top five"
+    },
+    {
+      "before": "East end",
+      "after": "east end"
     }
   ],
   "https://parahumans.wordpress.com/2011/06/28/gestation-1-6/": [
@@ -391,6 +395,10 @@
     {
       "before": "Bitch,” I said. “Why’d",
       "after": "Bitch,” I said, “why’d"
+    },
+    {
+      "before": "East",
+      "after": "east"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/10/interlude-5/": [
@@ -421,6 +429,18 @@
     {
       "before": "Touche",
       "after": "Touché"
+    },
+    {
+      "before": "West",
+      "after": "west"
+    },
+    {
+      "before": "East",
+      "after": "east"
+    },
+    {
+      "before": "South",
+      "after": "south"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/20/tangle-6-3/": [
@@ -469,6 +489,16 @@
     {
       "before": "Somehow,” Grue retorted. “I’m",
       "after": "Somehow,” Grue retorted, “I’m"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/01/07/tangle-6-8/": [
+    {
+      "before": "West",
+      "after": "west"
+    },
+    {
+      "before": "to the North",
+      "after": "to the north"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/10/tangle-6-9/": [
@@ -591,12 +621,20 @@
     {
       "before": "besides <em>them</em>‘",
       "after": "besides <em>them</em>’"
+    },
+    {
+      "before": "East",
+      "after": "east"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/06/extermination-8-2/": [
     {
       "before": "the south end of town, the boardwalk",
       "after": "the south end of town, the Boardwalk"
+    },
+    {
+      "before": "West",
+      "after": "west"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%C2%BD-bonus/": [
@@ -625,12 +663,44 @@
     {
       "before": "petered out<em>, h</em>e",
       "after": "petered out, he"
+    },
+    {
+      "before": "block West",
+      "after": "block west"
+    },
+    {
+      "before": "bolted West",
+      "after": "bolted west"
+    },
+    {
+      "before": "West and Northwest",
+      "after": "west and northwest"
+    },
+    {
+      "before": "heading West",
+      "after": "heading west"
+    },
+    {
+      "before": "More Wests than North",
+      "after": "More wests than north"
+    },
+    {
+      "before": "West-North-West",
+      "after": "west-northwest"
+    },
+    {
+      "before": "half South",
+      "after": "half south"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/17/extermination-8-5/": [
     {
       "before": "past tense-, or",
       "after": "past tense—or"
+    },
+    {
+      "before": "Northwest",
+      "after": "northwest"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/24/extermination-8-7/": [
@@ -1541,6 +1611,10 @@
     {
       "before": "Brockton bay",
       "after": "Brockton Bay"
+    },
+    {
+      "before": "South",
+      "after": "south"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/21/chrysalis-20-1/": [
@@ -2052,6 +2126,12 @@
       "after": "rain: the"
     }
   ],
+  "https://parahumans.wordpress.com/2013/08/13/extinction-27-1/": [
+    {
+      "before": "East",
+      "after": "east"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/08/17/extinction-27-2/": [
     {
       "before": "unruffled  He",
@@ -2252,6 +2332,10 @@
     {
       "before": "Actually,” Tecton said. “Nothing’s",
       "after": "Actually,” Tecton said, “nothing’s"
+    },
+    {
+      "before": "Eastern standard time",
+      "after": "Eastern Standard Time"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/21/venom-29-2/": [
@@ -2390,6 +2474,10 @@
     {
       "before": "It would—would have",
       "after": "It would— would have"
+    },
+    {
+      "before": "Eastern seaboard",
+      "after": "Eastern Seaboard"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/24/speck-30-5/": [
