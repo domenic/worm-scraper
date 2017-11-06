@@ -562,6 +562,10 @@
     {
       "before": "reservations,” Brian spoke. “But",
       "after": "reservations,” Brian spoke, “but"
+    },
+    {
+      "before": "&amp;",
+      "after": "and"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/24/buzz-7-3/": [
@@ -592,6 +596,12 @@
     {
       "before": "realized,” Brian spoke. “I",
       "after": "realized,” Brian spoke, “I"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/02/04/buzz-7-6/": [
+    {
+      "before": "&amp;",
+      "after": "and"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/07/buzz-7-7/": [
@@ -718,10 +728,14 @@
       "after": "here,” Grue spoke, “you"
     }
   ],
-  "https://parahumans.wordpress.com/category/stories-arcs-1-10/arc-8-extermination/8-x-bonus-interlude/": [
+  "https://parahumans.wordpress.com/2012/03/08/interlude-7%c2%bd-bonus/": [
     {
       "before": "‘boyfriend’; Not",
       "after": "‘boyfriend’; not"
+    },
+    {
+      "before": "thought &amp; the",
+      "after": "thought and the"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/31/interlude-8/": [
@@ -744,6 +758,12 @@
     {
       "before": "So,” Weld said. “Keeping",
       "after": "So,” Weld said, “keeping"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/08/parasite-10-5/": [
+    {
+      "before": "&amp;",
+      "after": "and"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/15/interlude-10/": [
@@ -786,6 +806,10 @@
     {
       "before": "we do here”",
       "after": "we do here.”"
+    },
+    {
+      "before": "&amp;",
+      "after": "and"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/12/infestation-11-8/": [
