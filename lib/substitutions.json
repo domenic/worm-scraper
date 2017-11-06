@@ -1405,6 +1405,11 @@
     {
       "before": "M.M..",
       "after": "M.M."
+    },
+    {
+      "before": "‘okay’",
+      "after": "‘OK’",
+      "_comment": "This is a note written with bugs and thus probably uses two letters instead of four"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/31/interlude-18-donation-bonus-2/": [
@@ -1834,6 +1839,11 @@
     {
       "before": "it,” he said. “She",
       "after": "it,” he said, “she"
+    },
+    {
+      "before": "confirmed okay",
+      "after": "confirmed ok",
+      "_comment": "This is a forum post title and thus is probably informal and not event capitalized"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/": [
@@ -1886,6 +1896,11 @@
     {
       "before": "Nine,” Glenn said. “I",
       "after": "Nine,” Glenn said, “I"
+    },
+    {
+      "before": "went okay",
+      "after": "went ok",
+      "_comment": "This is in a letter from Tattletale which is fairly informal and uses phrases like 'mebbe' nearby."
     }
   ],
   "https://parahumans.wordpress.com/2013/06/01/drone-23-4/": [
@@ -1924,6 +1939,11 @@
     {
       "before": "<em>Phir Sē echoed me.  “</em>",
       "after": "Phir Sē echoed me.  “"
+    },
+    {
+      "before": "I okay",
+      "after": "I ok",
+      "_comment": "This is in a hand-written note from Tattletale, so she'd probably keep it short"
     }
   ],
   "https://parahumans.wordpress.com/2013/06/18/crushed-24-4/": [
