@@ -3,6 +3,11 @@
     {
       "before": "bugs; Flies, ants",
       "after": "bugs: flies, ants"
+    },
+    {
+      "before": "<p><em>Brief note from the author:  This story isn’t intended for young or sensitive readers.  Readers who are on the lookout for <a href=\"http://www.urbandictionary.com/define.php?term=Trigger%20warning&amp;defid=6195009\">trigger warnings</a> are advised to give Worm a pass.</em></p>\n<hr/>\n",
+      "after": "",
+      "_comment": "The pseudo-trigger warning is out of place in an eBook."
     }
   ],
   "https://parahumans.wordpress.com/2011/06/14/gestation-1-2/": [
