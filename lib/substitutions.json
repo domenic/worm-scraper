@@ -580,12 +580,24 @@
     {
       "before": "<em>, and</em>",
       "after": ", <em>and</em>"
+    },
+    {
+      "before": "“Damn,” I felt",
+      "after": "“Damn.” I felt"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/28/buzz-7-4/": [
     {
       "before": "on the way”",
       "after": "on the way.”"
+    },
+    {
+      "before": "better I’ll feel,” he was",
+      "after": "better I’ll feel.” He was"
+    },
+    {
+      "before": "In short, It",
+      "after": "In short, it"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/31/buzz-7-5/": [
@@ -596,12 +608,24 @@
     {
       "before": "realized,” Brian spoke. “I",
       "after": "realized,” Brian spoke, “I"
+    },
+    {
+      "before": "‘fessing",
+      "after": "’fessing"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/04/buzz-7-6/": [
     {
       "before": "&amp;",
       "after": "and"
+    },
+    {
+      "before": "flat chested",
+      "after": "flat-chested"
+    },
+    {
+      "before": "throat, “Kiss",
+      "after": "throat, “kiss"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/07/buzz-7-7/": [
@@ -612,12 +636,24 @@
     {
       "before": "Tattletale,” Brian spoke. “Did",
       "after": "Tattletale,” Brian spoke, “did"
+    },
+    {
+      "before": "back to herself, “We",
+      "after": "back to herself. “We"
+    },
+    {
+      "before": "I asked her, “Hold",
+      "after": "I asked her. “Hold"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/11/buzz-7-8/": [
     {
       "before": "Skitter,” Grue called. “Run!",
       "after": "Skitter,” Grue called, “run!"
+    },
+    {
+      "before": "chimed in, “She",
+      "after": "chimed in. “She"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/18/buzz-7-10/": [
@@ -626,10 +662,40 @@
       "after": "Coil,” I spoke, “it’s"
     }
   ],
+  "https://parahumans.wordpress.com/2012/02/25/buzz-7-12/": [
+    {
+      "before": "Summer",
+      "after": "summer"
+    },
+    {
+      "before": "After a moment, then I",
+      "after": "After a moment, I"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/02/28/interlude-7/": [
     {
       "before": "<em>more—</em> this",
       "after": "<em>more</em>—this"
+    },
+    {
+      "before": "its self",
+      "after": "itself"
+    },
+    {
+      "before": "Hana stirred, she",
+      "after": "Hana stirred. She"
+    },
+    {
+      "before": "Walk or-",
+      "after": "Walk or—"
+    },
+    {
+      "before": "twenty six years",
+      "after": "twenty-six years"
+    },
+    {
+      "before": "<em>here?  Now?</em>",
+      "after": "<em>here</em>?  <em>Now</em>?"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/03/extermination-8-1/": [
