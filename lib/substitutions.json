@@ -198,6 +198,10 @@
     {
       "before": "guys,” Gallant said. “Before",
       "after": "guys,” Gallant said, “before"
+    },
+    {
+      "before": "tinker created",
+      "after": "tinker-created"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/24/shell-4-1/": [
@@ -556,6 +560,22 @@
     {
       "before": "I—Yes.",
       "after": "I— Yes."
+    },
+    {
+      "before": "brute 4-9",
+      "after": "brute four-nine"
+    },
+    {
+      "before": "blaster 2-6",
+      "after": "blaster two-six"
+    },
+    {
+      "before": "tinker 6",
+      "after": "tinker six"
+    },
+    {
+      "before": "Master 8",
+      "after": "master eight"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/17/buzz-7-1/": [
@@ -782,6 +802,10 @@
     {
       "before": "Northwest",
       "after": "northwest"
+    },
+    {
+      "before": "Master 5",
+      "after": "master five"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/24/extermination-8-7/": [
@@ -792,6 +816,14 @@
     {
       "before": "here,” Grue spoke. “You",
       "after": "here,” Grue spoke, “you"
+    },
+    {
+      "before": "thinker 7",
+      "after": "thinker seven"
+    },
+    {
+      "before": "Master 5",
+      "after": "Master five"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%c2%bd-bonus/": [
@@ -810,6 +842,102 @@
       "after": "other: another"
     }
   ],
+  "https://parahumans.wordpress.com/2012/04/03/cell-9-1/": [
+    {
+      "before": "striker 7",
+      "after": "striker seven"
+    },
+    {
+      "before": "shaker 9",
+      "after": "shaker nine"
+    },
+    {
+      "before": "tinker 4",
+      "after": "tinker four"
+    },
+    {
+      "before": "Breaker 3",
+      "after": "Breaker three"
+    },
+    {
+      "before": "stranger 2",
+      "after": "stranger two"
+    },
+    {
+      "before": "mover 1",
+      "after": "mover one"
+    },
+    {
+      "before": "shaker 2",
+      "after": "shaker two"
+    },
+    {
+      "before": "tinker 2",
+      "after": "tinker two"
+    },
+    {
+      "before": "/mover 3",
+      "after": " slash mover three"
+    },
+    {
+      "before": "shifter 4",
+      "after": "shifter four"
+    },
+    {
+      "before": "shaper 4",
+      "after": "shaper four"
+    },
+    {
+      "before": "brute 7",
+      "after": "brute seven"
+    },
+    {
+      "before": "blaster 8",
+      "after": "blaster eight"
+    },
+    {
+      "before": "mover 4",
+      "after": "mover four"
+    },
+    {
+      "before": "breaker 9",
+      "after": "breaker nine"
+    },
+    {
+      "before": "shifter 8",
+      "after": "shifter eight"
+    },
+    {
+      "before": "stranger 3",
+      "after": "stranger three"
+    },
+    {
+      "before": "Master 6",
+      "after": "master six"
+    },
+    {
+      "before": "shaker 12",
+      "after": "shaker twelve"
+    },
+    {
+      "before": "Tinker designed",
+      "after": "Tinker-designed"
+    },
+    {
+      "before": "three Master classifications",
+      "after": "three master classifications"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/04/07/sentinel-9-2/": [
+    {
+      "before": "Tinker made",
+      "after": "Tinker-made"
+    },
+    {
+      "before": "Master 6",
+      "after": "master six"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/04/17/sentinel-9-5/": [
     {
       "before": "clothes: A",
@@ -824,6 +952,10 @@
     {
       "before": "So,” Weld said. “Keeping",
       "after": "So,” Weld said, “keeping"
+    },
+    {
+      "before": "Master in the city",
+      "after": "master in the city"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/08/parasite-10-5/": [
@@ -846,6 +978,10 @@
     {
       "before": "me,” Lung said. “And",
       "after": "me,” Lung said, “and"
+    },
+    {
+      "before": "thinker 7",
+      "after": "thinker seven"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/19/infestation-11-1/": [
@@ -1494,6 +1630,10 @@
     {
       "before": "Well,” Tattletale said. “Funny",
       "after": "Well,” Tattletale said, “funny"
+    },
+    {
+      "before": "stranger class",
+      "after": "stranger-class"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/05/monarch-18-6/": [
@@ -1715,6 +1855,11 @@
     {
       "before": "South",
       "after": "south"
+    },
+    {
+      "before": "Unfortunate tinker",
+      "after": "Unfortunate tinker",
+      "_comment": "See convert.js; this corrects an over-correction"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/21/chrysalis-20-1/": [
@@ -2153,6 +2298,10 @@
     {
       "before": "up,” I said. “The",
       "after": "up,” I said, “the"
+    },
+    {
+      "before": "Master and stranger",
+      "after": "master and stranger"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/20/sting-26-2/": [
@@ -2451,6 +2600,10 @@
     {
       "before": "Eastern standard time",
       "after": "Eastern Standard Time"
+    },
+    {
+      "before": "Master class cape",
+      "after": "master-class cape"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/21/venom-29-2/": [
@@ -2565,6 +2718,10 @@
     {
       "before": "Ladies!”  One called",
       "after": "Ladies!” one called"
+    },
+    {
+      "before": "Stranger and Master",
+      "after": "Stranger and master"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/19/speck-30-3/": [
