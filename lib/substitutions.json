@@ -62,10 +62,6 @@
     {
       "before": "sue you, he gasped",
       "after": "sue you,” he gasped"
-    },
-    {
-      "before": "<em>principles,</em> Glory",
-      "after": "<em>principles</em>, Glory"
     }
   ],
   "https://parahumans.wordpress.com/2011/07/05/insinuation-2-1/": [
@@ -170,6 +166,12 @@
     {
       "before": "Lisa continued. “Is",
       "after": "Lisa continued, “is"
+    }
+  ],
+  "https://parahumans.wordpress.com/2011/09/03/agitation-3-8/": [
+    {
+      "before": "direction</p>",
+      "after": "direction.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/10/agitation-3-10/": [
@@ -524,7 +526,7 @@
   ],
   "https://parahumans.wordpress.com/2012/01/10/tangle-6-9/": [
     {
-      "before": "I’m a<em> prisoner?</em>",
+      "before": "I’m a <em>prisoner?</em>",
       "after": "I’m a <em>prisoner</em>?"
     },
     {
@@ -550,6 +552,10 @@
     {
       "before": "It-it’s",
       "after": "It—it’s"
+    },
+    {
+      "before": "envelope</p>",
+      "after": "envelope.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/14/interlude-6/": [
@@ -686,6 +692,10 @@
     {
       "before": "chimed in, “She",
       "after": "chimed in. “She"
+    },
+    {
+      "before": "wounds</p>",
+      "after": "wounds.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/18/buzz-7-10/": [
@@ -820,7 +830,7 @@
       "after": "A third person was gravely injured"
     },
     {
-      "regExp": "\n<em>\\s*([^<]+)</em>(<br/>|</p>)",
+      "regExp": "\n ?<em>\\s*([^<]+)</em>(<br/>|</p>)",
       "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>"
     },
     {
@@ -868,14 +878,6 @@
     {
       "before": "<em>pushing.</em>",
       "after": "<em>pushing</em>."
-    },
-    {
-      "before": "<em>  Fuck</em>",
-      "after": "  <em>Fuck</em>"
-    },
-    {
-      "before": "<em>  Losses",
-      "after": "  <em>Losses"
     },
     {
       "before": "<em>Narwhal,</em>",
@@ -1000,6 +1002,10 @@
     {
       "before": "old, dirt and blood",
       "after": "old dir and blood"
+    },
+    {
+      "before": "collapse</p>",
+      "after": "collapse.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/20/extermination-8-6/": [
@@ -1210,6 +1216,18 @@
     {
       "before": "three Master classifications",
       "after": "three master classifications"
+    },
+    {
+      "before": "files, “Here’s",
+      "after": "files. “Here’s"
+    },
+    {
+      "before": "youtube",
+      "after": "YouTube"
+    },
+    {
+      "before": "ground, “It",
+      "after": "ground, “it"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/07/sentinel-9-2/": [
@@ -1220,6 +1238,86 @@
     {
       "before": "Master 6",
       "after": "master six"
+    },
+    {
+      "before": "build for a professional",
+      "after": "build up a professional"
+    },
+    {
+      "before": "need me, k?",
+      "after": "need me, ’kay?"
+    },
+    {
+      "before": "gentle walk</p>",
+      "after": "gentle walk.</p>"
+    },
+    {
+      "before": "real hair</p>",
+      "after": "real hair.</p>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/04/10/sentinel-9-3/": [
+    {
+      "before": "with my family</em>.",
+      "after": "with my family.</em>"
+    },
+    {
+      "before": "industrialized ones—Some of you",
+      "after": "industrialized ones—some of you"
+    },
+    {
+      "before": "the room, “You’ve",
+      "after": "the room, “you’ve"
+    },
+    {
+      "before": "dislike him</em>?",
+      "after": "dislike him?</em>"
+    },
+    {
+      "before": "answered, annoyed, “ He gets",
+      "after": "answered, annoyed. “He gets"
+    },
+    {
+      "before": "spoke, “Broad",
+      "after": "spoke. “Broad"
+    },
+    {
+      "before": "tipped his hat, “Then",
+      "after": "tipped his hat. “Then"
+    },
+    {
+      "before": "of this</em> guy.",
+      "after": "of this guy.</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/04/14/sentinel-9-4/": [
+    {
+      "before": "more focused one</em>.</p>",
+      "after": "more focused one.</em></p>"
+    },
+    {
+      "before": "groaning, “Fuck,",
+      "after": "groaning. “Fuck,"
+    },
+    {
+      "before": "smiled a little,",
+      "after": "smiled a little."
+    },
+    {
+      "before": "greeted him, “You’re",
+      "after": "greeted him. “You’re"
+    },
+    {
+      "before": "going to</em> get less interested.  <em>Shit,",
+      "after": "going to get <em>less</em> interested. Shit,"
+    },
+    {
+      "before": "commented, “My tax",
+      "after": "commented. “My tax"
+    },
+    {
+      "before": "scratched-up hands, “No",
+      "after": "scratched-up hands. “No"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/17/sentinel-9-5/": [
@@ -1230,6 +1328,44 @@
     {
       "before": "That,” Piggot spoke. “And",
       "after": "That,” Piggot spoke, “and"
+    },
+    {
+      "before": "hands together, “Thank",
+      "after": "hands together. “Thank"
+    },
+    {
+      "before": "Chariot replied, I’m sorry",
+      "after": "Chariot replied; I’m sorry"
+    },
+    {
+      "before": "said something</em>.",
+      "after": "said something.</em>"
+    },
+    {
+      "before": "across the room, “It was",
+      "after": "across the room. “It was"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/04/21/sentinel-9-6/": [
+    {
+      "before": "Good—The woman’s",
+      "after": "Good—the woman’s"
+    },
+    {
+      "before": "face.</em>  Shadow Stalker thought, <em>Records",
+      "after": "face,</em> Shadow Stalker thought. <em>Records"
+    },
+    {
+      "before": "Charlie horse",
+      "after": "charlie horse"
+    },
+    {
+      "before": "sarcastic, “How wonderfully",
+      "after": "sarcastic, “how wonderfully"
+    },
+    {
+      "before": "“…Things are",
+      "after": "“…things are"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/28/parasite-10-2/": [
@@ -1332,6 +1468,40 @@
       "after": "my ‘candy’</em>"
     }
   ],
+  "https://parahumans.wordpress.com/2012/06/22/interlude-11g/": [
+    {
+      "before": "<p><em>J’adore—</em></p>",
+      "after": "<p><i>J’adore—</i></p>"
+    },
+    {
+      "before": "<p><em>Sweet Honey—</em></p>",
+      "after": "<p><i>Sweet Honey—</i></p>"
+    },
+    {
+      "before": "<p><em>Love me, love me, you know you wanna love me…</em><br/>\n<em>Love me, love me, you know you wanna love me…</em></p>",
+      "after": "<p><i>Love me, love me, you know you wanna love me…<br/>\nLove me, love me, you know you wanna love me…</i></p>"
+    },
+    {
+      "before": "<p><em>Love me, you?<br/>\nLove me, true?</em></p>",
+      "after": "<p><i>Love me, you?<br/>\nLove me, true?</i></p>"
+    },
+    {
+      "before": "<p><em>Crazed, kooky, cracked, crazy,</em> <br/>\n<em>Nutty, barmy, mad for me…</em></p>",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nNutty, barmy, mad for me…</i></p>"
+    },
+    {
+      "before": "<p><em><em>Crazed, kooky, cracked, crazy,</em><br/>\nMental, dotty, whacked, loopy…</em></p>",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nMental, dotty, whacked, loopy…</i></p>"
+    },
+    {
+      "before": "<p><em>Crazed, kooky, cracked, crazy,<br/>\n<em>Nutty, screwy, mentally diseased…</em><br/>\n</em> She ",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nNutty, screwy, mentally diseased…</i></p>\n<p>She "
+    },
+    {
+      "before": "<em>Ça va?</em>",
+      "after": "<i>Ça va?</i>"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/06/26/plague-12-1/": [
     {
       "before": "need: Maybe",
@@ -1392,6 +1562,10 @@
     {
       "before": "doesn’t,” Madcap said. “But",
       "after": "doesn’t,” Madcap said, “but"
+    },
+    {
+      "before": "Second task.—c</p>",
+      "after": "Second task. —c</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/28/snare-13-1/": [
@@ -1442,6 +1616,10 @@
     {
       "before": "Coil,” I said. “You",
       "after": "Coil,” I said, “you"
+    },
+    {
+      "before": "<em>“Speak for",
+      "after": "“<em>Speak for"
     }
   ],
   "https://parahumans.wordpress.com/2012/08/21/snare-13-8/": [
@@ -1512,6 +1690,10 @@
     {
       "before": "countermeasures,” I said. “We",
       "after": "countermeasures,” I said, “we"
+    },
+    {
+      "before": "through the suit</em>?",
+      "after": "through the suit?</em>"
     }
   ],
   "https://parahumans.wordpress.com/2012/10/09/prey-14-11/": [
@@ -1564,6 +1746,10 @@
     {
       "before": "rich,” Regent said. “Coming",
       "after": "rich,” Regent said, “coming"
+    },
+    {
+      "before": "the street</p>",
+      "after": "the street.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/10/27/colony-15-4/": [
@@ -1584,6 +1770,10 @@
     {
       "before": "this,” Regent said. “I",
       "after": "this,” Regent said, “I"
+    },
+    {
+      "before": "wonder <em>why?</em>",
+      "after": "wonder <em>why</em>?"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/03/colony-15-6/": [
@@ -1604,6 +1794,10 @@
     {
       "before": "Brooks,” I said. “Treat",
       "after": "Brooks,” I said, “treat"
+    },
+    {
+      "before": "being kept</p>",
+      "after": "being kept.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/08/interlude-15-donation-bonus-3/": [
@@ -1716,6 +1910,12 @@
       "after": "decisions: holding back"
     }
   ],
+  "https://parahumans.wordpress.com/2012/12/22/monarch-16-9/": [
+    {
+      "before": "aisles</p>",
+      "after": "aisles.</p>"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/12/25/monarch-16-10/": [
     {
       "before": "it,” Trickster said. “You",
@@ -1812,7 +2012,7 @@
       "after": "been replaying"
     },
     {
-      "before": "sort of stuff that , and",
+      "before": "sort of stuff that, and",
       "after": "sort of stuff that ???, and"
     },
     {
@@ -1840,6 +2040,14 @@
     {
       "before": "happens,” Krouse said. “Blame",
       "after": "happens,” Krouse said, “blame"
+    },
+    {
+      "before": "one hallway</p>",
+      "after": "one hallway.</p>"
+    },
+    {
+      "before": "the glass vial</p>",
+      "after": "the glass vial.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/14/migration-17-7/": [
@@ -1858,6 +2066,10 @@
     {
       "before": "the guy:  A brown",
       "after": "the guy: a brown"
+    },
+    {
+      "before": "exaggerated shrug</p>",
+      "after": "exaggerated shrug.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/15/migration-17-8/": [
@@ -1886,6 +2098,10 @@
     {
       "before": "speaking,” I said. “Just",
       "after": "speaking,” I said, “just"
+    },
+    {
+      "before": "or another</p>",
+      "after": "or another.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/22/queen-18-2/": [
@@ -2033,6 +2249,10 @@
     {
       "before": "better,” I said. “Eidolon",
       "after": "better,” I said, “Eidolon"
+    },
+    {
+      "before": "giving her <em>us.</em>",
+      "after": "giving her <em>us</em>."
     }
   ],
   "https://parahumans.wordpress.com/2013/02/14/interlude-18-donation-bonus-4/": [
@@ -2067,6 +2287,10 @@
     {
       "before": "anything,” Shamrock said. “I",
       "after": "anything,” Shamrock said, “I"
+    },
+    {
+      "before": "the phone</p>",
+      "after": "the phone.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/19/scourge-19-1/": [
@@ -2127,7 +2351,7 @@
   ],
   "https://parahumans.wordpress.com/2013/03/12/scourge-19-7/": [
     {
-      "before": "they<em> did, but how we</em> dealt",
+      "before": "they <em>did, but how we</em> dealt",
       "after": "they <em>did</em>, but <em>how</em> we dealt"
     },
     {
@@ -2162,6 +2386,16 @@
     {
       "before": "you,” I said. “But",
       "after": "you,” I said, “but"
+    },
+    {
+      "before": "completely recovered</em>.",
+      "after": "completely recovered.</em>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/23/chrysalis-20-2/": [
+    {
+      "before": "of anxiety</em>.",
+      "after": "of anxiety.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/26/chrysalis-20-3/": [
@@ -2347,6 +2581,10 @@
     {
       "before": "in,” I said. “Could",
       "after": "in,” I said, “could"
+    },
+    {
+      "before": " “ <em>We’re",
+      "after": "“<em>We’re"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/16/cell-22-6/": [
@@ -2361,6 +2599,10 @@
     {
       "before": "capes,” Chevalier said. “Burdened",
       "after": "capes,” Chevalier said, “burdened"
+    },
+    {
+      "before": "of it.</em>",
+      "after": "of it</em>."
     }
   ],
   "https://parahumans.wordpress.com/2013/05/18/interlude-22/": [
@@ -2373,9 +2615,13 @@
       "after": "it,” he said, “she"
     },
     {
+      "before": "“ I don’t",
+      "after": "“I don’t"
+    },
+    {
       "before": "confirmed okay",
       "after": "confirmed ok",
-      "_comment": "This is a forum post title and thus is probably informal and not event capitalized"
+      "_comment": "This is a forum post title and thus is probably informal and not even capitalized"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/": [
@@ -2386,11 +2632,15 @@
     {
       "before": "frank,” Teacher said. “I",
       "after": "frank,” Teacher said, “I"
+    },
+    {
+      "before": "their ears</p>",
+      "after": "their ears.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/25/drone-23-1/": [
     {
-      "before": "Defiant spoke , “Let’s",
+      "before": "Defiant spoke, “Let’s",
       "after": "Defiant spoke. “Let’s"
     },
     {
@@ -2532,6 +2782,10 @@
     {
       "before": "sheets pillows",
       "after": "sheets, pillows"
+    },
+    {
+      "before": "Golem responded</p>",
+      "after": "Golem responded.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/02/scarab-25-2/": [
@@ -2554,6 +2808,10 @@
     {
       "before": "<em>bugs I don’t like</em>",
       "after": "<em>bugs</em> I don’t like"
+    },
+    {
+      "before": "than this</em>.",
+      "after": "than this.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/11/scarab-25-5/": [
@@ -2592,6 +2850,12 @@
       "after": "avoided"
     }
   ],
+  "https://parahumans.wordpress.com/2013/07/16/interlude-25/": [
+    {
+      "before": "your <em>manners?”</em>",
+      "after": "your <em>manners</em>?”"
+    }
+  ],
   "https://parahumans.wordpress.com/2013/07/18/sting-26-1/": [
     {
       "before": "up,” I said. “The",
@@ -2606,6 +2870,10 @@
     {
       "before": "And gauntlet</em>, to reply to the last one",
       "after": "And gauntlet, to reply to the last one</em>"
+    },
+    {
+      "before": "a burst of alarm</em>.",
+      "after": "a burst of alarm.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/23/sting-26-3/": [
@@ -2676,6 +2944,10 @@
     {
       "before": "you,” he said. “I",
       "after": "you,” he said, “I"
+    },
+    {
+      "before": "froze him</em>.",
+      "after": "froze him.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/10/interlude-26/": [
@@ -2686,6 +2958,18 @@
     {
       "before": "rain: The",
       "after": "rain: the"
+    },
+    {
+      "before": "from one another</p>",
+      "after": "from one another.</p>"
+    },
+    {
+      "before": "fragmenting in greater numbers</p>",
+      "after": "fragmenting in greater numbers.</p>"
+    },
+    {
+      "before": "these past few years</p>",
+      "after": "these past few years.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/13/extinction-27-1/": [
@@ -2710,12 +2994,24 @@
     {
       "before": "Besides,” Tattletale said. “The",
       "after": "Besides,” Tattletale said, “the"
+    },
+    {
+      "before": "shift position</p>",
+      "after": "shift position.</p>"
+    },
+    {
+      "before": "“ Convenient.",
+      "after": "“Convenient."
     }
   ],
   "https://parahumans.wordpress.com/2013/08/20/extinction-27-3/": [
     {
       "before": "guess,” Sophia said. “You",
       "after": "guess,” Sophia said, “you"
+    },
+    {
+      "before": "said  “ But",
+      "after": "said. “But"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/22/extinction-27-4/": [
@@ -2750,6 +3046,10 @@
     {
       "before": "Weavers",
       "after": "Weaver’s"
+    },
+    {
+      "before": "Contessa’s power</em>.",
+      "after": "Contessa’s power.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/31/cockroaches-28-1/": [
@@ -2808,7 +3108,7 @@
       "after": "No reaction from the Simurgh"
     },
     {
-      "before": "One hundred and eighty<em> integers",
+      "before": "One hundred and eighty <em>integers",
       "after": "<em>One hundred and eighty integers"
     },
     {
@@ -2876,6 +3176,10 @@
     {
       "before": "<em>willingly</em>,” Weld said. “Before",
       "after": "<em>willingly</em>,” Weld said, “before"
+    },
+    {
+      "before": "<em>“Listen, we’re",
+      "after": "“<em>Listen, we’re"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/19/venom-29-1/": [
@@ -2986,6 +3290,10 @@
     {
       "before": "thing,” I said. “Was",
       "after": "thing,” I said, “was"
+    },
+    {
+      "before": "by Golem’s bindings</p>",
+      "after": "by Golem’s bindings.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/12/interlude-29/": [
@@ -3030,6 +3338,10 @@
     {
       "before": "anyone alleged with",
       "after": "anyone allied with"
+    },
+    {
+      "before": "coordinating two teams</em>.",
+      "after": "coordinating two teams.</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/22/speck-30-4/": [
@@ -3308,6 +3620,10 @@
     {
       "before": "camera follows”",
       "after": "camera follows.”"
+    },
+    {
+      "before": "background of his mind</p>",
+      "after": "background of his mind.</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
