@@ -16,10 +16,6 @@
       "after": "each others’ houses"
     },
     {
-      "before": "creepy crawly",
-      "after": "creepy-crawly"
-    },
-    {
       "before": "x-acto",
       "after": "X-Acto"
     }
@@ -1368,6 +1364,32 @@
       "after": "“…things are"
     }
   ],
+  "https://parahumans.wordpress.com/2012/04/24/parasite-10-1/": [
+    {
+      "before": "one shoulder, “Scout",
+      "after": "one shoulder. “Scout"
+    },
+    {
+      "before": "king sized",
+      "after": "king-sized"
+    },
+    {
+      "before": "one side, “What’s",
+      "after": "one side. “What’s"
+    },
+    {
+      "before": "lights</em>.",
+      "after": "lights.</em>"
+    },
+    {
+      "before": "groaning, “It’s",
+      "after": "groaning. “It’s"
+    },
+    {
+      "before": "mp3",
+      "after": "MP3"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/04/28/parasite-10-2/": [
     {
       "before": "So,” Weld said. “Keeping",
@@ -1376,12 +1398,134 @@
     {
       "before": "Master in the city",
       "after": "master in the city"
+    },
+    {
+      "before": "<em>“You gotta be kidding</em>.”",
+      "after": "“<em>You gotta be kidding.</em>”"
+    },
+    {
+      "before": "frowned, “Why did",
+      "after": "frowned. “Why did"
+    },
+    {
+      "before": "then sighed, “And",
+      "after": "then sighed. “And"
+    },
+    {
+      "before": "rose, “I seem",
+      "after": "rose. “I seem"
+    },
+    {
+      "before": "to Brian, “You",
+      "after": "to Brian. “You"
+    },
+    {
+      "before": "in, “He’s not",
+      "after": "in, “he’s not"
+    },
+    {
+      "before": "his head, “You",
+      "after": "his head. “You"
+    },
+    {
+      "before": "quiet, “I just",
+      "after": "quiet. “I just"
+    },
+    {
+      "before": "Brian, “You’re",
+      "after": "Brian. “You’re"
+    },
+    {
+      "before": "<em>Why</em>?  Why come",
+      "after": "<em>Why?</em> Why come"
+    },
+    {
+      "before": "‘Sides",
+      "after": "’Sides"
+    },
+    {
+      "before": "low, “If mistrust",
+      "after": "low, “if mistrust"
+    },
+    {
+      "before": "disinterested, “Don’t waste",
+      "after": "disinterested. “Don’t waste"
+    },
+    {
+      "before": "highest rated",
+      "after": "highest-rated"
+    },
+    {
+      "before": "Six-six-two",
+      "after": "six-six-two"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/01/parasite-10-3/": [
+    {
+      "before": "Regent doesn’t exactly",
+      "after": "Regent didn’t exactly"
+    },
+    {
+      "before": "powers, I knew",
+      "after": "powers; I knew"
+    },
+    {
+      "before": "shouted, “Charge Kid",
+      "after": "shouted. “Charge Kid"
+    },
+    {
+      "before": "When the dog",
+      "after": "The dog"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/05/parasite-10-4/": [
+    {
+      "before": "Epeios’",
+      "after": "Epeios’s"
+    },
+    {
+      "before": "sinous",
+      "after": "sinuous"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/08/parasite-10-5/": [
     {
       "before": "&amp;",
       "after": "and"
+    },
+    {
+      "before": "voice low, “This",
+      "after": "voice low. “This"
+    },
+    {
+      "before": "gift shop, We’ll meet",
+      "after": "gift shop; we’ll meet"
+    },
+    {
+      "before": "fetus, the features",
+      "after": "fetus: the features"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/12/parasite-10-6/": [
+    {
+      "before": "face me, “Shot?",
+      "after": "face me. “Shot?"
+    },
+    {
+      "before": "from Bitch, “Just",
+      "after": "from Bitch, “just"
+    },
+    {
+      "before": "tone bored, “Her",
+      "after": "tone bored. “Her"
+    },
+    {
+      "before": "fucked upness",
+      "after": "fucked-upness"
+    },
+    {
+      "before": "intimidated, “Will work",
+      "after": "intimidated, “will work"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/15/interlude-10/": [
@@ -1392,6 +1536,14 @@
     {
       "before": "said,” Regent shrugged. “Anger",
       "after": "said,” Regent shrugged, “anger"
+    },
+    {
+      "before": "the fuck soph",
+      "after": "the fuck Soph"
+    },
+    {
+      "before": "“Mom!”  He",
+      "after": "“Mom!” he"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/17/interlude-10-5-bonus/": [
@@ -1402,6 +1554,34 @@
     {
       "before": "thinker 7",
       "after": "thinker seven"
+    },
+    {
+      "before": "The Guild",
+      "after": "the Guild"
+    },
+    {
+      "before": "accented voice, “You",
+      "after": "accented voice, “you"
+    },
+    {
+      "before": "spoke, “Then I",
+      "after": "spoke. “Then I"
+    },
+    {
+      "before": "table top, “If you",
+      "after": "tabletop. “If you"
+    },
+    {
+      "before": "the Ocean",
+      "after": "the ocean"
+    },
+    {
+      "before": "completion?”  She",
+      "after": "completion?” she"
+    },
+    {
+      "before": "high risk",
+      "after": "high-risk"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/19/infestation-11-1/": [
