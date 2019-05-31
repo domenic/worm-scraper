@@ -1276,7 +1276,7 @@
       "after": "dislike him?</em>"
     },
     {
-      "before": "answered, annoyed, “ He gets",
+      "before": "answered, annoyed, “He gets",
       "after": "answered, annoyed. “He gets"
     },
     {
@@ -2379,10 +2379,6 @@
     {
       "before": "…Just focus",
       "after": "…just focus"
-    },
-    {
-      "before": "st ill",
-      "after": "still"
     },
     {
       "before": "Rogue friend",
