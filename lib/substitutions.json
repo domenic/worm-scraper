@@ -528,10 +528,6 @@
   ],
   "https://parahumans.wordpress.com/2012/01/10/tangle-6-9/": [
     {
-      "before": "I’m a <em>prisoner?</em>",
-      "after": "I’m a <em>prisoner</em>?"
-    },
-    {
       "before": "this,” he spoke. “But",
       "after": "this,” he spoke, “but"
     },
@@ -1022,10 +1018,6 @@
     {
       "before": "<em>Ah</em>.",
       "after": "<em>Ah.</em>"
-    },
-    {
-      "before": "<em>“All of us?”</em>",
-      "after": "“<em>All of us?</em>”"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/24/extermination-8-7/": [
@@ -1047,7 +1039,7 @@
     },
     {
       "before": "<em>This working?  This on?  Good.</em>",
-      "after": "<em>“This working?  This on?  Good.”</em>"
+      "after": "“<em>This working?  This on?  Good.</em>”"
     },
     {
       "before": "<em>Acknowledged</em>.  Her",
@@ -1594,6 +1586,16 @@
     {
       "before": "was.. how",
       "after": "was… how"
+    },
+    {
+      "before": "Dinah being kidnapped and leaving",
+      "after": "Dinah being kidnapped, and leaving"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/05/22/infestation-11-2/": [
+    {
+      "before": "attentio n",
+      "after": "attention"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/26/infestation-11-3/": [
@@ -1604,8 +1606,16 @@
   ],
   "https://parahumans.wordpress.com/2012/05/29/infestation-11-4/": [
     {
+      "before": "<em>‘No smoking",
+      "after": "‘<em>No smoking"
+    },
+    {
       "before": "of facility</em>‘",
       "after": "of facility</em>’"
+    },
+    {
+      "before": "<em> ‘Abuse or threats directed at staff or other residents will NOT be tolerated.’</em>",
+      "after": "‘<em>Abuse or threats directed at staff or other residents will NOT be tolerated.</em>’"
     },
     {
       "before": "wall: The",
@@ -1614,6 +1624,28 @@
     {
       "before": "Pritt,” Lisa admitted. “But",
       "after": "Pritt,” Lisa admitted, “but"
+    },
+    {
+      "before": "  In smaller print below was the message, ",
+      "after": "</p><p style=\"padding-left:30px;\">In smaller print below was the message,"
+    },
+    {
+      "before": "wanted to say, “We’re already",
+      "after": "wanted to say. “We’re already"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/02/infestation-11-5/": [
+    {
+      "before": "he hollered, “Whoever",
+      "after": "he hollered. “Whoever"
+    },
+    {
+      "before": "spoke, standing, “You’re",
+      "after": "spoke, standing. “You’re"
+    },
+    {
+      "before": "second time, “Who",
+      "after": "second time. “Who"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/05/infestation-11-6/": [
@@ -1624,18 +1656,106 @@
     {
       "before": "&amp;",
       "after": "and"
+    },
+    {
+      "before": "Countless mirror moved",
+      "after": "Countless mirrors moved"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/09/infestation-11-7/": [
+    {
+      "before": "I couldn’t be sure two might",
+      "after": "I couldn’t be sure; two might"
+    },
+    {
+      "before": "<p style=\"padding-left:30px;\">client one, and clients two",
+      "after": "<blockquote>\n<p>client one, and clients two"
+    },
+    {
+      "regExp": "<p style=\"padding-left:30px;\">",
+      "replacement": "<p>"
+    },
+    {
+      "before": "agreed-upon confidentiality.<br/>\n■  ",
+      "after": "agreed-upon confidentiality.</p>\n<ul>\n<li>"
+    },
+    {
+      "regExp": "<br/>\n■  ",
+      "replacement": "</li>\n<li>"
+    },
+    {
+      "before": "three, male.<br/>\nBoth vials",
+      "after": "three, male.</li>\n</ul>\n<p>Both vials"
+    },
+    {
+      "before": "to a Deviation scenario</p>",
+      "after": "to a Deviation scenario</p>\n</blockquote>"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/12/infestation-11-8/": [
     {
       "before": "Charlotte,” I frowned. “Look",
       "after": "Charlotte,” I frowned, “look"
+    },
+    {
+      "before": "Did they… was he",
+      "after": "Did they… Was he"
+    },
+    {
+      "before": "see the Doctor",
+      "after": "see the doctor",
+      "comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
+    },
+    {
+      "before": "the Doctor spoke",
+      "after": "the doctor spoke",
+      "comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
+    },
+    {
+      "before": "asinine confession again, “It’s",
+      "after": "asinine confession again. “It’s"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/16/interlude-11a/": [
     {
       "before": "<em>she</em>‘d",
       "after": "<em>she’d</em>"
+    },
+    {
+      "before": "Bentley!” She urged",
+      "after": "Bentley!” she urged"
+    },
+    {
+      "before": "“do you want?”",
+      "after": "“…do you want?”"
+    },
+    {
+      "before": "pretending?”, the",
+      "after": "pretending?” the"
+    },
+    {
+      "before": "“I—” Bitch paused, “Don’t",
+      "after": "“I—” Bitch paused. “Don’t"
+    },
+    {
+      "before": "<em>Bitch,</em>”",
+      "after": "<em>Bitch</em>,”"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/17/interlude-11b/": [
+    {
+      "before": "“Kayden,” Theo had",
+      "after": "“Kayden.” Theo had"
+    },
+    {
+      "before": "from shaking, “Let",
+      "after": "from shaking. “Let"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/18/interlude-11c/": [
+    {
+      "before": "Elle shouted, “No!’",
+      "after": "Elle shouted. “No!”"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/19/interlude-11d/": [
@@ -1646,12 +1766,38 @@
     {
       "before": "Dragon,” Colin whispered. “Are",
       "after": "Dragon,” Colin whispered, “are"
+    },
+    {
+      "before": "was able  The window",
+      "after": "was able.  The window"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/20/interlude-11e/": [
+    {
+      "before": "still talking, “You call",
+      "after": "still talking. “You call"
+    },
+    {
+      "before": "goals…” she winced, pressed one hand to her stomach, “Coincide",
+      "after": "goals…” She winced, pressed one hand to her stomach. “…coincide"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/21/interlude-11f/": [
     {
       "before": "my ‘candy</em>‘",
       "after": "my ‘candy’</em>"
+    },
+    {
+      "before": "Thirty Nine point",
+      "after": "Thirty-nine point"
+    },
+    {
+      "before": "<em>here.  Now</em>.”",
+      "after": "<em>here</em>.  <em>Now</em>.”"
+    },
+    {
+      "before": "“I’m sorry,” A girl’s",
+      "after": "“I’m sorry,” a girl’s"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/22/interlude-11g/": [
@@ -1686,6 +1832,20 @@
     {
       "before": "<em>Ça va?</em>",
       "after": "<i>Ça va?</i>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/06/23/interlude-11h/": [
+    {
+      "before": "Murder rat",
+      "after": "Murder Rat"
+    },
+    {
+      "before": "clap’?  Can",
+      "after": "clap?’  Can"
+    },
+    {
+      "before": "I… a therapist",
+      "after": "I… A therapist"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/26/plague-12-1/": [
@@ -1802,10 +1962,6 @@
     {
       "before": "Coil,” I said. “You",
       "after": "Coil,” I said, “you"
-    },
-    {
-      "before": "<em>“Speak for",
-      "after": "“<em>Speak for"
     }
   ],
   "https://parahumans.wordpress.com/2012/08/21/snare-13-8/": [
@@ -1956,10 +2112,6 @@
     {
       "before": "this,” Regent said. “I",
       "after": "this,” Regent said, “I"
-    },
-    {
-      "before": "wonder <em>why?</em>",
-      "after": "wonder <em>why</em>?"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/03/colony-15-6/": [
@@ -3358,10 +3510,6 @@
     {
       "before": "<em>willingly</em>,” Weld said. “Before",
       "after": "<em>willingly</em>,” Weld said, “before"
-    },
-    {
-      "before": "<em>“Listen, we’re",
-      "after": "“<em>Listen, we’re"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/19/venom-29-1/": [
