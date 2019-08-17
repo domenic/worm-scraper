@@ -14,7 +14,8 @@
   "bin": "lib/worm-scraper.js",
   "files": [
     "lib/",
-    "scaffolding/"
+    "scaffolding/",
+    "npm-shrinkwrap.json"
   ],
   "scripts": {
     "lint": "eslint lib"
