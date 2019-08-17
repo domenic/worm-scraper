@@ -1856,6 +1856,26 @@
     {
       "before": "—Or at least",
       "after": "—or at least"
+    },
+    {
+      "before": "You,” a man who might have been the patriarch of one of the families pointed at me, “You",
+      "after": "You.” A man who might have been the patriarch of one of the families pointed at me. “You"
+    },
+    {
+      "before": "years old, “What’s",
+      "after": "years old. “What’s"
+    },
+    {
+      "before": "ordered Sierra, “If these",
+      "after": "ordered Sierra. “If these"
+    },
+    {
+      "before": "new clothes, you can get",
+      "after": "new clothes; you can get"
+    },
+    {
+      "before": "out on.” I thought",
+      "after": "out on,” I thought"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/30/plague-12-2/": [
@@ -1870,16 +1890,48 @@
     {
       "before": "seems,” Hookwolf said. “The",
       "after": "seems,” Hookwolf said, “the"
+    },
+    {
+      "before": "the ocean and I couldn’t",
+      "after": "the ocean, and I couldn’t"
+    },
+    {
+      "before": "chuckling wryly, “You’re",
+      "after": "chuckling wryly. “You’re"
+    },
+    {
+      "before": "pointed out, “If we agreed",
+      "after": "pointed out. “If we agreed"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/03/plague-12-3/": [
     {
-      "before": "Noelle, “ Trickster said",
-      "after": "Noelle,” Trickster said"
+      "before": "Noelle, “ Trickster said, “You’ve asked",
+      "after": "Noelle,” Trickster said, “you’ve asked"
     },
     {
       "before": "indication,” Tattletale said. “We",
       "after": "indication,” Tattletale said, “we"
+    },
+    {
+      "before": "“Hello?’",
+      "after": "“Hello?”"
+    },
+    {
+      "before": "small voice, “You can",
+      "after": "small voice. “You can"
+    },
+    {
+      "before": "her,” Regent said. “But she can",
+      "after": "her,” Regent said, “but she can"
+    },
+    {
+      "before": "his teammates, “Mind giving",
+      "after": "his teammates. “Mind giving"
+    },
+    {
+      "before": "He smiled, “This is",
+      "after": "He smiled. “This is"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/07/plague-12-4/": [
@@ -1890,6 +1942,28 @@
     {
       "before": "sis,” Regent said. “I",
       "after": "sis,” Regent said, “I"
+    },
+    {
+      "before": "an actual laugh, “You",
+      "after": "an actual laugh. “You"
+    },
+    {
+      "before": "asked, “We die?",
+      "after": "asked. “We die?"
+    },
+    {
+      "before": "his direction, “No cheating",
+      "after": "his direction. “No cheating"
+    },
+    {
+      "before": "on Bonesaw, “And maybe",
+      "after": "on Bonesaw. “And maybe"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/07/10/plague-12-5/": [
+    {
+      "before": "The <em>Slaughterhouse Nine are here?</em>",
+      "after": "<em>The Slaughterhouse Nine are here?</em>"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/17/plague-12-7/": [
@@ -1902,6 +1976,10 @@
     {
       "before": "um,” she paused. “Couldn’t",
       "after": "um,” she paused, “couldn’t"
+    },
+    {
+      "before": "cure-all nor",
+      "after": "cure-all, nor"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/26/interlude-12%C2%BD/": [
@@ -1912,6 +1990,14 @@
     {
       "before": "Second task.—c</p>",
       "after": "Second task. —c</p>"
+    },
+    {
+      "before": "Thank you. —c.",
+      "after": "Thank you. —c"
+    },
+    {
+      "before": "He grinned, “But I want",
+      "after": "He grinned. “But I want"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/28/snare-13-1/": [
