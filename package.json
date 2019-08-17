@@ -29,8 +29,7 @@
     "thenify": "^3.3.0",
     "throat": "^5.0.0",
     "xmlserializer": "^0.6.1",
-    "yargs": "^13.3.0",
-    "zfill": "0.0.2"
+    "yargs": "^13.3.0"
   },
   "devDependencies": {
     "eslint": "6.1.0"

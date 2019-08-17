@@ -2114,11 +2114,6 @@
         "decamelize": "^1.2.0"
       }
     },
-    "zfill": {
-      "version": "0.0.2",
-      "resolved": "https://registry.npmjs.org/zfill/-/zfill-0.0.2.tgz",
-      "integrity": "sha1-tzfH9xhK13hMd4QNkgMczor3eUQ="
-    },
     "zip-stream": {
       "version": "2.1.2",
       "resolved": "https://registry.npmjs.org/zip-stream/-/zip-stream-2.1.2.tgz",
