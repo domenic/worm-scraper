@@ -25,6 +25,7 @@
     "cpr": "^3.0.1",
     "jsdom": "^15.1.1",
     "mkdirp-then": "^1.0.1",
+    "mz": "^2.7.0",
     "requisition": "^1.5.0",
     "rimraf-then": "^1.0.0",
     "thenify": "^3.3.0",
