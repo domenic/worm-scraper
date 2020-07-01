@@ -13,6 +13,7 @@
   "repository": "domenic/worm-scraper",
   "bin": "lib/worm-scraper.js",
   "files": [
+    "covers/",
     "lib/",
     "scaffolding/",
     "npm-shrinkwrap.json"
