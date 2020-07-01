@@ -1,9 +1,10 @@
 {
   "name": "worm-scraper",
-  "description": "Scrapes the web serial Worm into an eBook format",
+  "description": "Scrapes the web serial Worm and its sequel Ward into an eBook format",
   "keywords": [
     "ebook",
     "worm",
+    "ward",
     "parahuman",
     "scraper"
   ],
