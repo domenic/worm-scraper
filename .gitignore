@@ -2,5 +2,5 @@
 /npm-debug.log
 
 cache/
-book/
-Worm.epub
+staging/
+*.epub
