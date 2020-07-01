@@ -4118,7 +4118,7 @@
   ],
   "https://www.parahumans.net/2017/09/11/daybreak-1-1/": [
     {
-      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<p style=\"text-align: center;\"><strong>⊙</strong></p>",
+      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<hr/>",
       "after": "",
       "_comment": "This is out of place in an eBook."
     },
@@ -4137,6 +4137,13 @@
     {
       "before": "blunt instrument-I saw the",
       "after": "blunt instrument—I saw the"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/26/torch-7-4/": [
+    {
+      "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
+      "after": "",
+      "_comment": "This appears to be intentional, but it just duplicates the Next Chapter link (i.e. turning the page in the eBook), so we remove it"
     }
   ]
 }
