@@ -4121,16 +4121,6 @@
       "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<hr/>",
       "after": "",
       "_comment": "This is out of place in an eBook."
-    },
-    {
-      "before": "<a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"793d1c1f1c0b1c170d57303934181015\">[email protected]</a>",
-      "after": "Deferent.I@Mail",
-      "_comment": "These protected emails occur only twice in the entire book so we just hard-code it here instead of using techniques like https://usamaejaz.com/cloudflare-email-decoding/"
-    },
-    {
-      "before": "<a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b9fddcdfdccbdcd7cd97f0f9f4d8d0d5\">[email protected]</a>",
-      "after": "Deferent.I@Mail",
-      "_comment": "These protected emails occur only twice in the entire book so we just hard-code it here instead of using techniques like https://usamaejaz.com/cloudflare-email-decoding/"
     }
   ],
   "https://www.parahumans.net/2017/11/21/daybreak-1-4/": [
