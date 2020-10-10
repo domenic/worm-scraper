@@ -4129,6 +4129,22 @@
       "after": "blunt instrument—I saw the"
     }
   ],
+  "https://www.parahumans.net/2017/11/30/daybreak-1-7/": [
+    {
+      "before": "How do you even think rec—how do you think",
+      "after": "How do you even think rec— How do you think"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/01/daybreak-1-8/": [
+    {
+      "before": "parahumans online",
+      "after": "Parahumans Online"
+    },
+    {
+      "before": "<strong>Glitzglam *New Message*: I</strong>",
+      "after": "<strong>Glitzglam *New Message*:</strong> I"
+    }
+  ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
     {
       "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
