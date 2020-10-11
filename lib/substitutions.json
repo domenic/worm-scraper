@@ -4145,6 +4145,32 @@
       "after": "<strong>Glitzglam *New Message*:</strong> I"
     }
   ],
+  "https://www.parahumans.net/2017/12/16/flare-2-3/": [
+    {
+      "before": "two—piece",
+      "after": "two-piece"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/23/flare-2-5/": [
+    {
+      "before": "Swearing is fine In moderation",
+      "after": "Swearing is fine in moderation"
+    },
+    {
+      "before": "If you study Parahumans",
+      "after": "If you study parahumans"
+    },
+    {
+      "before": "—And a few interesting and",
+      "after": "—and a few interesting and"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/26/flare-2-6/": [
+    {
+      "before": "—Then maybe we avoid having",
+      "after": "—then maybe we avoid having"
+    }
+  ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
     {
       "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
