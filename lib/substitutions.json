@@ -488,6 +488,10 @@
     {
       "before": "Hi dad",
       "after": "Hi Dad"
+    },
+    {
+      "before": "After mom died",
+      "after": "After Mom died"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/17/tangle-6-2/": [
@@ -1394,6 +1398,10 @@
     {
       "before": "scratched-up hands, “No",
       "after": "scratched-up hands. “No"
+    },
+    {
+      "before": "If mom pushes",
+      "after": "If Mom pushes"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/17/sentinel-9-5/": [
@@ -2074,6 +2082,10 @@
     {
       "before": "I love you dad",
       "after": "I love you Dad"
+    },
+    {
+      "before": "leaving the space that mom had once occupied",
+      "after": "leaving the space that Mom had once occupied"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/17/plague-12-7/": [
@@ -2358,6 +2370,14 @@
     {
       "before": "was: Multitasking",
       "after": "was: multitasking"
+    },
+    {
+      "before": "of you and mom",
+      "after": "of you and Mom"
+    },
+    {
+      "before": "better pictures of mom",
+      "after": "better pictures of Mom"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/20/interlude-15/": [
@@ -2600,6 +2620,10 @@
     {
       "before": "the glass vial</p>",
       "after": "the glass vial.</p>"
+    },
+    {
+      "before": "discovering that mom was right",
+      "after": "discovering that Mom was right"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/14/migration-17-7/": [
@@ -4299,6 +4323,10 @@
     {
       "before": "To dad being",
       "after": "To Dad being"
+    },
+    {
+      "before": "and mom being business",
+      "after": "and Mom being business"
     }
   ],
   "https://www.parahumans.net/2017/12/09/flare-2-1/": [
@@ -4327,6 +4355,10 @@
     {
       "before": "two—piece",
       "after": "two-piece"
+    },
+    {
+      "before": "want to think about mom",
+      "after": "want to think about Mom"
     }
   ],
   "https://www.parahumans.net/2017/12/23/flare-2-5/": [
@@ -4379,10 +4411,32 @@
       "after": "my flight toward Tristan"
     }
   ],
+  "https://www.parahumans.net/2018/01/20/glare-3-5/": [
+    {
+      "before": "What mom did, I was pretty",
+      "after": "What Mom did, I was pretty"
+    },
+    {
+      "before": "you let yourself believe mom’s words",
+      "after": "you let yourself believe Mom’s words"
+    },
+    {
+      "before": "You mean mom",
+      "after": "You mean Mom"
+    },
+    {
+      "before": "say I’m just like mom again",
+      "after": "say I’m just like Mom again"
+    }
+  ],
   "https://www.parahumans.net/2018/01/23/glare-3-6/": [
     {
       "before": "I  had a conversation with dad last night",
       "after": "I had a conversation with Dad last night"
+    },
+    {
+      "before": "Bye mom",
+      "after": "Bye Mom"
     }
   ],
   "https://www.parahumans.net/2018/01/25/glare-interlude-3/": [
@@ -4405,12 +4459,28 @@
     {
       "before": "that’s who mom and dad are",
       "after": "that’s who Mom and Dad are"
+    },
+    {
+      "before": "but when mom had cancer",
+      "after": "but when Mom had cancer"
+    }
+  ],
+  "https://www.parahumans.net/2018/02/17/shade-4-6/": [
+    {
+      "before": "mom’s verdict was",
+      "after": "Mom’s verdict was"
     }
   ],
   "https://www.parahumans.net/2018/02/20/shade-4-7/": [
     {
       "before": "Mom and dad were looking",
       "after": "Mom and Dad were looking"
+    }
+  ],
+  "https://www.parahumans.net/2018/02/22/shade-interlude-4c/": [
+    {
+      "before": "Yes mom",
+      "after": "Yes Mom"
     }
   ],
   "https://www.parahumans.net/2018/03/17/shadow-5-6/": [
@@ -4476,6 +4546,10 @@
     {
       "before": "the  hole in the floor and the pieces of dad",
       "after": "the hole in the floor and the pieces of Dad"
+    },
+    {
+      "before": "Past what was left of mom",
+      "after": "Past what was left of Mom"
     }
   ],
   "https://www.parahumans.net/2018/05/27/eclipse-x-2/": [
@@ -4526,6 +4600,18 @@
     {
       "before": "“Eat,” dad said",
       "after": "“Eat,” Dad said"
+    },
+    {
+      "before": "she gave the bathroom what mom called a once-over",
+      "after": "she gave the bathroom what Mom called a once-over"
+    },
+    {
+      "before": "say or do when mom got like this",
+      "after": "say or do when Mom got like this"
+    },
+    {
+      "before": "cooked for me,” mom said",
+      "after": "cooked for me,” Mom said"
     }
   ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
@@ -4564,6 +4650,12 @@
       "after": "and Mom and Dad’s rules"
     }
   ],
+  "https://www.parahumans.net/2018/10/23/polarize-10-1/": [
+    {
+      "before": "You let mom talk and",
+      "after": "You let Mom talk and"
+    }
+  ],
   "https://www.parahumans.net/2018/12/01/polarize-10-11/": [
     {
       "before": "See dad, sleep.",
@@ -4574,6 +4666,10 @@
     {
       "before": "threw the the man",
       "after": "threw the man"
+    },
+    {
+      "before": "Reminded me of mom",
+      "after": "Reminded me of Mom"
     }
   ],
   "https://www.parahumans.net/2019/01/15/blinding-11-8/": [
@@ -4586,6 +4682,26 @@
     {
       "before": "someone had been been called at three",
       "after": "someone had been called at three"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/09/interlude-12-z/": [
+    {
+      "before": "mom just so happened to be busy",
+      "after": "Mom just so happened to be busy"
+    },
+    {
+      "before": "Or when mom had",
+      "after": "Or when Mom had"
+    },
+    {
+      "before": "mom messed up",
+      "after": "Mom messed up"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/12/heavens-12-1/": [
+    {
+      "before": "And mom’s implying I want",
+      "after": "And Mom’s implying I want"
     }
   ],
   "https://www.parahumans.net/2019/02/19/interlude-12-e/": [
@@ -4604,10 +4720,36 @@
       "after": "bounce off of the people"
     }
   ],
+  "https://www.parahumans.net/2019/03/05/heavens-12-5/": [
+    {
+      "before": "mom, are you okay being",
+      "after": "Mom, are you okay being"
+    }
+  ],
   "https://www.parahumans.net/2019/03/09/heavens-12-6/": [
     {
       "before": "wrists behind them around around the stomach",
       "after": "wrists behind them around the stomach"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/26/heavens-12-none/": [
+    {
+      "before": "if I inherit mom’s whole",
+      "after": "if I inherit Mom’s whole"
+    },
+    {
+      "before": "wasn’t mom’s <em>whole</em>",
+      "after": "wasn’t Mom’s <em>whole</em>"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/29/heavens-12-x/": [
+    {
+      "before": "go to sleep,” Her mother said",
+      "after": "go to sleep,” her mother said"
+    },
+    {
+      "before": "Night mom",
+      "after": "Night Mom"
     }
   ],
   "https://www.parahumans.net/2019/04/09/black-13-3/": [
@@ -4638,6 +4780,20 @@
     {
       "before": "and the the undo button",
       "after": "and the undo button"
+    },
+    {
+      "before": "progress with mom is slow",
+      "after": "progress with Mom is slow"
+    },
+    {
+      "before": "Promises to mom and dad",
+      "after": "Promises to Mom and Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/08/breaking-14-7/": [
+    {
+      "before": "Regretting sending mom here",
+      "after": "Regretting sending Mom here"
     }
   ],
   "https://www.parahumans.net/2019/06/15/breaking-14-9/": [
@@ -4700,6 +4856,18 @@
       "after": "mind of Dad after his head injury"
     }
   ],
+  "https://www.parahumans.net/2019/10/05/sundown-17-2/": [
+    {
+      "before": "egg for Crystal and mom",
+      "after": "egg for Crystal and Mom"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/15/sundown-17-5/": [
+    {
+      "before": "Is mom walking without difficulty",
+      "after": "Is Mom walking without difficulty"
+    }
+  ],
   "https://www.parahumans.net/2019/10/19/sundown-17-6/": [
     {
       "before": "Probably dad",
@@ -4710,6 +4878,24 @@
     {
       "before": "art good enough to to keep forever",
       "after": "art good enough to keep forever"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/02/sundown-17-10/": [
+    {
+      "before": "wanted you to go to mom if you",
+      "after": "wanted you to go to Mom if you"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/09/interlude-17-y-sundown/": [
+    {
+      "before": "Because it made mom come",
+      "after": "Because it made Mom come"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/19/radiation-18-2/": [
+    {
+      "before": "looking for mom in the crowd",
+      "after": "looking for Mom in the crowd"
     }
   ],
   "https://www.parahumans.net/2019/11/26/radiation-18-4/": [
@@ -4734,12 +4920,54 @@
     {
       "before": "or when you divorce dad",
       "after": "or when you divorce Dad"
+    },
+    {
+      "before": "Hey mom?  Mom",
+      "after": "Hey Mom?  Mom"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
+    {
+      "before": "look after mom",
+      "after": "look after Mom"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/28/infrared-19-e/": [
+    {
+      "before": "so mom doesn’t end up alone",
+      "after": "so Mom doesn’t end up alone"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/04/infrared-19-8/": [
+    {
+      "before": "Lessons from mom, age thirteen",
+      "after": "Lessons from Mom, age thirteen"
     }
   ],
   "https://www.parahumans.net/2020/02/08/infrared-19-9/": [
     {
       "before": "had insisted she or dad drive us",
       "after": "had insisted she or Dad drive us"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/11/infrared-19-f/": [
+    {
+      "before": "while Aisha stuck with mom",
+      "after": "while Aisha stuck with Mom"
+    },
+    {
+      "before": "while mom did her own thing",
+      "after": "while Mom did her own thing"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/15/infrared-19-10/": [
+    {
+      "before": "Stuff to do with mom",
+      "after": "Stuff to do with Mom"
+    },
+    {
+      "before": "thinking about mom getting on my case",
+      "after": "thinking about Mom getting on my case"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
@@ -4758,6 +4986,22 @@
     {
       "before": "mourning Eric and dad",
       "after": "mourning Eric and Dad"
+    },
+    {
+      "before": "ongoing fight with mom",
+      "after": "ongoing fight with Mom"
+    },
+    {
+      "before": "His eyes locked to mom",
+      "after": "His eyes locked to Mom"
+    },
+    {
+      "before": "the backup that mom provided",
+      "after": "the backup that Mom provided"
+    },
+    {
+      "before": "Back to mom",
+      "after": "Back to Mom"
     }
   ],
   "https://www.parahumans.net/?p=3365&preview=true": [
@@ -4780,6 +5024,14 @@
     {
       "before": "Your issue with dad",
       "after": "Your issue with Dad"
+    },
+    {
+      "before": "My boss is-was <em>Narwhal,</em> mom",
+      "after": "My boss is—was <em>Narwhal</em>, Mom"
+    },
+    {
+      "before": "he mom shook her head",
+      "after": "her mom shook her head"
     }
   ]
 }
