@@ -30,6 +30,12 @@
       "after": "east end"
     }
   ],
+  "https://parahumans.wordpress.com/2011/06/21/gestation-1-4/": [
+    {
+      "before": "gang colors got out and and joined",
+      "after": "gang colors got out and joined"
+    }
+  ],
   "https://parahumans.wordpress.com/2011/06/28/gestation-1-6/": [
     {
       "before": "That a girl",
@@ -80,6 +86,10 @@
     {
       "before": "He said, when he was",
       "after": "he said, when he was"
+    },
+    {
+      "before": "attempt at trying to to salvage things",
+      "after": "attempt at trying to salvage things"
     }
   ],
   "https://parahumans.wordpress.com/2011/07/23/insinuation-2-6/": [
@@ -114,6 +124,10 @@
     {
       "before": "night” Brian said, “I",
       "after": "night,” Brian said. “I"
+    },
+    {
+      "before": "follow where my my index finger",
+      "after": "follow where my index finger"
     }
   ],
   "https://parahumans.wordpress.com/2011/08/16/agitation-3-3/": [
@@ -142,6 +156,10 @@
     {
       "before": "out?” My",
       "after": "out?” my"
+    },
+    {
+      "before": "gangbangers easy access to to the rest of the city",
+      "after": "gangbangers easy access to the rest of the city"
     }
   ],
   "https://parahumans.wordpress.com/2011/08/23/agitation-3-5/": [
@@ -164,18 +182,30 @@
     {
       "before": "direction</p>",
       "after": "direction.</p>"
+    },
+    {
+      "before": "had in her and and stood up",
+      "after": "had in her hand and stood up"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/06/agitation-3-9/": [
     {
       "before": "Aegis’s must have felt",
       "after": "Aegis must have felt"
+    },
+    {
+      "before": "before she made made her way back",
+      "after": "before she made her way back"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/10/agitation-3-10/": [
     {
       "before": "meaning his aim was",
       "after": "his aim was"
+    },
+    {
+      "before": "The scant few that that remained",
+      "after": "The scant few that remained"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/13/agitation-3-11/": [
@@ -212,6 +242,10 @@
     {
       "before": ",” I looked up from my work again, “",
       "after": ".” I looked up from my work again. “"
+    },
+    {
+      "before": "make sense for him to to pull a fast one",
+      "after": "make sense for him to pull a fast one"
     }
   ],
   "https://parahumans.wordpress.com/2011/09/27/shell-4-2/": [
@@ -396,6 +430,10 @@
     {
       "before": "Bitch,” I murmured. “If you",
       "after": "Bitch,” I murmured, “if you"
+    },
+    {
+      "before": "what I could see of the the second floor",
+      "after": "what I could see of the second floor"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
@@ -692,6 +730,12 @@
       "after": "wounds.</p>"
     }
   ],
+  "https://parahumans.wordpress.com/2012/02/14/buzz-7-9/": [
+    {
+      "before": "with enough force to to bowl us",
+      "after": "with enough force to bowl us"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/02/18/buzz-7-10/": [
     {
       "before": "Coil,” I spoke. “It’s",
@@ -732,6 +776,10 @@
     {
       "before": "<em>here?  Now?</em>",
       "after": "<em>here</em>?  <em>Now</em>?"
+    },
+    {
+      "before": "one image came in contact with with something that",
+      "after": "one image came in contact with something that"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/03/extermination-8-1/": [
@@ -746,6 +794,10 @@
     {
       "before": "<em>listened to,</em>",
       "after": "<em>listened to</em>."
+    },
+    {
+      "before": "make out over the the wailing air raid",
+      "after": "make out over the wailing air raid"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/06/extermination-8-2/": [
@@ -764,6 +816,10 @@
     {
       "before": "featureless plain",
       "after": "featureless plane"
+    },
+    {
+      "before": "majority of him was was muscled",
+      "after": "majority of him was muscled"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%C2%BD-bonus/": [
@@ -822,6 +878,14 @@
     {
       "before": "A third person gravely injured",
       "after": "A third person was gravely injured"
+    },
+    {
+      "before": "hunkered down to to watch",
+      "after": "hunkered down to watch"
+    },
+    {
+      "before": "crash when when the wave rolled",
+      "after": "crash when the wave rolled"
     },
     {
       "regExp": "\n ?<em>\\s*([^<]+)</em>(<br/>|</p>)",
@@ -992,6 +1056,22 @@
     {
       "before": "collapse</p>",
       "after": "collapse.</p>"
+    },
+    {
+      "before": "diverted by the the PHQ’s",
+      "after": "diverted by the PHQ’s"
+    },
+    {
+      "before": "Much as I’d like to to be",
+      "after": "Much as I’d like it to be"
+    },
+    {
+      "before": "the blur of the halberd to to cut lines",
+      "after": "the blur of the halberd to cut lines"
+    },
+    {
+      "before": "broken up by the the wall above the door",
+      "after": "broken up by the wall above the door"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/20/extermination-8-6/": [
@@ -1530,6 +1610,10 @@
     {
       "before": "“Mom!”  He",
       "after": "“Mom!” he"
+    },
+    {
+      "before": "So what did he do do you?",
+      "after": "So what did he do to you?"
     }
   ],
   "https://parahumans.wordpress.com/2012/05/17/interlude-10-5-bonus/": [
@@ -1920,6 +2004,10 @@
     {
       "before": "He smiled, “This is",
       "after": "He smiled. “This is"
+    },
+    {
+      "before": "and his his eyes drifted",
+      "after": "and his eyes drifted"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/07/plague-12-4/": [
@@ -2292,6 +2380,10 @@
     {
       "before": "—But we definitely",
       "after": "—but we definitely"
+    },
+    {
+      "before": "all the way up to the the nape of my neck",
+      "after": "all the way up to the nape of my neck"
     }
   ],
   "https://parahumans.wordpress.com/2012/12/13/interlude-16-donation-bonus-2/": [
@@ -2408,6 +2500,10 @@
     {
       "before": "other,” Krouse said. “We’ll",
       "after": "other,” Krouse said, “we’ll"
+    },
+    {
+      "before": "to the point that she was pushing pushing past",
+      "after": "to the point that she was pushing past"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/11/migration-17-4/": [
@@ -2436,6 +2532,10 @@
     {
       "before": "side,” Luke said. “But",
       "after": "side,” Luke said, “but"
+    },
+    {
+      "before": "ninety percent or more of the the city",
+      "after": "ninety percent or more of the city"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/13/migration-17-6/": [
@@ -2778,6 +2878,12 @@
       "before": "Unfortunate tinker",
       "after": "Unfortunate tinker",
       "_comment": "See convert.js; this corrects an over-correction"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/19/interlude-19/": [
+    {
+      "before": "white noise that had subsumed her her thoughts when",
+      "after": "white noise that had subsumed her thoughts when"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/21/chrysalis-20-1/": [
@@ -3556,6 +3662,10 @@
     {
       "before": "be,” Glenn said. “Accept",
       "after": "be,” Glenn said, “accept"
+    },
+    {
+      "before": "beginning of the movie, or or says",
+      "after": "beginning of the movie, or says"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/17/interlude-28/": [
@@ -3852,6 +3962,10 @@
     {
       "before": "moved Case fifty-threes",
       "after": "moved case fifty-threes"
+    },
+    {
+      "before": "I revoked my control over her, leaving in in the middle",
+      "after": "I revoked my control over her, leaving her in the middle"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/26/speck-30-6/": [
@@ -4141,12 +4255,54 @@
     {
       "before": "—And a few interesting and",
       "after": "—and a few interesting and"
+    },
+    {
+      "before": "make it it feel any less painful",
+      "after": "make it feel any less painful"
     }
   ],
   "https://www.parahumans.net/2017/12/26/flare-2-6/": [
     {
       "before": "—Then maybe we avoid having",
       "after": "—then maybe we avoid having"
+    },
+    {
+      "before": "She huffed out out a small",
+      "after": "She huffed out a small"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/30/flare-2-7/": [
+    {
+      "before": "hooked on the the stacked plastic",
+      "after": "hooked on the stacked plastic"
+    },
+    {
+      "before": "time with the the",
+      "after": "time with the"
+    }
+  ],
+  "https://www.parahumans.net/2018/01/02/flare-interlude-2/": [
+    {
+      "before": "saying all of that that, he would",
+      "after": "saying all of that, he would"
+    }
+  ],
+  "https://www.parahumans.net/2018/01/13/glare-3-3/": [
+    {
+      "before": "my flight toward toward Tristan",
+      "after": "my flight toward Tristan"
+    }
+  ],
+  "https://www.parahumans.net/2018/01/25/glare-interlude-3/": [
+    {
+      "before": "much like the the machines",
+      "after": "much like the machines"
+    }
+  ],
+  "https://www.parahumans.net/2018/03/17/shadow-5-6/": [
+    {
+      "before": "have a a specter",
+      "after": "have a specter"
     }
   ],
   "https://www.parahumans.net/2018/03/20/shadow-5-7/": [
@@ -4155,10 +4311,28 @@
       "after": "her order.  Two boxes"
     }
   ],
-  "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
+  "https://www.parahumans.net/2018/03/31/shadow-5-11/": [
     {
-      "before": "unfolded umbrella.A metal",
-      "after": "unfolded umbrella.  A metal"
+      "before": "side of her her chin",
+      "after": "side of her chin"
+    }
+  ],
+  "https://www.parahumans.net/2018/04/28/pitch-6-5/": [
+    {
+      "before": "of material to to bandage",
+      "after": "of material to bandage"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/08/pitch-6-8/": [
+    {
+      "before": "check in on on Ashley and Rain",
+      "after": "check in on Ashley and Rain"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/19/torch-7-2/": [
+    {
+      "before": "you had to deal with with could have",
+      "after": "you had to deal with could have"
     }
   ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
@@ -4166,6 +4340,170 @@
       "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
       "after": "",
       "_comment": "This appears to be intentional, but it just duplicates the Next Chapter link (i.e. turning the page in the eBook), so we remove it"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/27/eclipse-x-2/": [
+    {
+      "before": "because she she was caught",
+      "after": "because she was caught"
+    },
+    {
+      "before": "answer the the second question",
+      "after": "answer the second question"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/19/torch-7-9/": [
+    {
+      "before": "abused by the the transition",
+      "after": "abused by the transition"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/23/torch-7-10/": [
+    {
+      "before": "black with a a shaved",
+      "after": "black with a shaved"
+    },
+    {
+      "before": "Kenzie almost yipped out out a, “<em>No.</em>”",
+      "after": "Kenzie almost yipped out, a “<em>No.</em>”"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
+    {
+      "before": "unfolded umbrella.A metal",
+      "after": "unfolded umbrella.  A metal"
+    }
+  ],
+  "https://www.parahumans.net/2018/10/16/gleaming-interlude-9-z/": [
+    {
+      "before": "cliff he was was expected",
+      "after": "cliff he was expected"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/11/interlude-10-y/": [
+    {
+      "before": "shape of the the moment",
+      "after": "shape of the moment"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
+    {
+      "before": "threw the the man",
+      "after": "threw the man"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/15/blinding-11-8/": [
+    {
+      "before": "and it it pulled him",
+      "after": "and it pulled him"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
+    {
+      "before": "someone had been been called at three",
+      "after": "someone had been called at three"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/02/heavens-12-all/": [
+    {
+      "before": "bounce off of the the people",
+      "after": "bounce off of the people"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/09/heavens-12-6/": [
+    {
+      "before": "wrists behind them around around the stomach",
+      "after": "wrists behind them around the stomach"
+    }
+  ],
+  "https://www.parahumans.net/2019/04/09/black-13-3/": [
+    {
+      "before": "you have have surmised",
+      "after": "you have surmised"
+    }
+  ],
+  "https://www.parahumans.net/2019/04/23/black-13-7/": [
+    {
+      "before": "looked like they were were painted on",
+      "after": "looked like they were painted on"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/11/black-13-11/": [
+    {
+      "before": "been scummy and and tried",
+      "after": "been scummy and tried"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/25/breaking-14-3/": [
+    {
+      "before": "actively tamper with it it",
+      "after": "actively tamper with it"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/04/breaking-14-6/": [
+    {
+      "before": "and the the undo button",
+      "after": "and the undo button"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/16/dying-15-4/": [
+    {
+      "before": "There was was no ‘good’",
+      "after": "There was no ‘good’"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/20/dying-15-5/": [
+    {
+      "before": "worth of of water",
+      "after": "worth of water"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/17/from-within-16-2/": [
+    {
+      "before": "a small part of that was being being grumpy",
+      "after": "a small part of that was being grumpy"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/20/from-within-16-3/": [
+    {
+      "before": "small face on on a fifteen inch",
+      "after": "small face on a fifteen inch"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/10/from-within-16-9/": [
+    {
+      "before": "changers and and shakers",
+      "after": "changers and shakers"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/22/sundown-17-7/": [
+    {
+      "before": "art good enough to to keep forever",
+      "after": "art good enough to keep forever"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/26/radiation-18-4/": [
+    {
+      "before": "bucked a little with the the impact",
+      "after": "bucked a little with the impact"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/07/radiation-18-7/": [
+    {
+      "before": "Couple of of times a month",
+      "after": "Couple of times a month"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/21/last-20-e4/": [
+    {
+      "before": "grown around the the maille sheath",
+      "after": "grown around the maille sheath"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/25/last-20-e5/": [
+    {
+      "before": "She has has some past therapy",
+      "after": "She has had some past therapy"
     }
   ]
 }
