@@ -2074,6 +2074,10 @@
     {
       "before": "to,” Grue said. “But",
       "after": "to,” Grue said, “but"
+    },
+    {
+      "before": "through.We crossed",
+      "after": "through.  We crossed"
     }
   ],
   "https://parahumans.wordpress.com/2012/09/15/prey-14-4/": [
@@ -4143,6 +4147,18 @@
     {
       "before": "—Then maybe we avoid having",
       "after": "—then maybe we avoid having"
+    }
+  ],
+  "https://www.parahumans.net/2018/03/20/shadow-5-7/": [
+    {
+      "before": "her order.Two boxes",
+      "after": "her order.  Two boxes"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
+    {
+      "before": "unfolded umbrella.A metal",
+      "after": "unfolded umbrella.  A metal"
     }
   ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
