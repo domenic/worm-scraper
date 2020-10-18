@@ -126,10 +126,6 @@
       "after": "Brian said, “but"
     },
     {
-      "before": "<em>better.</em>",
-      "after": "<em>better</em>."
-    },
-    {
       "before": "he said. “So let’s",
       "after": "he said, “so let’s"
     },
@@ -874,10 +870,6 @@
       "after": "CD-6.</em></p>"
     },
     {
-      "before": "<em>pushing.</em>",
-      "after": "<em>pushing</em>."
-    },
-    {
       "before": "<em>Narwhal,</em>",
       "after": "Narwhal,"
     },
@@ -946,10 +938,6 @@
     {
       "before": "<em>Negative</em>.",
       "after": "<em>Negative.</em>"
-    },
-    {
-      "before": "<em>up.</em>",
-      "after": "<em>up</em>."
     }
   ],
   "https://parahumans.wordpress.com/2012/03/17/extermination-8-5/": [
@@ -2024,12 +2012,6 @@
       "after": "hon,” Celia said, “we’ve"
     }
   ],
-  "https://parahumans.wordpress.com/2012/08/11/snare-13-5/": [
-    {
-      "before": "<em>similar.</em>",
-      "after": "<em>similar</em>."
-    }
-  ],
   "https://parahumans.wordpress.com/2012/08/14/snare-13-6/": [
     {
       "before": "Grue,” Trickster said. “Get",
@@ -2508,10 +2490,6 @@
   ],
   "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
     {
-      "before": "<em>untrustworthy.</em>",
-      "after": "<em>untrustworthy</em>."
-    },
-    {
       "before": "know,” Tattletale said. “But",
       "after": "know,” Tattletale said, “but"
     },
@@ -2669,10 +2647,6 @@
     {
       "before": "better,” I said. “Eidolon",
       "after": "better,” I said, “Eidolon"
-    },
-    {
-      "before": "giving her <em>us.</em>",
-      "after": "giving her <em>us</em>."
     }
   ],
   "https://parahumans.wordpress.com/2013/02/14/interlude-18-donation-bonus-4/": [
