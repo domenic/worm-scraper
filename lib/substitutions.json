@@ -3540,6 +3540,10 @@
     {
       "before": "surface  Just the",
       "after": "surface.  Just the"
+    },
+    {
+      "before": "three birdcage capes",
+      "after": "three Birdcage capes"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/27/interlude-27/": [
@@ -4297,6 +4301,12 @@
     {
       "before": "much like the the machines",
       "after": "much like the machines"
+    }
+  ],
+  "https://www.parahumans.net/2018/02/03/shade-4-3/": [
+    {
+      "before": "ex-birdcage",
+      "after": "ex-Birdcage"
     }
   ],
   "https://www.parahumans.net/2018/03/17/shadow-5-6/": [
