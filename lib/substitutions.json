@@ -116,6 +116,16 @@
       "after": "explained, “here’s"
     }
   ],
+  "https://parahumans.wordpress.com/2011/08/02/insinuation-2-9/": [
+    {
+      "before": "Hey dad",
+      "after": "Hey Dad"
+    },
+    {
+      "before": "Really dad",
+      "after": "Really Dad"
+    }
+  ],
   "https://parahumans.wordpress.com/2011/08/09/agitation-3-1/": [
     {
       "before": "Along the boardwalk",
@@ -474,6 +484,10 @@
     {
       "before": "<em>me</em>,” she",
       "after": "<em>me</em>.” She"
+    },
+    {
+      "before": "Hi dad",
+      "after": "Hi Dad"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/17/tangle-6-2/": [
@@ -1918,6 +1932,18 @@
     {
       "before": "I… a therapist",
       "after": "I… A therapist"
+    },
+    {
+      "before": "look after dad",
+      "after": "look after Dad"
+    },
+    {
+      "before": "Why heal dad now",
+      "after": "Why heal Dad now"
+    },
+    {
+      "before": "you just leave dad to suffer",
+      "after": "you just leave Dad to suffer"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/26/plague-12-1/": [
@@ -2040,6 +2066,14 @@
     {
       "before": "The <em>Slaughterhouse Nine are here?</em>",
       "after": "<em>The Slaughterhouse Nine are here?</em>"
+    },
+    {
+      "before": "getting my costume off and getting dad somewhere safe",
+      "after": "getting my costume off and getting Dad somewhere safe"
+    },
+    {
+      "before": "I love you dad",
+      "after": "I love you Dad"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/17/plague-12-7/": [
@@ -2146,6 +2180,10 @@
     {
       "before": "<em>, like</em>",
       "after": ", <em>like</em>"
+    },
+    {
+      "before": "Then dad ordered you to kill him",
+      "after": "Then Dad ordered you to kill him"
     }
   ],
   "https://parahumans.wordpress.com/2012/09/08/prey-14-2/": [
@@ -2326,6 +2364,10 @@
     {
       "before": "before,” Dragon replied. “Is",
       "after": "before,” Dragon replied, “is"
+    },
+    {
+      "before": "Once dad and the sibs realized",
+      "after": "Once Dad and the sibs realized"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/24/monarch-16-1/": [
@@ -2884,6 +2926,10 @@
     {
       "before": "white noise that had subsumed her her thoughts when",
       "after": "white noise that had subsumed her thoughts when"
+    },
+    {
+      "before": "Hey dad",
+      "after": "Hey Dad"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/21/chrysalis-20-1/": [
@@ -2906,6 +2952,10 @@
     {
       "before": "attacked the boardwalk",
       "after": "attacked the Boardwalk"
+    },
+    {
+      "before": "Hi dad",
+      "after": "Hi Dad"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/30/chrysalis-20-4/": [
@@ -2975,6 +3025,26 @@
     {
       "before": "—But they’re only",
       "after": "—but they’re only"
+    },
+    {
+      "before": "harder than it’d be to explain to dad",
+      "after": "harder than it’d be to explain to Dad"
+    },
+    {
+      "before": "all of the stuff that dad’s probably finding",
+      "after": "all of the stuff that Dad’s probably finding"
+    },
+    {
+      "before": "telling you or dad about it",
+      "after": "telling you or Dad about it"
+    },
+    {
+      "before": "I didn’t leave dad",
+      "after": "I didn’t leave Dad"
+    },
+    {
+      "before": "I know you and dad won’t approve",
+      "after": "I know you and Dad won’t approve"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/16/imago-21-3/": [
@@ -4225,6 +4295,18 @@
       "after": "blunt instrument—I saw the"
     }
   ],
+  "https://www.parahumans.net/2017/11/28/daybreak-1-6/": [
+    {
+      "before": "To dad being",
+      "after": "To Dad being"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/09/flare-2-1/": [
+    {
+      "before": "Some is mom and dad’s",
+      "after": "Some is Mom and Dad’s"
+    }
+  ],
   "https://www.parahumans.net/2017/11/30/daybreak-1-7/": [
     {
       "before": "How do you even think rec—how do you think",
@@ -4297,6 +4379,12 @@
       "after": "my flight toward Tristan"
     }
   ],
+  "https://www.parahumans.net/2018/01/23/glare-3-6/": [
+    {
+      "before": "I  had a conversation with dad last night",
+      "after": "I had a conversation with Dad last night"
+    }
+  ],
   "https://www.parahumans.net/2018/01/25/glare-interlude-3/": [
     {
       "before": "much like the the machines",
@@ -4309,16 +4397,44 @@
       "after": "ex-Birdcage"
     }
   ],
+  "https://www.parahumans.net/2018/02/13/shade-interlude-4b/": [
+    {
+      "before": "it was just dad and me",
+      "after": "it was just Dad and me"
+    },
+    {
+      "before": "that’s who mom and dad are",
+      "after": "that’s who Mom and Dad are"
+    }
+  ],
+  "https://www.parahumans.net/2018/02/20/shade-4-7/": [
+    {
+      "before": "Mom and dad were looking",
+      "after": "Mom and Dad were looking"
+    }
+  ],
   "https://www.parahumans.net/2018/03/17/shadow-5-6/": [
     {
       "before": "have a a specter",
       "after": "have a specter"
+    },
+    {
+      "before": "Spare stuff from dad",
+      "after": "Spare stuff from Dad"
     }
   ],
   "https://www.parahumans.net/2018/03/20/shadow-5-7/": [
     {
       "before": "her order.Two boxes",
       "after": "her order.  Two boxes"
+    },
+    {
+      "before": "You and dad",
+      "after": "You and Dad"
+    },
+    {
+      "before": "Enjoy time with dad",
+      "after": "Enjoy time with Dad"
     }
   ],
   "https://www.parahumans.net/2018/03/31/shadow-5-11/": [
@@ -4350,6 +4466,16 @@
       "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
       "after": "",
       "_comment": "This appears to be intentional, but it just duplicates the Next Chapter link (i.e. turning the page in the eBook), so we remove it"
+    },
+    {
+      "before": "those hectic days after dad’s head injury",
+      "after": "those hectic days after Dad’s head injury"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/26/eclipse-x-1/": [
+    {
+      "before": "the  hole in the floor and the pieces of dad",
+      "after": "the hole in the floor and the pieces of Dad"
     }
   ],
   "https://www.parahumans.net/2018/05/27/eclipse-x-2/": [
@@ -4360,6 +4486,12 @@
     {
       "before": "answer the the second question",
       "after": "answer the second question"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/12/torch-7-7/": [
+    {
+      "before": "and I can call dad",
+      "after": "and I can call Dad"
     }
   ],
   "https://www.parahumans.net/2018/06/19/torch-7-9/": [
@@ -4376,6 +4508,36 @@
     {
       "before": "Kenzie almost yipped out out a, “<em>No.</em>”",
       "after": "Kenzie almost yipped out, a “<em>No.</em>”"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/26/torch-interlude-7-x/": [
+    {
+      "before": "Mom and dad were still at the table",
+      "after": "Mom and Dad were still at the table"
+    },
+    {
+      "before": "new counter and sink mom and dad had put in",
+      "after": "new counter and sink Mom and Dad had put in"
+    },
+    {
+      "before": "mom set down the plates for dad and then herself",
+      "after": "Mom set down the plates for Dad and then herself"
+    },
+    {
+      "before": "“Eat,” dad said",
+      "after": "“Eat,” Dad said"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
+    {
+      "before": "<p>Mom and dad.</p>",
+      "after": "<p>Mom and Dad.</p>"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/31/beacon-8-9/": [
+    {
+      "before": "you know that dad and I saying",
+      "after": "you know that dad and I saying"
     }
   ],
   "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
@@ -4396,6 +4558,18 @@
       "after": "shape of the moment"
     }
   ],
+  "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
+    {
+      "before": "and mom and dad’s rules",
+      "after": "and Mom and Dad’s rules"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/01/polarize-10-11/": [
+    {
+      "before": "See dad, sleep.",
+      "after": "See Dad, sleep."
+    }
+  ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
     {
       "before": "threw the the man",
@@ -4412,6 +4586,16 @@
     {
       "before": "someone had been been called at three",
       "after": "someone had been called at three"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/19/interlude-12-e/": [
+    {
+      "before": "I want dad",
+      "after": "I want Dad"
+    },
+    {
+      "before": "I need dad",
+      "after": "I need Dad"
     }
   ],
   "https://www.parahumans.net/2019/03/02/heavens-12-all/": [
@@ -4456,6 +4640,24 @@
       "after": "and the undo button"
     }
   ],
+  "https://www.parahumans.net/2019/06/15/breaking-14-9/": [
+    {
+      "before": "You stay away from mom, you stay away from dad",
+      "after": "You stay away from Mom, you stay away from Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/02/dying-15-a/": [
+    {
+      "before": "this sad old man made her think of dad",
+      "after": "this sad old man made her think of Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/13/dying-15-3/": [
+    {
+      "before": "Didn’t ask about mom, dad, or",
+      "after": "Didn’t ask about Mom, Dad, or"
+    }
+  ],
   "https://www.parahumans.net/2019/07/16/dying-15-4/": [
     {
       "before": "There was was no ‘good’",
@@ -4480,10 +4682,28 @@
       "after": "small face on a fifteen inch"
     }
   ],
+  "https://www.parahumans.net/2019/08/31/from-within-16-6/": [
+    {
+      "before": "letters I wrote to dad’s friends",
+      "after": "letters I wrote to Dad’s friends"
+    }
+  ],
   "https://www.parahumans.net/2019/09/10/from-within-16-9/": [
     {
       "before": "changers and and shakers",
       "after": "changers and shakers"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/01/sundown-17-1/": [
+    {
+      "before": "mind of dad after his head injury",
+      "after": "mind of Dad after his head injury"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/19/sundown-17-6/": [
+    {
+      "before": "Probably dad",
+      "after": "Probably Dad"
     }
   ],
   "https://www.parahumans.net/2019/10/22/sundown-17-7/": [
@@ -4504,6 +4724,24 @@
       "after": "Couple of times a month"
     }
   ],
+  "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
+    {
+      "before": "I thought of dad, seeing him hug my mother",
+      "after": "I thought of Dad, seeing him hug my mother"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/11/infrared-19-b/": [
+    {
+      "before": "or when you divorce dad",
+      "after": "or when you divorce Dad"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/08/infrared-19-9/": [
+    {
+      "before": "had insisted she or dad drive us",
+      "after": "had insisted she or Dad drive us"
+    }
+  ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
     {
       "before": "grown around the the maille sheath",
@@ -4514,6 +4752,34 @@
     {
       "before": "She has has some past therapy",
       "after": "She has had some past therapy"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/28/last-20-e6/": [
+    {
+      "before": "mourning Eric and dad",
+      "after": "mourning Eric and Dad"
+    }
+  ],
+  "https://www.parahumans.net/?p=3365&preview=true": [
+    {
+      "before": "saying dad had custody",
+      "after": "saying Dad had custody"
+    },
+    {
+      "before": "I lied and said you and dad gave",
+      "after": "I lied and said you and Dad gave"
+    },
+    {
+      "before": "their reservations about you and dad.  But whatever</em>.",
+      "after": "their reservations about you and Dad.  But whatever.</em>"
+    },
+    {
+      "before": "decide if it’s you or dad",
+      "after": "decide if it’s you or Dad"
+    },
+    {
+      "before": "Your issue with dad",
+      "after": "Your issue with Dad"
     }
   ]
 }
