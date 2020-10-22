@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "archiver": "^4.0.1",
+    "cli-progress": "^3.8.2",
     "cpr": "^3.0.1",
     "jsdom": "^16.2.2",
     "requisition": "^1.5.0",
