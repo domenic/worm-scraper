@@ -28,7 +28,6 @@
     "jsdom": "^16.2.2",
     "requisition": "^1.5.0",
     "throat": "^5.0.0",
-    "xmlserializer": "^0.6.1",
     "yargs": "^15.3.1"
   },
   "devDependencies": {

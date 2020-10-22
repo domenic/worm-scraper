@@ -5,7 +5,7 @@
       "after": "bugs: flies, ants"
     },
     {
-      "before": "<p><em>Brief note from the author:  This story isn’t intended for young or sensitive readers.  Readers who are on the lookout for <a href=\"http://www.urbandictionary.com/define.php?term=Trigger%20warning&amp;defid=6195009\">trigger warnings</a> are advised to give Worm a pass.</em></p>\n<hr/>\n",
+      "before": "<p><em>Brief note from the author:  This story isn’t intended for young or sensitive readers.  Readers who are on the lookout for <a href=\"http://www.urbandictionary.com/define.php?term=Trigger%20warning&amp;defid=6195009\">trigger warnings</a> are advised to give Worm a pass.</em></p>\n<hr />\n",
       "after": "",
       "_comment": "The pseudo-trigger warning is out of place in an eBook."
     }
@@ -906,15 +906,15 @@
       "after": "crash when the wave rolled"
     },
     {
-      "regExp": "\n ?<em>\\s*([^<]+)</em>(<br/>|</p>)",
+      "regExp": "\n ?<em>\\s*([^<]+)</em>(<br />|</p>)",
       "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>"
     },
     {
-      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<]+)</em>(<br/>|</p>)",
+      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<]+)</em>(<br />|</p>)",
       "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>"
     },
     {
-      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<\n]+)<br/>\n([^>\n]+)</em><br/>\n",
+      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<\n]+)<br />\n([^>\n]+)</em><br />\n",
       "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>\n<p style=\"padding-left:30px;\"><i>$2</i></p>\n"
     }
   ],
@@ -1770,15 +1770,15 @@
       "replacement": "<p>"
     },
     {
-      "before": "agreed-upon confidentiality.<br/>\n■  ",
+      "before": "agreed-upon confidentiality.<br />\n■  ",
       "after": "agreed-upon confidentiality.</p>\n<ul>\n<li>"
     },
     {
-      "regExp": "<br/>\n■  ",
+      "regExp": "<br />\n■  ",
       "replacement": "</li>\n<li>"
     },
     {
-      "before": "three, male.<br/>\nBoth vials",
+      "before": "three, male.<br />\nBoth vials",
       "after": "three, male.</li>\n</ul>\n<p>Both vials"
     },
     {
@@ -1904,24 +1904,24 @@
       "after": "<p><i>Sweet Honey—</i></p>"
     },
     {
-      "before": "<p><em>Love me, love me, you know you wanna love me…</em><br/>\n<em>Love me, love me, you know you wanna love me…</em></p>",
-      "after": "<p><i>Love me, love me, you know you wanna love me…<br/>\nLove me, love me, you know you wanna love me…</i></p>"
+      "before": "<p><em>Love me, love me, you know you wanna love me…</em><br />\n<em>Love me, love me, you know you wanna love me…</em></p>",
+      "after": "<p><i>Love me, love me, you know you wanna love me…<br />\nLove me, love me, you know you wanna love me…</i></p>"
     },
     {
-      "before": "<p><em>Love me, you?<br/>\nLove me, true?</em></p>",
-      "after": "<p><i>Love me, you?<br/>\nLove me, true?</i></p>"
+      "before": "<p><em>Love me, you?<br />\nLove me, true?</em></p>",
+      "after": "<p><i>Love me, you?<br />\nLove me, true?</i></p>"
     },
     {
-      "before": "<p><em>Crazed, kooky, cracked, crazy,</em> <br/>\n<em>Nutty, barmy, mad for me…</em></p>",
-      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nNutty, barmy, mad for me…</i></p>"
+      "before": "<p><em>Crazed, kooky, cracked, crazy,</em> <br />\n<em>Nutty, barmy, mad for me…</em></p>",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br />\nNutty, barmy, mad for me…</i></p>"
     },
     {
-      "before": "<p><em><em>Crazed, kooky, cracked, crazy,</em><br/>\nMental, dotty, whacked, loopy…</em></p>",
-      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nMental, dotty, whacked, loopy…</i></p>"
+      "before": "<p><em><em>Crazed, kooky, cracked, crazy,</em><br />\nMental, dotty, whacked, loopy…</em></p>",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br />\nMental, dotty, whacked, loopy…</i></p>"
     },
     {
-      "before": "<p><em>Crazed, kooky, cracked, crazy,<br/>\n<em>Nutty, screwy, mentally diseased…</em><br/>\n</em> She ",
-      "after": "<p><i>Crazed, kooky, cracked, crazy,<br/>\nNutty, screwy, mentally diseased…</i></p>\n<p>She "
+      "before": "<p><em>Crazed, kooky, cracked, crazy,<br />\n<em>Nutty, screwy, mentally diseased…</em><br />\n</em> She ",
+      "after": "<p><i>Crazed, kooky, cracked, crazy,<br />\nNutty, screwy, mentally diseased…</i></p>\n<p>She "
     },
     {
       "before": "<em>Ça va?</em>",
@@ -2206,7 +2206,7 @@
   ],
   "https://parahumans.wordpress.com/2012/09/11/prey-14-3/": [
     {
-      "before": "truck reached<br/>\nthe other Nine",
+      "before": "truck reached<br />\nthe other Nine",
       "after": "truck reached the other Nine"
     },
     {
@@ -2266,7 +2266,7 @@
   ],
   "https://parahumans.wordpress.com/2012/10/18/interlude-15-donation-bonus/": [
     {
-      "before": "volunteered, <em>asked<br/>\n</em> to",
+      "before": "volunteered, <em>asked<br />\n</em> to",
       "after": "volunteered, <em>asked</em> to"
     },
     {
@@ -3365,7 +3365,7 @@
   "https://parahumans.wordpress.com/2013/06/25/interlude-24-donation-bonus-1/": [
     {
       "before": "silence like this.  Divide: They",
-      "after": "silence like this.<br/>  Divide: They"
+      "after": "silence like this.<br />  Divide: They"
     },
     {
       "before": "Bay,” Wanton said. “Not",
@@ -3441,7 +3441,7 @@
     },
     {
       "before": "SimurghNotes",
-      "after": "Simurgh<br/>Notes"
+      "after": "Simurgh<br />Notes"
     },
     {
       "before": "avoided-",
@@ -4238,7 +4238,7 @@
       "after": "Imp: I’ve"
     },
     {
-      "before": "Tattletale:<br/>\nwaiting?",
+      "before": "Tattletale:<br />\nwaiting?",
       "after": "Tattletale: waiting?"
     },
     {
@@ -4308,7 +4308,7 @@
   ],
   "https://www.parahumans.net/2017/09/11/daybreak-1-1/": [
     {
-      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<hr/>",
+      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<hr />",
       "after": "",
       "_comment": "This is out of place in an eBook."
     }
