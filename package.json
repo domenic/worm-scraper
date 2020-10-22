@@ -23,16 +23,16 @@
     "lint": "eslint lib"
   },
   "dependencies": {
-    "archiver": "^4.0.1",
+    "archiver": "^5.0.2",
     "cli-progress": "^3.8.2",
     "cpr": "^3.0.1",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.4.0",
     "requisition": "^1.5.0",
     "throat": "^5.0.0",
-    "yargs": "^15.3.1"
+    "yargs": "^16.1.0"
   },
   "devDependencies": {
-    "eslint": "7.3.1"
+    "eslint": "^7.11.0"
   },
   "engines": {
     "node": ">=12.10.0"
