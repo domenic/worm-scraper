@@ -4757,6 +4757,38 @@
     {
       "before": "millions—<em>tens of millions-</em> is",
       "after": "millions—<em>tens of millions</em>—is"
+    },
+    {
+      "before": "“—And frankly,” Mr. Nieves said",
+      "after": "“—and frankly,” Mr. Nieves said"
+    },
+    {
+      "before": "Because, Balminder,” Kurt said. “You were plausible",
+      "after": "Because, Balminder,” Kurt said, “you were plausible"
+    },
+    {
+      "before": "she aid",
+      "after": "she said"
+    }
+  ],
+  "https://www.parahumans.net/2018/04/10/shadow-interlude-5-y/": [
+    {
+      "before": "Hopefully—I’m hoping she figures out",
+      "after": "Hopefully— I’m hoping she figures out"
+    },
+    {
+      "before": "…It’s not so important when",
+      "after": "…it’s not so important when"
+    }
+  ],
+  "https://www.parahumans.net/2018/04/17/pitch-6-2/": [
+    {
+      "before": "very clear words, only ‘ERIN’ and ‘NO-‘.",
+      "after": "very clear words, only ‘ERIN’ and ‘NO—’."
+    },
+    {
+      "before": "The Mcveay’s",
+      "after": "The McVeays"
     }
   ],
   "https://www.parahumans.net/2018/04/21/pitch-6-3/": [
@@ -4783,18 +4815,87 @@
     {
       "before": "Cradle said.  his tone was",
       "after": "Cradle said.  His tone was"
+    },
+    {
+      "before": "“…Multiply the grudge,”",
+      "after": "“…multiply the grudge,”"
+    },
+    {
+      "before": "used flight to stead myself",
+      "after": "used flight to steady myself"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/05/pitch-6-7/": [
+    {
+      "before": "“—And we wanted to ask for your",
+      "after": "“—and we wanted to ask for your"
+    },
+    {
+      "before": "while you were bloody—I shouldn’t be",
+      "after": "while you were bloody— I shouldn’t be"
     }
   ],
   "https://www.parahumans.net/2018/05/08/pitch-6-8/": [
     {
       "before": "check in on on Ashley and Rain",
       "after": "check in on Ashley and Rain"
+    },
+    {
+      "before": "earth Shin",
+      "after": "Earth Shin"
+    },
+    {
+      "before": "one Jackass said",
+      "after": "one jackass said"
+    },
+    {
+      "before": "an Über-neighborhood",
+      "after": "an uber-neighborhood",
+      "_comment": "This seems to lose its umlaut in English; see e.g. https://www.dictionary.com/browse/uber. It's certainly not capitalized."
+    }
+  ],
+  "https://www.parahumans.net/2018/05/11/pitch-6-9/": [
+    {
+      "before": "bunch of Jackasses that",
+      "after": "bunch of jackasses that"
+    },
+    {
+      "before": "some of the Jackasses",
+      "after": "some of the jackasses"
+    },
+    {
+      "before": "one of the Jackasses turned",
+      "after": "one of the jackasses turned"
+    },
+    {
+      "before": "The Jackass next to Vince",
+      "after": "The jackass next to Vince"
+    },
+    {
+      "before": "couple of the Jackasses’",
+      "after": "couple of the jackasses"
+    },
+    {
+      "before": "I could hear her, “I’m trying",
+      "after": "I could hear her. “I’m trying"
+    },
+    {
+      "before": "all-hands on deck",
+      "after": "all-hands-on-deck"
+    },
+    {
+      "before": "the Junior Captain said",
+      "after": "the junior captain said"
     }
   ],
   "https://www.parahumans.net/2018/05/19/torch-7-2/": [
     {
       "before": "you had to deal with with could have",
       "after": "you had to deal with could have"
+    },
+    {
+      "before": "—And from other horrors.",
+      "after": "—and from other horrors."
     }
   ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
