@@ -4581,6 +4581,12 @@
       "after": "hair he had.  It was long"
     }
   ],
+  "https://www.parahumans.net/2018/02/24/shadow-5-1/": [
+    {
+      "before": "thermos of regular tap water</p>",
+      "after": "thermos of regular tap water.</p>"
+    }
+  ],
   "https://www.parahumans.net/2018/03/06/shadow-5-4/": [
     {
       "before": "It’s—My forcefield moves",
@@ -4661,6 +4667,10 @@
     {
       "before": "with Masters in mind",
       "after": "with masters in mind"
+    },
+    {
+      "before": "paralyzed started moving</p>",
+      "after": "paralyzed started moving.</p>"
     }
   ],
   "https://www.parahumans.net/2018/03/31/shadow-5-11/": [
@@ -4781,6 +4791,10 @@
     {
       "before": "used flight to stead myself",
       "after": "used flight to steady myself"
+    },
+    {
+      "before": "Capes converged, ready to guard</p>",
+      "after": "Capes converged, ready to guard.</p>"
     }
   ],
   "https://www.parahumans.net/2018/05/05/pitch-6-7/": [
@@ -4897,6 +4911,18 @@
       "after": "no words.  And there"
     }
   ],
+  "https://www.parahumans.net/2018/05/31/eclipse-x-6/": [
+    {
+      "before": "a desperate edge to her feelings</p>",
+      "after": "a desperate edge to her feelings.</p>"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/01/eclipse-x-7/": [
+    {
+      "before": "dotting the ‘i’s and slashing the ‘Q’s</p>",
+      "after": "dotting the ‘i’s and slashing the ‘Q’s.</p>"
+    }
+  ],
   "https://www.parahumans.net/2018/06/02/eclipse-x-8/": [
     {
       "before": "Bonesaw” Blasto said",
@@ -4983,6 +5009,10 @@
     {
       "before": "use their surveillance” Kenzie said",
       "after": "use their surveillance,” Kenzie said"
+    },
+    {
+      "before": "and then hit buttons</p>",
+      "after": "and then hit buttons.</p>"
     }
   ],
   "https://www.parahumans.net/2018/07/17/beacon-8-5/": [
@@ -5021,6 +5051,12 @@
     {
       "before": "who are free now.  they’re out there",
       "after": "who are free now.  They’re out there"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/18/beacon-interlude-8-y/": [
+    {
+      "before": "A sufficient impact or distraction</p>",
+      "after": "A sufficient impact or distraction.</p>"
     }
   ],
   "https://www.parahumans.net/2018/08/28/gleaming-9-3/": [
@@ -5095,6 +5131,12 @@
       "after": "You let Mom talk and"
     }
   ],
+  "https://www.parahumans.net/2018/10/27/polarize-10-2/": [
+    {
+      "before": "Sveta said, leaning on me</p>",
+      "after": "Sveta said, leaning on me.</p>"
+    }
+  ],
   "https://www.parahumans.net/2018/11/03/polarize-10-4/": [
     {
       "before": "services of mercenaries.  depending on timing",
@@ -5127,6 +5169,12 @@
       "after": "confines of the suit, and rearranged herself"
     }
   ],
+  "https://www.parahumans.net/2018/11/24/interlude-10-x/": [
+    {
+      "before": "that would be in time  Hopefully</p>",
+      "after": "that would be in time.  Hopefully.</p>"
+    }
+  ],
   "https://www.parahumans.net/2018/11/27/polarize-10-10/": [
     {
       "before": "all about how Masters have",
@@ -5147,6 +5195,10 @@
     {
       "before": "Reminded me of mom",
       "after": "Reminded me of Mom"
+    },
+    {
+      "before": "more fragile than it should have been</p>",
+      "after": "more fragile than it should have been.</p>"
     }
   ],
   "https://www.parahumans.net/2019/01/15/blinding-11-8/": [
@@ -5157,6 +5209,12 @@
     {
       "before": "<em>Victoria-</em>flesh",
       "after": "<em>Victoria</em>-flesh"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/19/interlude-11-b/": [
+    {
+      "before": "loading up trucks with basic supplies</p>",
+      "after": "loading up trucks with basic supplies.</p>"
     }
   ],
   "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
@@ -5241,6 +5299,10 @@
     {
       "before": "mom, are you okay being",
       "after": "Mom, are you okay being"
+    },
+    {
+      "before": "we didn’t resume the discussion</p>",
+      "after": "we didn’t resume the discussion.</p>"
     }
   ],
   "https://www.parahumans.net/2019/03/09/heavens-12-6/": [
@@ -5303,6 +5365,10 @@
     {
       "before": "walls stone and wood.  the building",
       "after": "walls stone and wood.  The building"
+    },
+    {
+      "before": "he asked</p>",
+      "after": "he asked.</p>"
     }
   ],
   "https://www.parahumans.net/2019/04/13/black-13-4/": [
@@ -5421,6 +5487,12 @@
       "after": "wall met ceiling.  The wall was smooth"
     }
   ],
+  "https://www.parahumans.net/2019/07/09/dying-15-2/": [
+    {
+      "before": "I told Precipice</p>",
+      "after": "I told Precipice.</p>"
+    }
+  ],
   "https://www.parahumans.net/2019/07/13/dying-15-3/": [
     {
       "before": "Didn’t ask about mom, dad, or",
@@ -5437,6 +5509,12 @@
     {
       "before": "worth of of water",
       "after": "worth of water"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/23/dying-15-6/": [
+    {
+      "before": "The teams had finished picking</p>",
+      "after": "The teams had finished picking.</p>"
     }
   ],
   "https://www.parahumans.net/2019/07/27/dying-15-7/": [
@@ -5503,6 +5581,12 @@
       "after": "carried on, out of"
     }
   ],
+  "https://www.parahumans.net/2019/09/28/from-within-16-z/": [
+    {
+      "before": "ducked their heads down and hurried</p>",
+      "after": "ducked their heads down and hurried.</p>"
+    }
+  ],
   "https://www.parahumans.net/2019/10/01/sundown-17-1/": [
     {
       "before": "mind of dad after his head injury",
@@ -5541,12 +5625,20 @@
     {
       "before": "art good enough to to keep forever",
       "after": "art good enough to keep forever"
+    },
+    {
+      "before": "Golem explained</p>",
+      "after": "Golem explained.</p>"
     }
   ],
   "https://www.parahumans.net/2019/11/02/sundown-17-10/": [
     {
       "before": "wanted you to go to mom if you",
       "after": "wanted you to go to Mom if you"
+    },
+    {
+      "before": "that didn’t betray too much</p>",
+      "after": "that didn’t betray too much.</p>"
     }
   ],
   "https://www.parahumans.net/2019/11/09/interlude-17-y-sundown/": [
@@ -5581,6 +5673,10 @@
     {
       "before": "you go.  no joke, no wiggle",
       "after": "you go.  No joke, no wiggle"
+    },
+    {
+      "before": "some business headquarters I was in</p>",
+      "after": "some business headquarters I was in.</p>"
     }
   ],
   "https://www.parahumans.net/2019/12/03/radiation-18-6/": [
@@ -5593,6 +5689,16 @@
     {
       "before": "Couple of of times a month",
       "after": "Couple of times a month"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/28/infrared-19-2/": [
+    {
+      "before": "a violent exclamation</p>",
+      "after": "a violent exclamation.</p>"
+    },
+    {
+      "before": "<p>Three seconds</p>",
+      "after": "<p>Three seconds.</p>"
     }
   ],
   "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
@@ -5627,6 +5733,14 @@
     {
       "before": "Love Lost is Master-class",
       "after": "Love Lost is master-class"
+    },
+    {
+      "before": "opportunity to handpick people</p>",
+      "after": "opportunity to handpick people.</p>"
+    },
+    {
+      "before": "pause, drew its attention</p>",
+      "after": "pause, drew its attention.</p>"
     }
   ],
   "https://www.parahumans.net/2020/01/14/infrared-19-c/": [
