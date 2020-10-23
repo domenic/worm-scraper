@@ -74,7 +74,7 @@
   ],
   "https://parahumans.wordpress.com/2011/07/09/insinuation-2-2/": [
     {
-      "before": "simply, “Bug”",
+      "before": "simply, “Bug.”",
       "after": "simply, ‘Bug’."
     },
     {
@@ -361,10 +361,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2011/10/29/shell-4-11/": [
-    {
-      "before": "eyes, I see”",
-      "after": "eyes, I see.”"
-    },
     {
       "before": "bugging the f-, uh",
       "after": "bugging the f—, uh"
@@ -680,10 +676,6 @@
   ],
   "https://parahumans.wordpress.com/2012/01/28/buzz-7-4/": [
     {
-      "before": "on the way”",
-      "after": "on the way.”"
-    },
-    {
       "before": "better I’ll feel,” he was",
       "after": "better I’ll feel.” He was"
     },
@@ -693,10 +685,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/01/31/buzz-7-5/": [
-    {
-      "before": "in force”",
-      "after": "in force.”"
-    },
     {
       "before": "realized,” Brian spoke. “I",
       "after": "realized,” Brian spoke, “I"
@@ -1752,10 +1740,6 @@
   ],
   "https://parahumans.wordpress.com/2012/06/05/infestation-11-6/": [
     {
-      "before": "we do here”",
-      "after": "we do here.”"
-    },
-    {
       "before": "&amp;",
       "after": "and"
     },
@@ -2276,10 +2260,6 @@
     {
       "before": "volunteered, <em>asked<br />\n</em> to",
       "after": "volunteered, <em>asked</em> to"
-    },
-    {
-      "before": "her father’s abilities”",
-      "after": "her father’s abilities.”"
     }
   ],
   "https://parahumans.wordpress.com/2012/10/25/interlude-15-donation-bonus-2/": [
@@ -2418,12 +2398,6 @@
       "after": "that,” Grue said, “is"
     }
   ],
-  "https://parahumans.wordpress.com/2012/11/29/interlude-16-donation-bonus/": [
-    {
-      "before": "in the darkness”",
-      "after": "in the darkness.”"
-    }
-  ],
   "https://parahumans.wordpress.com/2012/12/01/monarch-16-3/": [
     {
       "before": "two teams” I said",
@@ -2443,10 +2417,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/12/11/monarch-16-6/": [
-    {
-      "before": "Lost in thought”",
-      "after": "Lost in thought.”"
-    },
     {
       "before": "—But we definitely",
       "after": "—but we definitely"
@@ -2513,10 +2483,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/01/05/monarch-16-13/": [
-    {
-      "before": "word on both points”",
-      "after": "word on both points.”"
-    },
     {
       "before": "doubts,” I said. “You",
       "after": "doubts,” I said, “you"
@@ -3343,12 +3309,6 @@
       "after": "And,” I said, “we"
     }
   ],
-  "https://parahumans.wordpress.com/2013/06/11/crushed-24-2/": [
-    {
-      "before": "To Behemoth”",
-      "after": "To Behemoth.”"
-    }
-  ],
   "https://parahumans.wordpress.com/2013/06/15/crushed-24-3/": [
     {
       "before": "<em>Phir Sē echoed me.  “</em>",
@@ -3506,10 +3466,6 @@
     {
       "before": "the other-.",
       "after": "the other—"
-    },
-    {
-      "before": "“Yeah”",
-      "after": "“Yeah.”"
     },
     {
       "before": "Vista,” he said. “Another",
@@ -3688,10 +3644,6 @@
   ],
   "https://parahumans.wordpress.com/2013/08/31/cockroaches-28-1/": [
     {
-      "before": "lot of supplies in”",
-      "after": "lot of supplies in.”"
-    },
-    {
       "before": "could save issue",
       "after": "could say issue"
     },
@@ -3799,10 +3751,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/09/17/interlude-28/": [
-    {
-      "before": "“Password protected”",
-      "after": "“Password protected.”"
-    },
     {
       "before": "Case fifty-threes",
       "after": "case fifty-threes"
@@ -4214,10 +4162,6 @@
       "after": "<em>property of Nero</em>"
     },
     {
-      "before": "“Stay, Hooligan”",
-      "after": "“Stay, Hooligan.”"
-    },
-    {
       "before": "<em>Nero</em>, Why don’t we get",
       "after": "<em>Nero</em>, why don’t we get"
     },
@@ -4242,10 +4186,6 @@
     {
       "before": "vageuly",
       "after": "vaguely"
-    },
-    {
-      "before": "standby”",
-      "after": "standby.”"
     },
     {
       "before": "minutes passed.  the chance rose",
@@ -4286,10 +4226,6 @@
     {
       "before": "the ‘cage",
       "after": "the ’cage"
-    },
-    {
-      "before": "camera follows”",
-      "after": "camera follows.”"
     },
     {
       "before": "background of his mind</p>",
@@ -4663,6 +4599,10 @@
     {
       "before": "Peaches and—You mean peachy",
       "after": "Peaches and— You mean peachy"
+    },
+    {
+      "before": "Victoria” she",
+      "after": "Victoria,” she"
     }
   ],
   "https://www.parahumans.net/2018/03/20/shadow-5-7/": [
@@ -4799,6 +4739,10 @@
     {
       "before": "wall of bodies.  the woman behind",
       "after": "wall of bodies.  The woman behind"
+    },
+    {
+      "before": "dying, motherfuckers” the bearded",
+      "after": "dying, motherfuckers,” the bearded"
     }
   ],
   "https://www.parahumans.net/2018/04/24/pitch-6-4/": [
