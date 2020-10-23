@@ -3185,6 +3185,10 @@
     {
       "before": "<em>But.</em>“ He",
       "after": "<em>But.</em>”  He"
+    },
+    {
+      "before": "is led by <em>non-</em>capes",
+      "after": "is led by <em>non</em>-capes"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/09/cell-22-3/": [
@@ -4290,6 +4294,10 @@
     {
       "before": "background of his mind</p>",
       "after": "background of his mind.</p>"
+    },
+    {
+      "before": "boyfriends are my <em>ex-</em>boyfriends",
+      "after": "boyfriends are my <em>ex</em>-boyfriends"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
@@ -4409,6 +4417,12 @@
     {
       "before": "Some is mom and dad’s",
       "after": "Some is Mom and Dad’s"
+    }
+  ],
+  "https://www.parahumans.net/2017/12/12/flare-2-2/": [
+    {
+      "before": "<em>-Victoria</em>",
+      "after": "<em>—Victoria</em>"
     }
   ],
   "https://www.parahumans.net/2017/12/16/flare-2-3/": [
@@ -4725,12 +4739,24 @@
     {
       "before": "were Masters and strangers",
       "after": "were masters and strangers"
+    },
+    {
+      "before": "or if he said something like ‘<em>You’ or “Everyone</em>’, I could",
+      "after": "or if he said something like ‘<em>You</em>’ or ‘<em>Everyone</em>’, I could"
     }
   ],
   "https://www.parahumans.net/2018/04/07/shadow-interlude-5-x/": [
     {
       "before": "objectvity",
       "after": "objectivity"
+    },
+    {
+      "before": "“Are the production rates",
+      "after": "“—are the production rates"
+    },
+    {
+      "before": "millions—<em>tens of millions-</em> is",
+      "after": "millions—<em>tens of millions</em>—is"
     }
   ],
   "https://www.parahumans.net/2018/04/21/pitch-6-3/": [
@@ -4872,6 +4898,10 @@
     {
       "before": "of her bag.  only one temporary tattoo",
       "after": "of her bag.  Only one temporary tattoo"
+    },
+    {
+      "before": "loved—<em>loved-</em>  for my",
+      "after": "loved—<em>loved</em>—for my"
     }
   ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
@@ -4932,6 +4962,10 @@
     {
       "before": "he bottles it up.  then the bottle cracks",
       "after": "he bottles it up.  Then the bottle cracks"
+    },
+    {
+      "before": "that made her <em>her-</em> the shock of white",
+      "after": "that made her <em>her</em>—the shock of white"
     }
   ],
   "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
@@ -4956,6 +4990,12 @@
       "after": "in a fireman carry.  With my free hand"
     }
   ],
+  "https://www.parahumans.net/2018/10/13/gleaming-9-15/": [
+    {
+      "before": "<em>-fucked in the head.",
+      "after": "<em>—fucked in the head."
+    }
+  ],
   "https://www.parahumans.net/2018/10/16/gleaming-interlude-9-z/": [
     {
       "before": "cliff he was was expected",
@@ -4978,6 +5018,20 @@
     {
       "before": "services of mercenaries.  depending on timing",
       "after": "services of mercenaries.  Depending on timing"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/13/polarize-10-7/": [
+    {
+      "before": "your favorite top-</em>’",
+      "after": "your favorite top—</em>’"
+    },
+    {
+      "before": "<em>-your phone, twice, your banking card-</em>",
+      "after": "<em>—your phone, twice, your banking card—</em>"
+    },
+    {
+      "before": "<em>-your pancreas.</em>",
+      "after": "<em>—your pancreas.</em>"
     }
   ],
   "https://www.parahumans.net/2018/11/17/polarize-10-8/": [
@@ -5018,6 +5072,10 @@
     {
       "before": "and it it pulled him",
       "after": "and it pulled him"
+    },
+    {
+      "before": "<em>Victoria-</em>flesh",
+      "after": "<em>Victoria</em>-flesh"
     }
   ],
   "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
@@ -5054,12 +5112,22 @@
     {
       "before": "mom messed up",
       "after": "Mom messed up"
+    },
+    {
+      "before": "<em>You-</em> upstairs.",
+      "after": "<em>You</em>—upstairs."
     }
   ],
   "https://www.parahumans.net/2019/02/12/heavens-12-1/": [
     {
       "before": "And mom’s implying I want",
       "after": "And Mom’s implying I want"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/16/heavens-12-2/": [
+    {
+      "before": "And <em>you-</em> don’t do that",
+      "after": "And <em>you</em>—don’t do that"
     }
   ],
   "https://www.parahumans.net/2019/02/19/interlude-12-e/": [
@@ -5070,6 +5138,12 @@
     {
       "before": "I need dad",
       "after": "I need Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/23/heavens-12-3/": [
+    {
+      "before": "had shaken them <em>good-</em> but I could",
+      "after": "had shaken them <em>good</em>—but I could"
     }
   ],
   "https://www.parahumans.net/2019/03/02/heavens-12-all/": [
@@ -5142,6 +5216,12 @@
       "after": "walls stone and wood.  The building"
     }
   ],
+  "https://www.parahumans.net/2019/04/13/black-13-4/": [
+    {
+      "before": "wiped—or perhaps <em>struck-</em> clean.",
+      "after": "wiped—or perhaps <em>struck</em>—clean."
+    }
+  ],
   "https://www.parahumans.net/2019/04/20/black-13-6/": [
     {
       "before": "I’m a Master, right, you",
@@ -5196,6 +5276,30 @@
     {
       "before": "You stay away from mom, you stay away from dad",
       "after": "You stay away from Mom, you stay away from Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/22/breaking-14-11/": [
+    {
+      "before": "<em>-He’s changing</em>-",
+      "after": "<em>-He’s changing-</em>"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/25/breaking-14-12/": [
+    {
+      "before": "<em>-Her phone?—</em>",
+      "after": "<em>-Her phone?-</em>"
+    },
+    {
+      "before": "<em>-Have to ask her.—</em>",
+      "after": "<em>-Have to ask her.-</em>"
+    },
+    {
+      "before": "<em>-down hall with gate. basement of that part of complx—</em>",
+      "after": "<em>-down hall with gate. basement of that part of complx-</em>"
+    },
+    {
+      "before": "<em>-That was us</em>—the message on my display read.—<em>cuz guards—</em>",
+      "after": "<em>-That was us-</em> the message on my display read. <em>-cuz guards-</em>"
     }
   ],
   "https://www.parahumans.net/2019/06/29/breaking-14-z/": [
@@ -5314,6 +5418,10 @@
     {
       "before": "mind of dad after his head injury",
       "after": "mind of Dad after his head injury"
+    },
+    {
+      "before": "Some—<em>many-</em> were unwillingly",
+      "after": "Some—<em>many</em>—were unwillingly"
     }
   ],
   "https://www.parahumans.net/2019/10/05/sundown-17-2/": [
@@ -5424,6 +5532,30 @@
     {
       "before": "Love Lost is Master-class",
       "after": "Love Lost is master-class"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/14/infrared-19-c/": [
+    {
+      "before": "<em>-maim, destroy, tear it all down—</em>",
+      "after": "<em>—maim, destroy, tear it all down—</em>"
+    },
+    {
+      "before": "<em>-make it hurt, torture, butcher, kill—</em>",
+      "after": "<em>—make it hurt, torture, butcher, kill—</em>"
+    },
+    {
+      "before": "—<em>Retaliate—</em>",
+      "after": "<em>—Retaliate—</em>"
+    },
+    {
+      "before": "—<em>die quickly, if he has to die</em>.",
+      "after": "<em>—die quickly, if he has to die.</em>"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/21/infrared-19-6/": [
+    {
+      "before": "<em>-through the emotion.  Emote through the emotion.  Emote</em>—",
+      "after": "<em>—through the emotion.  Emote through the emotion.  Emote—</em>"
     }
   ],
   "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
