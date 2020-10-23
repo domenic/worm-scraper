@@ -2755,6 +2755,14 @@
     {
       "before": "Kayden,” Theo said. “You’re",
       "after": "Kayden,” Theo said, “you’re"
+    },
+    {
+      "before": "about how Masters tend to have",
+      "after": "about how masters tend to have"
+    },
+    {
+      "before": "that was why Masters tend to be",
+      "after": "that was why masters tend to be"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/07/interlude-18-donation-bonus-3/": [
@@ -3532,6 +3540,10 @@
     {
       "before": "This,” Imp said. “Is",
       "after": "This,” Imp said, “is"
+    },
+    {
+      "before": "kill all of the Masters that are generating",
+      "after": "kill all of the masters that are generating"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/03/sting-26-6/": [
@@ -4677,6 +4689,14 @@
     {
       "before": "There’s—Careful, Victoria.",
       "after": "There’s— Careful, Victoria."
+    },
+    {
+      "before": "Hypnotist Master",
+      "after": "Hypnotist master"
+    },
+    {
+      "before": "with Masters in mind",
+      "after": "with masters in mind"
     }
   ],
   "https://www.parahumans.net/2018/03/31/shadow-5-11/": [
@@ -4701,6 +4721,10 @@
     {
       "before": "Tristan-as Capricorn",
       "after": "Tristan-as-Capricorn"
+    },
+    {
+      "before": "were Masters and strangers",
+      "after": "were masters and strangers"
     }
   ],
   "https://www.parahumans.net/2018/04/07/shadow-interlude-5-x/": [
@@ -4719,6 +4743,10 @@
     {
       "before": "glanced back.  the others had",
       "after": "glanced back.  The others had"
+    },
+    {
+      "before": "Animal Master, likely",
+      "after": "Animal master, likely"
     }
   ],
   "https://www.parahumans.net/2018/04/28/pitch-6-5/": [
@@ -4752,6 +4780,10 @@
     {
       "before": "those hectic days after dad’s head injury",
       "after": "those hectic days after Dad’s head injury"
+    },
+    {
+      "before": "no Master pets",
+      "after": "no master pets"
     }
   ],
   "https://www.parahumans.net/2018/05/26/eclipse-x-1/": [
@@ -4884,6 +4916,10 @@
     {
       "before": "Chris in the process.  stretched on his way",
       "after": "Chris in the process.  He stretched on his way"
+    },
+    {
+      "before": "with a strong Master",
+      "after": "with a strong master"
     }
   ],
   "https://www.parahumans.net/2018/09/11/gleaming-9-7/": [
@@ -4954,6 +4990,12 @@
     {
       "before": "confines of the suit.  and rearranged herself",
       "after": "confines of the suit, and rearranged herself"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/27/polarize-10-10/": [
+    {
+      "before": "all about how Masters have",
+      "after": "all about how masters have"
     }
   ],
   "https://www.parahumans.net/2018/12/01/polarize-10-11/": [
@@ -5100,6 +5142,12 @@
       "after": "walls stone and wood.  The building"
     }
   ],
+  "https://www.parahumans.net/2019/04/20/black-13-6/": [
+    {
+      "before": "I’m a Master, right, you",
+      "after": "I’m a master, right, you"
+    }
+  ],
   "https://www.parahumans.net/2019/04/23/black-13-7/": [
     {
       "before": "looked like they were were painted on",
@@ -5154,6 +5202,14 @@
     {
       "before": "smirked, leering.  her face was stretching",
       "after": "smirked, leering.  Her face was stretching"
+    },
+    {
+      "before": "But Master–stranger protocols",
+      "after": "But master–stranger protocols"
+    },
+    {
+      "before": "allusion to Master–stranger protocols",
+      "after": "allusion to master–stranger protocols"
     }
   ],
   "https://www.parahumans.net/2019/07/02/dying-15-a/": [
@@ -5188,6 +5244,12 @@
     {
       "before": "worth of of water",
       "after": "worth of water"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/27/dying-15-7/": [
+    {
+      "before": "stranger or Master in",
+      "after": "stranger or master in"
     }
   ],
   "https://www.parahumans.net/2019/07/30/dying-15-8/": [
@@ -5260,6 +5322,12 @@
       "after": "egg for Crystal and Mom"
     }
   ],
+  "https://www.parahumans.net/2019/10/12/sundown-17-4/": [
+    {
+      "before": "on resisting Master influence",
+      "after": "on resisting master influence"
+    }
+  ],
   "https://www.parahumans.net/2019/10/15/sundown-17-5/": [
     {
       "before": "Is mom walking without difficulty",
@@ -5318,6 +5386,12 @@
       "after": "you go.  No joke, no wiggle"
     }
   ],
+  "https://www.parahumans.net/2019/12/03/radiation-18-6/": [
+    {
+      "before": "Some Master minions",
+      "after": "Some master minions"
+    }
+  ],
   "https://www.parahumans.net/2019/12/07/radiation-18-7/": [
     {
       "before": "Couple of of times a month",
@@ -5338,6 +5412,18 @@
     {
       "before": "Hey mom?  Mom",
       "after": "Hey Mom?  Mom"
+    },
+    {
+      "before": "or heard of the Master who had created",
+      "after": "or heard of the master who had created"
+    },
+    {
+      "before": "pretty sure it’s Master",
+      "after": "pretty sure it’s master"
+    },
+    {
+      "before": "Love Lost is Master-class",
+      "after": "Love Lost is master-class"
     }
   ],
   "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
