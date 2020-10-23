@@ -28,7 +28,7 @@
     "cpr": "^3.0.1",
     "jsdom": "^16.4.0",
     "requisition": "^1.5.0",
-    "throat": "^5.0.0",
+    "workerpool": "^6.0.2",
     "yargs": "^16.1.0"
   },
   "devDependencies": {
