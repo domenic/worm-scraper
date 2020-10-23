@@ -682,6 +682,10 @@
     {
       "before": "In short, It",
       "after": "In short, it"
+    },
+    {
+      "before": "phone, Alec” Brian spoke",
+      "after": "phone, Alec,” Brian spoke"
     }
   ],
   "https://parahumans.wordpress.com/2012/01/31/buzz-7-5/": [
@@ -2078,6 +2082,12 @@
     {
       "before": "leaving the space that mom had once occupied",
       "after": "leaving the space that Mom had once occupied"
+    }
+  ],
+  "https://parahumans.wordpress.com/2012/07/14/plague-12-6/": [
+    {
+      "before": "had their shots” I said",
+      "after": "had their shots,” I said"
     }
   ],
   "https://parahumans.wordpress.com/2012/07/17/plague-12-7/": [
@@ -4887,6 +4897,12 @@
       "after": "no words.  And there"
     }
   ],
+  "https://www.parahumans.net/2018/06/02/eclipse-x-8/": [
+    {
+      "before": "Bonesaw” Blasto said",
+      "after": "Bonesaw,” Blasto said"
+    }
+  ],
   "https://www.parahumans.net/2018/06/09/torch-7-6/": [
     {
       "before": "I saw.  the scans of the woman",
@@ -4903,6 +4919,10 @@
     {
       "before": "abused by the the transition",
       "after": "abused by the transition"
+    },
+    {
+      "before": "poking around” I said",
+      "after": "poking around,” I said"
     }
   ],
   "https://www.parahumans.net/2018/06/23/torch-7-10/": [
@@ -4959,6 +4979,12 @@
       "after": "<p>Mom and Dad.</p>"
     }
   ],
+  "https://www.parahumans.net/2018/07/14/beacon-8-4/": [
+    {
+      "before": "use their surveillance” Kenzie said",
+      "after": "use their surveillance,” Kenzie said"
+    }
+  ],
   "https://www.parahumans.net/2018/07/17/beacon-8-5/": [
     {
       "before": "on the offensive.  chains whirled",
@@ -4973,6 +4999,12 @@
     {
       "before": "above me.  the sky was dark",
       "after": "above me.  The sky was dark"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/28/beacon-8-8/": [
+    {
+      "before": "“Yeah, that’s breaker” I said.",
+      "after": "“Yeah, that’s breaker,” I said."
     }
   ],
   "https://www.parahumans.net/2018/07/31/beacon-8-9/": [
@@ -5215,6 +5247,10 @@
     {
       "before": "wrists behind them around around the stomach",
       "after": "wrists behind them around the stomach"
+    },
+    {
+      "before": "back pouch” my mom said",
+      "after": "back pouch,” my mom said"
     }
   ],
   "https://www.parahumans.net/2019/03/16/heavens-12-7/": [
@@ -5559,6 +5595,12 @@
       "after": "Couple of times a month"
     }
   ],
+  "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
+    {
+      "before": "“I’m fine” Egg said",
+      "after": "“I’m fine,” Egg said"
+    }
+  ],
   "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
     {
       "before": "I thought of dad, seeing him hug my mother",
@@ -5633,12 +5675,20 @@
     {
       "before": "Lessons from mom, age thirteen",
       "after": "Lessons from Mom, age thirteen"
+    },
+    {
+      "before": "relatively speaking” Number Five",
+      "after": "relatively speaking,” Number Five"
     }
   ],
   "https://www.parahumans.net/2020/02/08/infrared-19-9/": [
     {
       "before": "had insisted she or dad drive us",
       "after": "had insisted she or Dad drive us"
+    },
+    {
+      "before": "you know about” my Aunt Sarah said",
+      "after": "you know about,” my Aunt Sarah said"
     }
   ],
   "https://www.parahumans.net/2020/02/11/infrared-19-f/": [
