@@ -444,6 +444,10 @@
     {
       "before": "what I could see of the the second floor",
       "after": "what I could see of the second floor"
+    },
+    {
+      "before": "down the stairs.  then as carefully as we could",
+      "after": "down the stairs.  Then, as carefully as we could"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
@@ -962,6 +966,10 @@
     {
       "before": "reeled—He",
       "after": "reeled—he"
+    },
+    {
+      "before": "Shielder’s bubble.  water in front of",
+      "after": "Shielder’s bubble.  Water in front of"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/13/extermination-8-4/": [
@@ -2656,6 +2664,10 @@
     {
       "before": "Krouse,” Luke said. “We",
       "after": "Krouse,” Luke said, “we"
+    },
+    {
+      "before": "on his knees.  he held the cigarette",
+      "after": "on his knees.  He held the cigarette"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
@@ -3025,6 +3037,10 @@
       "before": "the Clairvoyant",
       "after": "the clairvoyant",
       "_comment": "see convert.js; this corrects an over-correction"
+    },
+    {
+      "before": "maintain eye contact.  he could feel the warmth",
+      "after": "maintain eye contact.  He could feel the warmth"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/09/imago-21-1/": [
@@ -3782,6 +3798,10 @@
     {
       "before": "<em>willingly</em>,” Weld said. “Before",
       "after": "<em>willingly</em>,” Weld said, “before"
+    },
+    {
+      "before": "onto the phone.  seven point font",
+      "after": "onto the phone.  Seven point font"
     }
   ],
   "https://parahumans.wordpress.com/2013/09/19/venom-29-1/": [
@@ -3896,12 +3916,20 @@
     {
       "before": "by Golem’s bindings</p>",
       "after": "by Golem’s bindings.</p>"
+    },
+    {
+      "before": "have time to react.  the light detonated",
+      "after": "have time to react.  The light detonated"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/12/interlude-29/": [
     {
       "before": "the host’s natures",
       "after": "the hosts’ natures"
+    },
+    {
+      "before": "panting for breath.  the wound at his",
+      "after": "panting for breath.  The wound at his"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/15/speck-30-1/": [
@@ -4148,6 +4176,14 @@
     {
       "before": "“Yes,’ I",
       "after": "“Yes,” I"
+    },
+    {
+      "before": "against me.  it would be idiotic",
+      "after": "against me.  It would be idiotic"
+    },
+    {
+      "before": "hand as he talked.  he pointed to me",
+      "after": "hand as he talked.  He pointed to me"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/02/teneral-e-1/": [
@@ -4194,6 +4230,10 @@
     {
       "before": "standby”",
       "after": "standby.”"
+    },
+    {
+      "before": "minutes passed.  the chance rose",
+      "after": "minutes passed.  The chance rose"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/12/teneral-e-4/": [
@@ -4212,6 +4252,14 @@
     {
       "before": "—Problematic",
       "after": "—problematic"
+    },
+    {
+      "before": "balconies and rooftops.  hazards",
+      "after": "balconies and rooftops.  Hazards"
+    },
+    {
+      "before": "another tree stood.  with a glimpse",
+      "after": "another tree stood, with a glimpse"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/16/teneral-e-5/": [
@@ -4329,12 +4377,6 @@
       "after": "and Mom being business"
     }
   ],
-  "https://www.parahumans.net/2017/12/09/flare-2-1/": [
-    {
-      "before": "Some is mom and dad’s",
-      "after": "Some is Mom and Dad’s"
-    }
-  ],
   "https://www.parahumans.net/2017/11/30/daybreak-1-7/": [
     {
       "before": "How do you even think rec—how do you think",
@@ -4351,6 +4393,12 @@
       "after": "<strong>Glitzglam *New Message*:</strong> I"
     }
   ],
+  "https://www.parahumans.net/2017/12/09/flare-2-1/": [
+    {
+      "before": "Some is mom and dad’s",
+      "after": "Some is Mom and Dad’s"
+    }
+  ],
   "https://www.parahumans.net/2017/12/16/flare-2-3/": [
     {
       "before": "two—piece",
@@ -4359,6 +4407,10 @@
     {
       "before": "want to think about mom",
       "after": "want to think about Mom"
+    },
+    {
+      "before": "the floor.  the armband landed",
+      "after": "the floor.  The armband landed"
     }
   ],
   "https://www.parahumans.net/2017/12/23/flare-2-5/": [
@@ -4413,6 +4465,10 @@
     {
       "before": "Tristan, “You should take",
       "after": "Tristan, “you should take"
+    },
+    {
+      "before": "to start with.  it’s delicate enough",
+      "after": "to start with.  It’s delicate enough"
     }
   ],
   "https://www.parahumans.net/2018/01/13/glare-3-3/": [
@@ -4511,6 +4567,10 @@
     {
       "before": "mom’s verdict was",
       "after": "Mom’s verdict was"
+    },
+    {
+      "before": "as you walk.  or blurry light",
+      "after": "as you walk.  Or blurry light"
     }
   ],
   "https://www.parahumans.net/2018/02/20/shade-4-7/": [
@@ -4543,6 +4603,10 @@
     {
       "before": "“Cozy,” The side of the",
       "after": "“Cozy.” The side of the"
+    },
+    {
+      "before": "hair he had.  it was long",
+      "after": "hair he had.  It was long"
     }
   ],
   "https://www.parahumans.net/2018/03/06/shadow-5-4/": [
@@ -4597,16 +4661,48 @@
       "after": "The convoy continued to disintegrate as the road made its gradual turn"
     }
   ],
+  "https://www.parahumans.net/2018/03/27/shadow-5-10/": [
+    {
+      "before": "our heads.  the pupil",
+      "after": "our heads.  The pupil"
+    },
+    {
+      "before": "forearm and her fingertips.  and she stumbled into",
+      "after": "forearm and her fingertips, and she stumbled into"
+    }
+  ],
   "https://www.parahumans.net/2018/03/31/shadow-5-11/": [
     {
       "before": "side of her her chin",
       "after": "side of her chin"
     }
   ],
+  "https://www.parahumans.net/2018/04/03/shadow-5-12/": [
+    {
+      "before": "lost my grip on him.  and my hand",
+      "after": "lost my grip on him, and my hand"
+    }
+  ],
+  "https://www.parahumans.net/2018/04/21/pitch-6-3/": [
+    {
+      "before": "wall of bodies.  the woman behind",
+      "after": "wall of bodies.  The woman behind"
+    }
+  ],
+  "https://www.parahumans.net/2018/04/24/pitch-6-4/": [
+    {
+      "before": "glanced back.  the others had",
+      "after": "glanced back.  The others had"
+    }
+  ],
   "https://www.parahumans.net/2018/04/28/pitch-6-5/": [
     {
       "before": "of material to to bandage",
       "after": "of material to bandage"
+    },
+    {
+      "before": "Cradle said.  his tone was",
+      "after": "Cradle said.  His tone was"
     }
   ],
   "https://www.parahumans.net/2018/05/08/pitch-6-8/": [
@@ -4650,6 +4746,18 @@
     {
       "before": "answer the the second question",
       "after": "answer the second question"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/30/eclipse-x-5/": [
+    {
+      "before": "no words.  and there",
+      "after": "no words.  And there"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/09/torch-7-6/": [
+    {
+      "before": "I saw.  the scans of the woman",
+      "after": "I saw.  The scans of the woman"
     }
   ],
   "https://www.parahumans.net/2018/06/12/torch-7-7/": [
@@ -4702,6 +4810,10 @@
     {
       "before": "cooked for me,” mom said",
       "after": "cooked for me,” Mom said"
+    },
+    {
+      "before": "of her bag.  only one temporary tattoo",
+      "after": "of her bag.  Only one temporary tattoo"
     }
   ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
@@ -4710,16 +4822,76 @@
       "after": "<p>Mom and Dad.</p>"
     }
   ],
-  "https://www.parahumans.net/2018/07/31/beacon-8-9/": [
+  "https://www.parahumans.net/2018/07/17/beacon-8-5/": [
     {
-      "before": "you know that dad and I saying",
-      "after": "you know that dad and I saying"
+      "before": "on the offensive.  chains whirled",
+      "after": "on the offensive.  Chains whirled"
     }
   ],
   "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
     {
       "before": "unfolded umbrella.A metal",
       "after": "unfolded umbrella.  A metal"
+    },
+    {
+      "before": "above me.  the sky was dark",
+      "after": "above me.  The sky was dark"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/31/beacon-8-9/": [
+    {
+      "before": "you know that dad and I saying",
+      "after": "you know that Dad and I saying"
+    },
+    {
+      "before": "was impatient.  it was hard to tell",
+      "after": "was impatient.  It was hard to tell"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/11/beacon-8-12/": [
+    {
+      "before": "who are free now.  they’re out there",
+      "after": "who are free now.  They’re out there"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/28/gleaming-9-3/": [
+    {
+      "before": "Chris in the process.  stretched on his way",
+      "after": "Chris in the process.  He stretched on his way"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/11/gleaming-9-7/": [
+    {
+      "before": "Byron said.  he was at",
+      "after": "Byron said.  He was at"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/13/gleaming-interlude-9-x/": [
+    {
+      "before": "he bottles it up.  then the bottle cracks",
+      "after": "he bottles it up.  Then the bottle cracks"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
+    {
+      "before": "and mom and dad’s rules",
+      "after": "and Mom and Dad’s rules"
+    },
+    {
+      "before": "at the balcony.  both wore",
+      "after": "at the balcony.  Both wore"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/29/gleaming-9-11/": [
+    {
+      "before": "two people died.  the forcefield went",
+      "after": "two people died.  The forcefield went"
+    }
+  ],
+  "https://www.parahumans.net/2018/10/09/gleaming-9-14/": [
+    {
+      "before": "in a fireman carry.  with my free hand",
+      "after": "in a fireman carry.  With my free hand"
     }
   ],
   "https://www.parahumans.net/2018/10/16/gleaming-interlude-9-z/": [
@@ -4734,16 +4906,28 @@
       "after": "shape of the moment"
     }
   ],
-  "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
-    {
-      "before": "and mom and dad’s rules",
-      "after": "and Mom and Dad’s rules"
-    }
-  ],
   "https://www.parahumans.net/2018/10/23/polarize-10-1/": [
     {
       "before": "You let mom talk and",
       "after": "You let Mom talk and"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/03/polarize-10-4/": [
+    {
+      "before": "services of mercenaries.  depending on timing",
+      "after": "services of mercenaries.  Depending on timing"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/17/polarize-10-8/": [
+    {
+      "before": "Sveta said.  her hand was removed",
+      "after": "Sveta said.  Her hand was removed"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/20/polarize-10-9/": [
+    {
+      "before": "confines of the suit.  and rearranged herself",
+      "after": "confines of the suit, and rearranged herself"
     }
   ],
   "https://www.parahumans.net/2018/12/01/polarize-10-11/": [
@@ -4772,6 +4956,22 @@
     {
       "before": "someone had been been called at three",
       "after": "someone had been called at three"
+    },
+    {
+      "before": "I croaked.  as she picked up",
+      "after": "I croaked, as she picked up"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/02/blinding-11-11/": [
+    {
+      "before": "to Capricorn.  then she looked",
+      "after": "to Capricorn.  Then she looked"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/05/blinding-11-12/": [
+    {
+      "before": "and drawers.  her legs were stacked against",
+      "after": "and drawers.  Her legs were stacked against"
     }
   ],
   "https://www.parahumans.net/2019/02/09/interlude-12-z/": [
@@ -4822,6 +5022,18 @@
       "after": "wrists behind them around the stomach"
     }
   ],
+  "https://www.parahumans.net/2019/03/16/heavens-12-7/": [
+    {
+      "before": "without knowing.  by Love Lost",
+      "after": "without knowing.  By Love Lost"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/19/heavens-12-8/": [
+    {
+      "before": "created glowing orbs.  he threw one to my",
+      "after": "created glowing orbs.  He threw one to my"
+    }
+  ],
   "https://www.parahumans.net/2019/03/26/heavens-12-none/": [
     {
       "before": "if I inherit mom’s whole",
@@ -4840,6 +5052,14 @@
     {
       "before": "Night mom",
       "after": "Night Mom"
+    },
+    {
+      "before": "was distorted.  if it wasn’t for the fact",
+      "after": "was distorted.  If it wasn’t for the fact"
+    },
+    {
+      "before": "March said.  she flourished her",
+      "after": "March said.  She flourished her"
     }
   ],
   "https://www.parahumans.net/2019/04/09/black-13-3/": [
@@ -4848,10 +5068,22 @@
       "after": "you have surmised"
     }
   ],
+  "https://www.parahumans.net/2019/04/02/black-13-1/": [
+    {
+      "before": "walls stone and wood.  the building",
+      "after": "walls stone and wood.  The building"
+    }
+  ],
   "https://www.parahumans.net/2019/04/23/black-13-7/": [
     {
       "before": "looked like they were were painted on",
       "after": "looked like they were painted on"
+    }
+  ],
+  "https://www.parahumans.net/2019/04/27/black-13-8/": [
+    {
+      "before": "cash are involved.  there’s a reason",
+      "after": "cash are involved.  There’s a reason"
     }
   ],
   "https://www.parahumans.net/2019/05/11/black-13-11/": [
@@ -4892,10 +5124,26 @@
       "after": "You stay away from Mom, you stay away from Dad"
     }
   ],
+  "https://www.parahumans.net/2019/06/29/breaking-14-z/": [
+    {
+      "before": "smirked, leering.  her face was stretching",
+      "after": "smirked, leering.  Her face was stretching"
+    }
+  ],
   "https://www.parahumans.net/2019/07/02/dying-15-a/": [
     {
       "before": "this sad old man made her think of dad",
       "after": "this sad old man made her think of Dad"
+    },
+    {
+      "before": "scary.  that’s all",
+      "after": "scary.  That’s all"
+    }
+  ],
+  "https://www.parahumans.net/2019/07/06/dying-15-1/": [
+    {
+      "before": "wall met ceiling.  the wall was smooth",
+      "after": "wall met ceiling.  The wall was smooth"
     }
   ],
   "https://www.parahumans.net/2019/07/13/dying-15-3/": [
@@ -4916,6 +5164,22 @@
       "after": "worth of water"
     }
   ],
+  "https://www.parahumans.net/2019/07/30/dying-15-8/": [
+    {
+      "before": "I thought.  the dosage was supposed",
+      "after": "I thought.  The dosage was supposed"
+    },
+    {
+      "before": "I got a glimpse.  it’s fucking with me",
+      "after": "I got a glimpse.  It’s fucking with me"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/13/from-within-16-1/": [
+    {
+      "before": "wasn’t A.I.  it was just a picture",
+      "after": "wasn’t A.I.  It was just a picture"
+    }
+  ],
   "https://www.parahumans.net/2019/08/17/from-within-16-2/": [
     {
       "before": "a small part of that was being being grumpy",
@@ -4928,6 +5192,18 @@
       "after": "small face on a fifteen inch"
     }
   ],
+  "https://www.parahumans.net/2019/08/24/from-within-16-4/": [
+    {
+      "before": "the rest  black and slim.  with doodle-like drawings",
+      "after": "the rest black and slim, with doodle-like drawings"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/27/from-within-16-5/": [
+    {
+      "before": "thing number one.  it’s not a lot",
+      "after": "thing number one.  It’s not a lot"
+    }
+  ],
   "https://www.parahumans.net/2019/08/31/from-within-16-6/": [
     {
       "before": "letters I wrote to dad’s friends",
@@ -4938,6 +5214,12 @@
     {
       "before": "changers and and shakers",
       "after": "changers and shakers"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/15/from-within-16-10/": [
+    {
+      "before": "carried on.  out of",
+      "after": "carried on, out of"
     }
   ],
   "https://www.parahumans.net/2019/10/01/sundown-17-1/": [
@@ -4982,16 +5264,32 @@
       "after": "Because it made Mom come"
     }
   ],
+  "https://www.parahumans.net/2019/11/12/interlude-17-z-sundown/": [
+    {
+      "before": "had his powers.  the forcefield above",
+      "after": "had his powers.  The forcefield above"
+    }
+  ],
   "https://www.parahumans.net/2019/11/19/radiation-18-2/": [
     {
       "before": "looking for mom in the crowd",
       "after": "looking for Mom in the crowd"
     }
   ],
+  "https://www.parahumans.net/2019/11/23/radiation-18-3/": [
+    {
+      "before": "in the eyes.  they were a",
+      "after": "in the eyes.  They were a"
+    }
+  ],
   "https://www.parahumans.net/2019/11/26/radiation-18-4/": [
     {
       "before": "bucked a little with the the impact",
       "after": "bucked a little with the impact"
+    },
+    {
+      "before": "you go.  no joke, no wiggle",
+      "after": "you go.  No joke, no wiggle"
     }
   ],
   "https://www.parahumans.net/2019/12/07/radiation-18-7/": [
@@ -5028,6 +5326,12 @@
       "after": "so Mom doesn’t end up alone"
     }
   ],
+  "https://www.parahumans.net/2020/02/02/infrared-19-7/": [
+    {
+      "before": "I really wasn’t.  really",
+      "after": "I really wasn’t.  Really"
+    }
+  ],
   "https://www.parahumans.net/2020/02/04/infrared-19-8/": [
     {
       "before": "Lessons from mom, age thirteen",
@@ -5058,6 +5362,22 @@
     {
       "before": "thinking about mom getting on my case",
       "after": "thinking about Mom getting on my case"
+    },
+    {
+      "before": "figure out while she was gone.  we’ll see who",
+      "after": "figure out while she was gone.  We’ll see who"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/25/last-20-1/": [
+    {
+      "before": "across this clearing.  eyes, cameras",
+      "after": "across this clearing.  Eyes, cameras"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/31/last-20-10/": [
+    {
+      "before": "shaping it as it rolled out.  it became a circular",
+      "after": "shaping it as it rolled out.  It became a circular"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
@@ -5122,6 +5442,10 @@
     {
       "before": "he mom shook her head",
       "after": "her mom shook her head"
+    },
+    {
+      "before": "with black slacks.  his hair was chin",
+      "after": "with black slacks.  His hair was chin"
     }
   ]
 }
