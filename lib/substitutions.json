@@ -3398,6 +3398,10 @@
     {
       "before": "There’ <em>more</em>",
       "after": "There’s <em>more</em>"
+    },
+    {
+      "before": "White capped",
+      "after": "White-capped"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/09/scarab-25-4/": [
@@ -4903,42 +4907,156 @@
     {
       "before": "answer the the second question",
       "after": "answer the second question"
+    },
+    {
+      "before": "discuss goals,” Jessica said.  “We think",
+      "after": "discuss goals,” Jessica said, “we think"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/29/eclipse-x-4/": [
+    {
+      "before": "ma‘am",
+      "after": "ma’am"
     }
   ],
   "https://www.parahumans.net/2018/05/30/eclipse-x-5/": [
     {
       "before": "no words.  and there",
       "after": "no words.  And there"
+    },
+    {
+      "before": "hesitated to long",
+      "after": "hesitated too long"
+    },
+    {
+      "before": "back.,",
+      "after": "back,"
+    },
+    {
+      "before": "Wardens’ ID badges",
+      "after": "Wardens ID badges"
     }
   ],
   "https://www.parahumans.net/2018/05/31/eclipse-x-6/": [
     {
       "before": "a desperate edge to her feelings</p>",
       "after": "a desperate edge to her feelings.</p>"
+    },
+    {
+      "before": "—To need at least three if",
+      "after": "—to need at least three if"
+    },
+    {
+      "before": "We—if you stop and",
+      "after": "We— If you stop and"
+    },
+    {
+      "before": "…We’re not <em>especially</em>",
+      "after": "…we’re not <em>especially</em>"
     }
   ],
   "https://www.parahumans.net/2018/06/01/eclipse-x-7/": [
     {
       "before": "dotting the ‘i’s and slashing the ‘Q’s</p>",
       "after": "dotting the ‘i’s and slashing the ‘Q’s.</p>"
+    },
+    {
+      "before": "—And they have thinkers",
+      "after": "—and they have thinkers"
+    },
+    {
+      "before": "You’re leaving <em>Boston?</em>",
+      "after": "You’re leaving <em>Boston</em>?"
+    },
+    {
+      "before": "—Assign her house arrest",
+      "after": "—assign her house arrest"
+    },
+    {
+      "before": "Mr… Chief Armstrong",
+      "after": "Mr.… Chief Armstrong"
+    },
+    {
+      "before": "The there were monsters out there",
+      "after": "That there were monsters out there"
+    },
+    {
+      "before": "“I’m not—I wasn’t—”",
+      "after": "“I’m not— I wasn’t—”"
     }
   ],
   "https://www.parahumans.net/2018/06/02/eclipse-x-8/": [
     {
       "before": "Bonesaw” Blasto said",
       "after": "Bonesaw,” Blasto said"
+    },
+    {
+      "before": "“Well,” Fappy said. “You know Stan,",
+      "after": "“Well,” Fappy said, “you know Stan,"
+    },
+    {
+      "before": "it or not,” Jack said.  “I want",
+      "after": "it or not,” Jack said, “I want"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/05/torch-7-5/": [
+    {
+      "before": "<hr />\n<p><em>I don’t",
+      "after": "<p><em>I don’t"
+    },
+    {
+      "before": "Chris snorted, “Count yourself lucky.",
+      "after": "Chris snorted. “Count yourself lucky."
+    },
+    {
+      "before": "was your crush <em>Jhett Marion?</em>",
+      "after": "was your crush <em>Jhett Marion</em>?"
+    },
+    {
+      "before": "thing aside,” I said.  “I mean",
+      "after": "thing aside,” I said, “I mean"
+    },
+    {
+      "before": "Fifty…seven",
+      "after": "Fifty… seven"
+    },
+    {
+      "before": "brass capped",
+      "after": "brass-capped"
     }
   ],
   "https://www.parahumans.net/2018/06/09/torch-7-6/": [
     {
       "before": "I saw.  the scans of the woman",
       "after": "I saw.  The scans of the woman"
+    },
+    {
+      "before": "the woman withw the sunglasses",
+      "after": "the woman with the sunglasses"
     }
   ],
   "https://www.parahumans.net/2018/06/12/torch-7-7/": [
     {
       "before": "and I can call dad",
       "after": "and I can call Dad"
+    },
+    {
+      "before": "five by three inch",
+      "after": "five-by-three inch"
+    },
+    {
+      "before": "staying calm, her voice quieter, “Said your",
+      "after": "staying calm, her voice quieter, “said your"
+    }
+  ],
+  "https://www.parahumans.net/2018/06/16/torch-7-8/": [
+    {
+      "before": "you asked him,” Sveta said.  “He’d say",
+      "after": "you asked him,” Sveta said, “he’d say"
+    },
+    {
+      "before": "Looksee, You mentioned",
+      "after": "Looksee, you mentioned"
     }
   ],
   "https://www.parahumans.net/2018/06/19/torch-7-9/": [
@@ -4949,6 +5067,10 @@
     {
       "before": "poking around” I said",
       "after": "poking around,” I said"
+    },
+    {
+      "before": "Loss as he said it, “Because",
+      "after": "Loss as he said it, “because"
     }
   ],
   "https://www.parahumans.net/2018/06/23/torch-7-10/": [
@@ -4959,6 +5081,22 @@
     {
       "before": "Kenzie almost yipped out out a, “<em>No.</em>”",
       "after": "Kenzie almost yipped out, a “<em>No.</em>”"
+    },
+    {
+      "before": "thought things through mid-sentence, “Is that for",
+      "after": "thought things through mid-sentence, “is that for"
+    },
+    {
+      "before": "he goes to Church with them",
+      "after": "he goes to church with them"
+    },
+    {
+      "before": "maybe,” She said, smiling",
+      "after": "maybe,” she said, smiling"
+    },
+    {
+      "before": "fighting, ‘rene",
+      "after": "fighting, ’rene"
     }
   ],
   "https://www.parahumans.net/2018/06/26/torch-interlude-7-x/": [
@@ -4997,6 +5135,26 @@
     {
       "before": "loved—<em>loved-</em>  for my",
       "after": "loved—<em>loved</em>—for my"
+    },
+    {
+      "before": "pitched to be heard, “But her antics",
+      "after": "pitched to be heard, “but her antics"
+    },
+    {
+      "before": "—Really truly, I hope",
+      "after": "—really truly, I hope"
+    },
+    {
+      "before": "big guy said, “Is our mood",
+      "after": "big guy said, “is our mood"
+    },
+    {
+      "before": "thing we try to do,” he said. “Is we ask",
+      "after": "thing we try to do,” he said, “is we ask"
+    },
+    {
+      "before": "Keith said. “You decide",
+      "after": "Keith said, “you decide"
     }
   ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
