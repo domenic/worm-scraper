@@ -2630,6 +2630,14 @@
     {
       "before": "exaggerated shrug</p>",
       "after": "exaggerated shrug.</p>"
+    },
+    {
+      "before": "the P.R.T. uniforms",
+      "after": "the PRT uniforms"
+    },
+    {
+      "before": "injured P.R.T. soldier",
+      "after": "injured PRT soldier"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/15/migration-17-8/": [
@@ -5811,6 +5819,12 @@
       "after": "had his powers.  The forcefield above"
     }
   ],
+  "https://www.parahumans.net/2019/11/16/radiation-18-1/": [
+    {
+      "before": "worked for the P.R.T.",
+      "after": "worked for the PRT."
+    }
+  ],
   "https://www.parahumans.net/2019/11/19/radiation-18-2/": [
     {
       "before": "looking for mom in the crowd",
@@ -5997,6 +6011,12 @@
     {
       "before": "shaping it as it rolled out.  it became a circular",
       "after": "shaping it as it rolled out.  It became a circular"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/07/last-20-11/": [
+    {
+      "before": "had harangued the P.R.T., even",
+      "after": "had harangued the PRT, even"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
