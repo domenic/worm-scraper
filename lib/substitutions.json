@@ -4363,6 +4363,10 @@
   ],
   "https://www.parahumans.net/2017/12/01/daybreak-1-8/": [
     {
+      "before": "<p style=\"text-align: center;\">\n</p><p>",
+      "after": "<p>"
+    },
+    {
       "before": "parahumans online",
       "after": "Parahumans Online"
     },
