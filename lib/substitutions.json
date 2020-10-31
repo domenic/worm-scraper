@@ -5303,6 +5303,10 @@
     {
       "before": "my A—costume with my makeup at an A",
       "after": "my A− costume with my makeup at an A"
+    },
+    {
+      "before": "now my apartment-, three or four minutes",
+      "after": "now my apartment—three or four minutes"
     }
   ],
   "https://www.parahumans.net/2018/08/07/beacon-8-11/": [
@@ -5621,6 +5625,10 @@
     {
       "before": "March said.  she flourished her",
       "after": "March said.  She flourished her"
+    },
+    {
+      "before": "morning breath—more than morning breath-, but there",
+      "after": "morning breath—more than morning breath—but there"
     }
   ],
   "https://www.parahumans.net/2019/04/09/black-13-3/": [
@@ -5661,12 +5669,28 @@
     {
       "before": "cash are involved.  there’s a reason",
       "after": "cash are involved.  There’s a reason"
+    },
+    {
+      "before": "zero—a circle made with her full hand-, three",
+      "after": "zero—a circle made with her full hand—three"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/07/black-13-10/": [
+    {
+      "before": "the interior of this one was quiet-, I could",
+      "after": "the interior of this one was quiet—I could"
     }
   ],
   "https://www.parahumans.net/2019/05/11/black-13-11/": [
     {
       "before": "been scummy and and tried",
       "after": "been scummy and tried"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/18/breaking-14-1/": [
+    {
+      "before": "face—ridiculous notion but still-, if I wrote him a note or sent him a text—less ridiculous notion-, saying",
+      "after": "face—ridiculous notion but still—if I wrote him a note or sent him a text—less ridiculous notion—saying"
     }
   ],
   "https://www.parahumans.net/2019/05/25/breaking-14-3/": [
@@ -5687,18 +5711,32 @@
     {
       "before": "Promises to mom and dad",
       "after": "Promises to Mom and Dad"
+    },
+    {
+      "before": "or innovators—scientists-, they say",
+      "after": "or innovators—scientists—they say"
     }
   ],
   "https://www.parahumans.net/2019/06/08/breaking-14-7/": [
     {
       "before": "Regretting sending mom here",
       "after": "Regretting sending Mom here"
+    },
+    {
+      "before": "you’re talking syncope—fainting-, arrythmia,",
+      "after": "you’re talking syncope—fainting, arrythmia,"
     }
   ],
   "https://www.parahumans.net/2019/06/15/breaking-14-9/": [
     {
       "before": "You stay away from mom, you stay away from dad",
       "after": "You stay away from Mom, you stay away from Dad"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/18/breaking-14-10/": [
+    {
+      "before": "in a real fight-, but in",
+      "after": "in a real fight—but in"
     }
   ],
   "https://www.parahumans.net/2019/06/22/breaking-14-11/": [
@@ -5899,6 +5937,12 @@
       "after": "Golem explained.</p>"
     }
   ],
+  "https://www.parahumans.net/2019/10/26/sundown-17-8/": [
+    {
+      "before": "one primary goal—me-, and who",
+      "after": "one primary goal—me—and who"
+    }
+  ],
   "https://www.parahumans.net/2019/11/02/sundown-17-10/": [
     {
       "before": "wanted you to go to mom if you",
@@ -5973,6 +6017,10 @@
     {
       "before": "<p>Three seconds</p>",
       "after": "<p>Three seconds.</p>"
+    },
+    {
+      "before": "scream—no sound when viewing crystal-pictures, of course-, and",
+      "after": "scream—no sound when viewing crystal-pictures, of course—and"
     }
   ],
   "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
