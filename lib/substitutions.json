@@ -5169,10 +5169,38 @@
       "after": "Keith said, “you decide"
     }
   ],
+  "https://www.parahumans.net/2018/07/03/beacon-8-1/": [
+    {
+      "before": "a group of minors,” Dragon said. “Allow others",
+      "after": "a group of minors,” Dragon said, “allow others"
+    }
+  ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
     {
       "before": "<p>Mom and dad.</p>",
       "after": "<p>Mom and Dad.</p>"
+    },
+    {
+      "before": "Missisipi",
+      "after": "Mississippi"
+    },
+    {
+      "before": "dragoncraft",
+      "after": "Dragon-craft"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/10/beacon-8-3/": [
+    {
+      "before": "It’s—I can’t talk to Byron",
+      "after": "It’s— I can’t talk to Byron"
+    },
+    {
+      "before": "emergency, we’re capes, Cryptid said",
+      "after": "emergency, we’re capes,” Cryptid said"
+    },
+    {
+      "before": "one or two more fallen",
+      "after": "one or two more Fallen"
     }
   ],
   "https://www.parahumans.net/2018/07/14/beacon-8-4/": [
@@ -5183,12 +5211,24 @@
     {
       "before": "and then hit buttons</p>",
       "after": "and then hit buttons.</p>"
+    },
+    {
+      "before": "I <em>think it’s</em> done",
+      "after": "I <em>think</em> it’s done"
     }
   ],
   "https://www.parahumans.net/2018/07/17/beacon-8-5/": [
     {
       "before": "on the offensive.  chains whirled",
       "after": "on the offensive.  Chains whirled"
+    },
+    {
+      "before": "a bit hit to morale",
+      "after": "a big hit to morale"
+    },
+    {
+      "before": "mask was only a B-",
+      "after": "mask was only a B−"
     }
   ],
   "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
@@ -5199,6 +5239,28 @@
     {
       "before": "above me.  the sky was dark",
       "after": "above me.  The sky was dark"
+    },
+    {
+      "before": "she thrwe out a hand",
+      "after": "she threw out a hand"
+    },
+    {
+      "before": "corner them,” I said.  “They’ll threaten civilians",
+      "after": "corner them,” I said, “they’ll threaten civilians"
+    },
+    {
+      "before": "reminiscent of a certain teenage boy-was cast in",
+      "after": "reminiscent of a certain teenage boy—was cast in"
+    },
+    {
+      "before": "Errors influence",
+      "after": "Error’s influence"
+    }
+  ],
+  "https://www.parahumans.net/2018/07/24/beacon-8-7/": [
+    {
+      "before": "Ashley’s activities therin",
+      "after": "Ashley’s activities therein"
     }
   ],
   "https://www.parahumans.net/2018/07/28/beacon-8-8/": [
@@ -5215,12 +5277,48 @@
     {
       "before": "was impatient.  it was hard to tell",
       "after": "was impatient.  It was hard to tell"
+    },
+    {
+      "before": "“Is—Yes,” I finished",
+      "after": "“Is— Yes,” I finished"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/04/beacon-8-10/": [
+    {
+      "before": "<em>I’m supposed to be you</em>?",
+      "after": "<em>I’m supposed to be you?</em>"
+    },
+    {
+      "before": "She had her Eyehook",
+      "after": "She had her eyehook"
+    },
+    {
+      "before": "You—I have to imagine you were",
+      "after": "You— I have to imagine you were"
+    },
+    {
+      "before": "I don’t—I can hear your mother",
+      "after": "I don’t— I can hear your mother"
+    },
+    {
+      "before": "my A—costume with my makeup at an A",
+      "after": "my A− costume with my makeup at an A"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/07/beacon-8-11/": [
+    {
+      "before": "easy to understand story",
+      "after": "easy-to-understand story"
     }
   ],
   "https://www.parahumans.net/2018/08/11/beacon-8-12/": [
     {
       "before": "who are free now.  they’re out there",
       "after": "who are free now.  They’re out there"
+    },
+    {
+      "before": "dare you? Hamza barked, again",
+      "after": "dare you?” Hamza barked, again"
     }
   ],
   "https://www.parahumans.net/2018/08/18/beacon-interlude-8-y/": [
