@@ -2350,6 +2350,18 @@
     {
       "before": "to,” Alexandria spoke. “Is",
       "after": "to,” Alexandria spoke, “is"
+    },
+    {
+      "before": "leave?”  Hero asked.  ”Why",
+      "after": "leave?”  Hero asked.  “Why"
+    },
+    {
+      "before": "eye contact.  ”She",
+      "after": "eye contact.  “She"
+    },
+    {
+      "before": "Alexandria said.  ”Why",
+      "after": "Alexandria said.  “Why"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/10/colony-15-8/": [
@@ -2855,6 +2867,12 @@
     {
       "before": "the phone</p>",
       "after": "the phone.</p>"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/02/16/interlude-18/": [
+    {
+      "before": "her feet.  ”We’re",
+      "after": "her feet.  “We’re"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/19/scourge-19-1/": [
@@ -4459,6 +4477,10 @@
     {
       "before": "my flight toward toward Tristan",
       "after": "my flight toward Tristan"
+    },
+    {
+      "before": "“Spooky,” Sveta said.”I expected",
+      "after": "“Spooky,” Sveta said. “I expected"
     }
   ],
   "https://www.parahumans.net/2018/01/16/glare-3-4/": [
@@ -4703,6 +4725,10 @@
     {
       "before": "The woman—I turned to look and saw",
       "after": "The woman— I turned to look and saw"
+    },
+    {
+      "before": "Tristan asked.”",
+      "after": "Tristan asked."
     }
   ],
   "https://www.parahumans.net/2018/04/03/shadow-5-12/": [
@@ -5618,6 +5644,12 @@
       "after": "—you gotta give something"
     }
   ],
+  "https://www.parahumans.net/2018/10/06/gleaming-9-13/": [
+    {
+      "before": "second.”Clarify.”",
+      "after": "second. “Clarify.”"
+    }
+  ],
   "https://www.parahumans.net/2018/10/09/gleaming-9-14/": [
     {
       "before": "in a fireman carry.  with my free hand",
@@ -5898,6 +5930,12 @@
     {
       "before": "<em>Victoria-</em>flesh",
       "after": "<em>Victoria</em>-flesh"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
+    {
+      "before": "I told the mercenary.”",
+      "after": "I told the mercenary."
     }
   ],
   "https://www.parahumans.net/2019/01/19/interlude-11-b/": [
@@ -6276,6 +6314,10 @@
     {
       "before": "small face on on a fifteen inch",
       "after": "small face on a fifteen inch"
+    },
+    {
+      "before": "for the recording.”",
+      "after": "for the recording."
     }
   ],
   "https://www.parahumans.net/2019/08/24/from-within-16-4/": [
