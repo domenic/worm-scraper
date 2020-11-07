@@ -5,7 +5,7 @@
       "after": "bugs: flies, ants"
     },
     {
-      "before": "<p><em>Brief note from the author:  This story isn’t intended for young or sensitive readers.  Readers who are on the lookout for <a href=\"http://www.urbandictionary.com/define.php?term=Trigger%20warning&amp;defid=6195009\">trigger warnings</a> are advised to give Worm a pass.</em></p>\n<hr />\n",
+      "before": "<p><em>Brief note from the author:  This story isn’t intended for young or sensitive readers.  Readers who are on the lookout for <a href=\"http://www.urbandictionary.com/define.php?term=Trigger%20warning&amp;defid=6195009\">trigger warnings</a> are advised to give Worm a pass.</em></p>\n<p style=\"text-align: center;\">■</p>\n",
       "after": "",
       "_comment": "The pseudo-trigger warning is out of place in an eBook."
     }
@@ -4334,7 +4334,7 @@
   ],
   "https://www.parahumans.net/2017/09/11/daybreak-1-1/": [
     {
-      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<hr />",
+      "before": "<p>Ward is the second work in the Parahumans series, and reading <strong><a href=\"https://parahumans.wordpress.com/\">Worm</a></strong> first is strongly recommended.  A lot of this won’t make sense otherwise and if you do find yourself a fan of the universe, the spoilers in Ward will affect the reading of the other work.</p>\n<p>Ward is not recommended for young or sensitive readers.</p>\n<p style=\"text-align: center;\">⊙</p>\n",
       "after": "",
       "_comment": "This is out of place in an eBook."
     }
@@ -5013,7 +5013,7 @@
   ],
   "https://www.parahumans.net/2018/06/05/torch-7-5/": [
     {
-      "before": "<hr />\n<p><em>I don’t",
+      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><em>I don’t",
       "after": "<p><em>I don’t"
     },
     {
