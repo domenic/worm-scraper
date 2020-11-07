@@ -5632,6 +5632,11 @@
     {
       "regExp": "Crock o Shit",
       "after": "Crock o’ Shit"
+    },
+    {
+      "regExp": "the pharmacist",
+      "replacement": "the Pharmacist",
+      "_comment": "in the previous chapter, 'the Pharmacist' starts getting capitalized consistently, as if it's a name instead of a profession. Carry it forward."
     }
   ],
   "https://www.parahumans.net/2018/10/02/gleaming-9-12/": [
@@ -5642,6 +5647,11 @@
     {
       "before": "—You gotta give something",
       "after": "—you gotta give something"
+    },
+    {
+      "before": "the pharmacist",
+      "after": "the Pharmacist",
+      "_comment": "See comment in https://www.parahumans.net/2018/09/29/gleaming-9-11/"
     }
   ],
   "https://www.parahumans.net/2018/10/06/gleaming-9-13/": [
@@ -5906,6 +5916,13 @@
     {
       "before": "shape of the the moment",
       "after": "shape of the moment"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/25/blinding-11-3/": [
+    {
+      "before": "the pharmacist",
+      "after": "the Pharmacist",
+      "_comment": "See comment in https://www.parahumans.net/2018/09/29/gleaming-9-11/"
     }
   ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
