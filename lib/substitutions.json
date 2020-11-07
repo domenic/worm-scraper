@@ -2448,12 +2448,6 @@
       "after": "all the way up to the nape of my neck"
     }
   ],
-  "https://parahumans.wordpress.com/2012/12/13/interlude-16-donation-bonus-2/": [
-    {
-      "before": "<i>“</i>",
-      "after": "”"
-    }
-  ],
   "https://parahumans.wordpress.com/2012/12/15/monarch-16-7/": [
     {
       "before": "Brockton bay",
@@ -2516,6 +2510,10 @@
     {
       "before": "ten,” I asked. “Just",
       "after": "ten,” I asked, “just"
+    },
+    {
+      "before": "weeks, <i>months.  </i>Anticipating",
+      "after": "weeks, <em>months</em>.  Anticipating"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/08/migration-17-1/": [
@@ -2654,7 +2652,7 @@
   ],
   "https://parahumans.wordpress.com/2013/01/15/migration-17-8/": [
     {
-      "before": "replied.  <i>Need to talk about being more secure with our names.  “</i>What’s going on?<i>“</i>",
+      "before": "replied.  <i>Need to talk about being more secure with our names.  “</i>What’s going on?”",
       "after": "replied.  <em>Need to talk about being more secure with our names.</em>  “What’s going on?”"
     },
     {
@@ -3356,6 +3354,10 @@
     {
       "before": "aren’t allies.",
       "after": "aren’t allies.”"
+    },
+    {
+      "before": "<i>Blameful?  </i>“Guilty",
+      "after": "<em>Blameful?</em>  “Guilty"
     }
   ],
   "https://parahumans.wordpress.com/2013/06/20/crushed-24-5/": [
@@ -4547,6 +4549,10 @@
     {
       "before": "dangerous?” The recluse asked",
       "after": "dangerous?” the recluse asked"
+    },
+    {
+      "before": "<i>Stop.  </i>Please.",
+      "after": "<em>Stop.</em>  Please."
     }
   ],
   "https://www.parahumans.net/2018/02/08/shade-4-4/": [
