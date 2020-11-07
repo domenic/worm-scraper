@@ -4505,6 +4505,12 @@
       "after": "much like the machines"
     }
   ],
+  "https://www.parahumans.net/2018/01/30/shade-4-2/": [
+    {
+      "before": "one earth",
+      "after": "one Earth"
+    }
+  ],
   "https://www.parahumans.net/2018/02/03/shade-4-3/": [
     {
       "before": "ex-birdcage",
@@ -4719,6 +4725,10 @@
     {
       "before": "or if he said something like ‘<em>You’ or “Everyone</em>’, I could",
       "after": "or if he said something like ‘<em>You</em>’ or ‘<em>Everyone</em>’, I could"
+    },
+    {
+      "before": "rain. and I saw",
+      "after": "rain. And I saw"
     }
   ],
   "https://www.parahumans.net/2018/04/07/shadow-interlude-5-x/": [
@@ -5167,6 +5177,10 @@
     {
       "before": "Keith said. “You decide",
       "after": "Keith said, “you decide"
+    },
+    {
+      "before": "The <em>towels!</em>",
+      "after": "The <em>towels</em>!"
     }
   ],
   "https://www.parahumans.net/2018/07/03/beacon-8-1/": [
@@ -5325,10 +5339,54 @@
       "after": "dare you?” Hamza barked, again"
     }
   ],
+  "https://www.parahumans.net/2018/08/14/beacon-interlude-8-x/": [
+    {
+      "before": "attention on Natalie, “this is",
+      "after": "attention on Natalie. “This is"
+    },
+    {
+      "before": "Natalie’s beetle",
+      "after": "Natalie’s Beetle"
+    },
+    {
+      "before": "I <em>said!</em>",
+      "after": "I <em>said</em>!"
+    },
+    {
+      "before": "adam’s apple",
+      "after": "Adam’s apple"
+    },
+    {
+      "before": "Time-time for Kenzie",
+      "after": "Time—time for Kenzie"
+    }
+  ],
   "https://www.parahumans.net/2018/08/18/beacon-interlude-8-y/": [
     {
       "before": "A sufficient impact or distraction</p>",
       "after": "A sufficient impact or distraction.</p>"
+    },
+    {
+      "before": "‘Hard Boil.’",
+      "after": "‘Hard Boil’."
+    },
+    {
+      "before": "tee-vee",
+      "after": "TV"
+    },
+    {
+      "before": "teacher’s power",
+      "after": "Teacher’s power"
+    }
+  ],
+  "https://www.parahumans.net/2018/08/21/gleaming-9-1/": [
+    {
+      "before": "Probably teacher",
+      "after": "Probably Teacher"
+    },
+    {
+      "before": "b-list",
+      "after": "B-list"
     }
   ],
   "https://www.parahumans.net/2018/08/28/gleaming-9-3/": [
@@ -5339,12 +5397,54 @@
     {
       "before": "with a strong Master",
       "after": "with a strong master"
+    },
+    {
+      "before": "—But I can’t make concessions",
+      "after": "—but I can’t make concessions"
+    },
+    {
+      "before": "too impatient and angry  It was worse because",
+      "after": "too impatient and angry.  It was worse because"
+    },
+    {
+      "before": "what it’s worth,” Tristan said.  “Thanks for",
+      "after": "what it’s worth,” Tristan said, “thanks for"
+    },
+    {
+      "before": "Apparently… perk of..",
+      "after": "Apparently… perk of…"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/01/gleaming-9-4/": [
+    {
+      "before": "Power related",
+      "after": "Power-related"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/04/gleaming-9-5/": [
+    {
+      "before": "still a voice without confidence",
+      "after": "Still a voice without confidence"
+    },
+    {
+      "before": "The only thing that hold him back",
+      "after": "The only things that hold him back"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/08/gleaming-9-6/": [
+    {
+      "before": "The patrol had done its work",
+      "after": "The Patrol had done its work"
     }
   ],
   "https://www.parahumans.net/2018/09/11/gleaming-9-7/": [
     {
       "before": "Byron said.  he was at",
       "after": "Byron said.  He was at"
+    },
+    {
+      "before": "then teacher can’t",
+      "after": "then Teacher can’t"
     }
   ],
   "https://www.parahumans.net/2018/09/13/gleaming-interlude-9-x/": [
@@ -5355,6 +5455,120 @@
     {
       "before": "that made her <em>her-</em> the shock of white",
       "after": "that made her <em>her</em>—the shock of white"
+    },
+    {
+      "regExp": "their Papa",
+      "replacement": "their papa"
+    },
+    {
+      "before": "Mama and papa talk",
+      "after": "Mama and Papa talk"
+    },
+    {
+      "before": "injuries,” papa said",
+      "after": "injuries,” Papa said"
+    },
+    {
+      "before": "papa’s face",
+      "after": "Papa’s face"
+    },
+    {
+      "before": "Selfless?” papa asked",
+      "after": "Selfless?” Papa asked"
+    },
+    {
+      "before": "kind of selfie, papa",
+      "after": "kind of selfie, Papa"
+    },
+    {
+      "before": "part of that,” papa said",
+      "after": "part of that,” Papa said"
+    },
+    {
+      "before": "you,” papa said",
+      "after": "you,” Papa said"
+    },
+    {
+      "before": "too, papa,” Tristan said",
+      "after": "too, Papa,” Tristan said"
+    },
+    {
+      "before": "worked in rigid. the armor’s",
+      "after": "worked in rigid. The armor’s"
+    },
+    {
+      "before": "moving and across to",
+      "after": "moving across to"
+    },
+    {
+      "before": "fucking sense!</em>”",
+      "after": "fucking sense</em>!”"
+    },
+    {
+      "before": "that hurt!  <em>Stop</em>!",
+      "after": "that hurt!  <em>Stop!</em>"
+    },
+    {
+      "before": "it was one thing!",
+      "after": "It was one thing!"
+    },
+    {
+      "before": "as an <em>anything!</em>",
+      "after": "as an <em>anything</em>!"
+    },
+    {
+      "before": "have <em>backed you up!</em>",
+      "after": "have <em>backed you up</em>!"
+    },
+    {
+      "before": "mr. Vaughn",
+      "after": "Mr. Vaughn"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/15/gleaming-9-8/": [
+    {
+      "before": "<p>For those who missed it, there was a Thursday update.  See the prior chapter.</p>\n<p style=\"text-align: center;\">⊙</p>\n",
+      "after": ""
+    },
+    {
+      "before": "Capricorn blue",
+      "after": "Capricorn Blue"
+    },
+    {
+      "before": "everything ended, Several of my",
+      "after": "everything ended, several of my"
+    },
+    {
+      "before": "you <em>can!  Y</em>ou",
+      "after": "you <em>can</em>!  You"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/18/gleaming-9-9/": [
+    {
+      "before": "teacher thrall",
+      "after": "Teacher thrall"
+    },
+    {
+      "before": "need to,” I said, because I’m",
+      "after": "need to,” I said, “because I’m"
+    },
+    {
+      "before": "keeping the Warden and his deputy",
+      "after": "keeping the warden and his deputy"
+    }
+  ],
+  "https://www.parahumans.net/2018/09/22/gleaming-interlude-9-y/": [
+    {
+      "before": "you up where you’re</em> weak? <em>You’re",
+      "after": "you up where you’re </em>weak<em>? You’re"
+    },
+    {
+      "before": "for you</em>.",
+      "after": "for you.</em>"
+    },
+    {
+      "before": "Why ‘<em>inflict</em>‘",
+      "after": "Why ‘<em>inflict</em>’"
     }
   ],
   "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
@@ -5365,54 +5579,195 @@
     {
       "before": "at the balcony.  both wore",
       "after": "at the balcony.  Both wore"
+    },
+    {
+      "before": "—But Rain and Sveta",
+      "after": "—but Rain and Sveta"
+    },
+    {
+      "before": "Cyrstalclear",
+      "after": "Crystalclear"
+    },
+    {
+      "before": "He stopped here he was",
+      "after": "He stopped where he was"
+    },
+    {
+      "regExp": "Warden",
+      "replacement": "warden",
+      "_comment": "This is discussing prison wardens, which is a normal job title"
     }
   ],
   "https://www.parahumans.net/2018/09/29/gleaming-9-11/": [
     {
       "before": "two people died.  the forcefield went",
       "after": "two people died.  The forcefield went"
+    },
+    {
+      "before": "Maybe wrong to think that within",
+      "after": "Maybe wrong to think that, within"
+    },
+    {
+      "regExp": "Crock o Shit",
+      "after": "Crock o’ Shit"
+    }
+  ],
+  "https://www.parahumans.net/2018/10/02/gleaming-9-12/": [
+    {
+      "before": "teacher hit squad",
+      "after": "Teacher hit squad"
+    },
+    {
+      "before": "—You gotta give something",
+      "after": "—you gotta give something"
     }
   ],
   "https://www.parahumans.net/2018/10/09/gleaming-9-14/": [
     {
       "before": "in a fireman carry.  with my free hand",
       "after": "in a fireman carry.  With my free hand"
+    },
+    {
+      "before": "fucking teacher wouldn’t",
+      "after": "fucking Teacher wouldn’t"
     }
   ],
   "https://www.parahumans.net/2018/10/13/gleaming-9-15/": [
     {
       "before": "<em>-fucked in the head.",
       "after": "<em>—fucked in the head."
+    },
+    {
+      "before": "some of the creases. and from the",
+      "after": "some of the creases, and from the"
+    },
+    {
+      "before": "<em>Disappointed</em>?",
+      "after": "<em>Disappointed?</em>"
     }
   ],
   "https://www.parahumans.net/2018/10/16/gleaming-interlude-9-z/": [
     {
       "before": "cliff he was was expected",
       "after": "cliff he was expected"
+    },
+    {
+      "before": "told the Warden differed",
+      "after": "told the warden differed"
+    },
+    {
+      "before": "assistant Warden",
+      "after": "assistant warden"
+    },
+    {
+      "before": "behind those things was <em>By,</em>",
+      "after": "behind those things was <em>By</em>,"
+    },
+    {
+      "before": "<em>What got into you</em>?",
+      "after": "<em>What got into you?</em>"
+    },
+    {
+      "before": "what happens to anyone with powers is near anyone",
+      "after": "what happens when anyone with powers is near anyone"
     }
   ],
-  "https://www.parahumans.net/2018/12/11/interlude-10-y/": [
+  "https://www.parahumans.net/2018/10/20/gleaming-interlude-9/": [
     {
-      "before": "shape of the the moment",
-      "after": "shape of the moment"
+      "before": "<em>Guarderò</em>",
+      "after": "<em>Guarderò.</em>"
+    },
+    {
+      "before": "one earth’s worth",
+      "after": "one Earth’s worth"
+    },
+    {
+      "before": "the adjacent earth",
+      "after": "the adjacent Earth"
+    },
+    {
+      "before": "closest earth",
+      "after": "closest Earth"
+    },
+    {
+      "before": "of them, “Would be",
+      "after": "of them, “would be"
+    },
+    {
+      "before": "finds it’s root",
+      "after": "finds its root"
+    },
+    {
+      "before": "they’re <em>Valkyrie,</em> Crystal",
+      "after": "they’re <em>Valkyrie</em>, Crystal"
     }
   ],
   "https://www.parahumans.net/2018/10/23/polarize-10-1/": [
     {
       "before": "You let mom talk and",
       "after": "You let Mom talk and"
+    },
+    {
+      "before": "post-Prison",
+      "after": "post-prison"
+    },
+    {
+      "before": "to take power!’ ”",
+      "after": "to take power!’”"
+    },
+    {
+      "before": "I’m sorry, <em>what?  What?</em>",
+      "after": "I’m sorry, <em>what</em>?  <em>What?</em>"
     }
   ],
   "https://www.parahumans.net/2018/10/27/polarize-10-2/": [
     {
       "before": "Sveta said, leaning on me</p>",
       "after": "Sveta said, leaning on me.</p>"
+    },
+    {
+      "before": "and that part of me is really disappointed",
+      "after": "And that part of me is really disappointed"
+    }
+  ],
+  "https://www.parahumans.net/2018/10/30/polarize-10-3/": [
+    {
+      "before": "betray-y",
+      "after": "betray-ey"
     }
   ],
   "https://www.parahumans.net/2018/11/03/polarize-10-4/": [
     {
       "before": "services of mercenaries.  depending on timing",
       "after": "services of mercenaries.  Depending on timing"
+    },
+    {
+      "before": "we should get going",
+      "after": "We should get going"
+    },
+    {
+      "before": "clean her stuff..  She’ll be out soon",
+      "after": "clean her stuff.  She’ll be out soon"
+    },
+    {
+      "before": "finger—and thumb-rings",
+      "after": "finger- and thumb-rings"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/06/polarize-10-5/": [
+    {
+      "before": "because It’s pertinent to",
+      "after": "because it’s pertinent to"
+    },
+    {
+      "before": "bangs said, “They won’t give",
+      "after": "bangs said, “they won’t give"
+    }
+  ],
+  "https://www.parahumans.net/2018/11/10/polarize-10-6/": [
+    {
+      "before": "<em>Caveat</em>",
+      "after": "<em>caveat</em>"
     }
   ],
   "https://www.parahumans.net/2018/11/13/polarize-10-7/": [
@@ -5427,24 +5782,84 @@
     {
       "before": "<em>-your pancreas.</em>",
       "after": "<em>—your pancreas.</em>"
+    },
+    {
+      "before": "a hair of headphones",
+      "after": "a pair of headphones"
+    },
+    {
+      "before": "Shark girl",
+      "after": "shark girl"
+    },
+    {
+      "before": "Be safe—Nat.",
+      "after": "Be safe —Nat."
+    },
+    {
+      "before": "<em>kill each other.”</em>",
+      "after": "<em>kill each other</em>.”"
     }
   ],
   "https://www.parahumans.net/2018/11/17/polarize-10-8/": [
     {
       "before": "Sveta said.  her hand was removed",
       "after": "Sveta said.  Her hand was removed"
+    },
+    {
+      "before": "There were a bag fast food",
+      "after": "There was a bag of fast food"
+    },
+    {
+      "before": "anti parahuman",
+      "after": "anti-parahuman"
     }
   ],
   "https://www.parahumans.net/2018/11/20/polarize-10-9/": [
     {
       "before": "confines of the suit.  and rearranged herself",
       "after": "confines of the suit, and rearranged herself"
+    },
+    {
+      "before": "‘piece",
+      "after": "’piece"
+    },
+    {
+      "before": "Fuck y—of course",
+      "after": "Fuck y— Of course"
+    },
+    {
+      "before": "they had Fallen behind",
+      "after": "they had fallen behind"
+    },
+    {
+      "before": "Fucking <em>heroes!</em>",
+      "after": "Fucking <em>heroes</em>!"
+    },
+    {
+      "before": "the <em>unfucked!</em>",
+      "after": "the <em>unfucked</em>!"
     }
   ],
   "https://www.parahumans.net/2018/11/24/interlude-10-x/": [
     {
       "before": "that would be in time  Hopefully</p>",
       "after": "that would be in time.  Hopefully.</p>"
+    },
+    {
+      "before": "consisting of two—and three-person",
+      "after": "consisting of two- and three-person"
+    },
+    {
+      "before": "Garotte, Hand at one",
+      "after": "Garotte, hand at one"
+    },
+    {
+      "before": "with that, The unfortunately named",
+      "after": "with that, the unfortunately-named"
+    },
+    {
+      "before": "not aware of the lipstick am",
+      "after": "not aware of the lipstick"
     }
   ],
   "https://www.parahumans.net/2018/11/27/polarize-10-10/": [
@@ -5457,6 +5872,12 @@
     {
       "before": "See dad, sleep.",
       "after": "See Dad, sleep."
+    }
+  ],
+  "https://www.parahumans.net/2018/12/11/interlude-10-y/": [
+    {
+      "before": "shape of the the moment",
+      "after": "shape of the moment"
     }
   ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
@@ -5553,6 +5974,10 @@
     {
       "before": "I need dad",
       "after": "I need Dad"
+    },
+    {
+      "before": "Oh <em>fuck!</em>",
+      "after": "Oh <em>fuck</em>!"
     }
   ],
   "https://www.parahumans.net/2019/02/23/heavens-12-3/": [
