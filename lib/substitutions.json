@@ -2222,8 +2222,8 @@
   ],
   "https://parahumans.wordpress.com/2012/09/15/prey-14-4/": [
     {
-      "before": "a ‘<em>No, you just told me.</em>‘, but",
-      "after": "a “<em>No, you just told me</em>,” but"
+      "before": "a ‘<em>No, you just told me.</em>’, but",
+      "after": "a ‘<em>No, you just told me</em>,’ but"
     },
     {
       "before": "Amy,” Tattletale said. “But",
@@ -3750,14 +3750,6 @@
       "after": "I’m <em>not</em>?  <em>Fuck.</em>  There’s"
     },
     {
-      "before": "‘<em>Freud</em>‘, and",
-      "after": "‘<em>Freud</em>’, and"
-    },
-    {
-      "before": "‘<em>who knows?</em>‘",
-      "after": "‘<em>who knows?</em>’"
-    },
-    {
       "before": "I suspect It’s a",
       "after": "I suspect it’s a"
     },
@@ -4599,10 +4591,6 @@
     {
       "before": "<em>‘Won’t</em>",
       "after": "‘<em>Won’t</em>"
-    },
-    {
-      "before": "you the number</em>‘",
-      "after": "you the number</em>’"
     }
   ],
   "https://www.parahumans.net/2018/02/22/shade-interlude-4c/": [
@@ -5593,10 +5581,6 @@
     {
       "before": "for you</em>.",
       "after": "for you.</em>"
-    },
-    {
-      "before": "Why ‘<em>inflict</em>‘",
-      "after": "Why ‘<em>inflict</em>’"
     }
   ],
   "https://www.parahumans.net/2018/09/25/gleaming-9-10/": [
