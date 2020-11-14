@@ -5902,18 +5902,132 @@
     {
       "before": "Sveta added a, “No,” for good measure",
       "after": "Sveta added a “no” for good measure"
+    },
+    {
+      "before": "We need to figure out how—we—handle this",
+      "after": "We need to figure out how </em>we<em> handle this"
     }
   ],
   "https://www.parahumans.net/2018/12/01/polarize-10-11/": [
     {
       "before": "See dad, sleep.",
       "after": "See Dad, sleep."
+    },
+    {
+      "before": "T, u-.",
+      "after": "T, U."
+    },
+    {
+      "before": "I did it with—I’ve done it before",
+      "after": "I did it with— I’ve done it before"
+    },
+    {
+      "before": "and to be our liaisons to the Wardens",
+      "after": "and to be our liaison to the Wardens"
+    },
+    {
+      "before": "“Twelve hours ago,” I explained. “The Navigators were sent",
+      "after": "“Twelve hours ago,” I explained, “the Navigators were sent"
+    },
+    {
+      "before": "You said you wanted to limiting this serious step",
+      "after": "You said you wanted to limit this serious step"
+    },
+    {
+      "before": "On any other day, objective, I would",
+      "after": "On any other day, objectively, I would"
+    },
+    {
+      "before": "how it were more active",
+      "after": "how it was more active"
+    },
+    {
+      "before": "running <em>to the same places.”</em>",
+      "after": "running <em>to the same places</em>.”"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/04/polarize-10-12/": [
+    {
+      "before": "Dryad Project 3",
+      "after": "Dryad Project Three"
+    },
+    {
+      "before": "Pollution, deforestation, ecology all things that",
+      "after": "Pollution, deforestation, ecology, all things that"
+    },
+    {
+      "before": "dropped an expose",
+      "after": "dropped an exposé"
+    },
+    {
+      "before": "—But the good feelings",
+      "after": "—but the good feelings"
+    },
+    {
+      "before": "A pan—a cure all for",
+      "after": "A pan— A cure-all for"
+    },
+    {
+      "before": "No—Yes, but that isn’t",
+      "after": "No— Yes, but that isn’t"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/08/polarize-10-13/": [
+    {
+      "before": "A ring thirty feet in diameterand past those thirty feet",
+      "after": "A ring thirty feet in diameter—and past those thirty feet"
+    },
+    {
+      "before": "axe—arm",
+      "after": "axe-arm"
     }
   ],
   "https://www.parahumans.net/2018/12/11/interlude-10-y/": [
     {
       "before": "shape of the the moment",
       "after": "shape of the moment"
+    },
+    {
+      "before": "We <em>have!  Multiple times!</em>",
+      "after": "We <em>have</em>!  <em>Multiple times!</em>"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/15/interlude-10-z/": [
+    {
+      "before": "roman with hair on his legs",
+      "after": "Roman with hair on his legs"
+    },
+    {
+      "before": "New Brockton primary school",
+      "after": "New Brockton Primary School"
+    },
+    {
+      "before": "They can be <em>so cool,</em> but",
+      "after": "They can be <em>so cool</em>, but"
+    },
+    {
+      "before": "Rome-Roman’s",
+      "after": "Rome—Roman’s"
+    },
+    {
+      "before": "Amais’",
+      "after": "Amais’s"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/18/blinding-11-1/": [
+    {
+      "before": "prisoner and patrol",
+      "after": "prisoner and Patrol"
+    },
+    {
+      "before": "before they chage",
+      "after": "before they change"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/22/blinding-11-2/": [
+    {
+      "before": "—But please respect",
+      "after": "—but please respect"
     }
   ],
   "https://www.parahumans.net/2018/12/25/blinding-11-3/": [
@@ -5921,6 +6035,68 @@
       "before": "the pharmacist",
       "after": "the Pharmacist",
       "_comment": "See comment in https://www.parahumans.net/2018/09/29/gleaming-9-11/"
+    },
+    {
+      "before": "…Delivering my coup de grace",
+      "after": "…delivering my coup de grace"
+    },
+    {
+      "before": "G.G..",
+      "after": "G.G."
+    },
+    {
+      "before": "Flash Gun",
+      "after": "flash gun"
+    }
+  ],
+  "https://www.parahumans.net/2018/12/29/interlude-11-a/": [
+    {
+      "before": "D.J..",
+      "after": "D.J."
+    },
+    {
+      "before": "Chiet",
+      "after": "Cheit"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/01/blinding-11-4/": [
+    {
+      "before": "—But if your head is full of noise",
+      "after": "—but if your head is full of noise"
+    },
+    {
+      "before": "One of the Heartbroken—Candy, I was pretty sure, was sitting",
+      "after": "One of the Heartbroken—Candy, I was pretty sure—was sitting"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/05/blinding-11-5/": [
+    {
+      "before": "the<em>y</em>‘re",
+      "after": "they’re"
+    },
+    {
+      "before": "and piece of construction material",
+      "after": "and pieces of construction material"
+    },
+    {
+      "before": "the chiming finding it stride",
+      "after": "the chiming finding its stride"
+    },
+    {
+      "before": "need to step in.",
+      "after": "need to step in.”"
+    },
+    {
+      "before": "a smell had soaked into",
+      "after": "a smell that had soaked into"
+    },
+    {
+      "before": "result putting together",
+      "after": "result of putting together"
+    },
+    {
+      "before": "’emergency alert’",
+      "after": "‘emergency alert’"
     }
   ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
