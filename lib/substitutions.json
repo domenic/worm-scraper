@@ -6031,6 +6031,14 @@
     {
       "before": "’emergency alert’",
       "after": "‘emergency alert’"
+    },
+    {
+      "before": "Three heartbroken",
+      "after": "Three Heartbroken"
+    },
+    {
+      "before": "two heartbroken",
+      "after": "two Heartbroken"
     }
   ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
@@ -6045,6 +6053,18 @@
     {
       "before": "more fragile than it should have been</p>",
       "after": "more fragile than it should have been.</p>"
+    },
+    {
+      "before": "too close to heartbroken",
+      "after": "too close to Heartbroken"
+    },
+    {
+      "before": "Precipice and the heartbroken",
+      "after": "Precipice and the Heartbroken"
+    },
+    {
+      "before": "If the heartbroken’s power",
+      "after": "If the Heartbroken’s power"
     }
   ],
   "https://www.parahumans.net/2019/01/15/blinding-11-8/": [
@@ -6057,12 +6077,6 @@
       "after": "<em>Victoria</em>-flesh"
     }
   ],
-  "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
-    {
-      "before": "I told the mercenary.”",
-      "after": "I told the mercenary."
-    }
-  ],
   "https://www.parahumans.net/2019/01/19/interlude-11-b/": [
     {
       "before": "loading up trucks with basic supplies</p>",
@@ -6071,12 +6085,30 @@
   ],
   "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
     {
+      "before": "I told the mercenary.”",
+      "after": "I told the mercenary."
+    },
+    {
       "before": "someone had been been called at three",
       "after": "someone had been called at three"
     },
     {
       "before": "I croaked.  as she picked up",
       "after": "I croaked, as she picked up"
+    },
+    {
+      "before": "two heartbroken",
+      "after": "two Heartbroken"
+    },
+    {
+      "before": "three heartbroken",
+      "after": "three Heartbroken"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/29/blinding-11-10/": [
+    {
+      "before": "heartbroken kid",
+      "after": "Heartbroken kid"
     }
   ],
   "https://www.parahumans.net/2019/02/02/blinding-11-11/": [
@@ -6237,6 +6269,12 @@
       "after": "wiped—or perhaps <em>struck</em>—clean."
     }
   ],
+  "https://www.parahumans.net/2019/04/16/black-13-5/": [
+    {
+      "before": "For some of the heartbroken",
+      "after": "For some of the Heartbroken"
+    }
+  ],
   "https://www.parahumans.net/2019/04/20/black-13-6/": [
     {
       "before": "I’m a Master, right, you",
@@ -6375,6 +6413,10 @@
     {
       "before": "wall met ceiling.  the wall was smooth",
       "after": "wall met ceiling.  The wall was smooth"
+    },
+    {
+      "before": "The blond heartbroken",
+      "after": "The blond Heartbroken"
     }
   ],
   "https://www.parahumans.net/2019/07/09/dying-15-2/": [
@@ -6741,6 +6783,12 @@
     {
       "before": "figure out while she was gone.  we’ll see who",
       "after": "figure out while she was gone.  We’ll see who"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/18/infrared-19-g/": [
+    {
+      "before": "Imp and the heartbroken",
+      "after": "Imp and the Heartbroken"
     }
   ],
   "https://www.parahumans.net/2020/02/25/last-20-1/": [
