@@ -2544,6 +2544,10 @@
     {
       "before": "city,” Jess said. “And",
       "after": "city,” Jess said, “and"
+    },
+    {
+      "before": "“No<em>!”</em>",
+      "after": "“No!”"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/10/migration-17-3/": [
@@ -3438,6 +3442,10 @@
     {
       "before": "White capped",
       "after": "White-capped"
+    },
+    {
+      "before": "<em>.  “Bosses are worried.”</em>",
+      "after": ".  “<em>Bosses are worried</em>.”"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/09/scarab-25-4/": [
@@ -3484,12 +3492,6 @@
     {
       "before": "avoided-",
       "after": "avoided"
-    }
-  ],
-  "https://parahumans.wordpress.com/2013/07/16/interlude-25/": [
-    {
-      "before": "your <em>manners?”</em>",
-      "after": "your <em>manners</em>?”"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/18/sting-26-1/": [
@@ -5798,10 +5800,6 @@
     {
       "before": "Be safe—Nat.",
       "after": "Be safe —Nat."
-    },
-    {
-      "before": "<em>kill each other.”</em>",
-      "after": "<em>kill each other</em>.”"
     }
   ],
   "https://www.parahumans.net/2018/11/17/polarize-10-8/": [
@@ -5904,10 +5902,6 @@
     {
       "before": "how it were more active",
       "after": "how it was more active"
-    },
-    {
-      "before": "running <em>to the same places.”</em>",
-      "after": "running <em>to the same places</em>.”"
     }
   ],
   "https://www.parahumans.net/2018/12/04/polarize-10-12/": [
@@ -6287,6 +6281,10 @@
     {
       "before": "you have have surmised",
       "after": "you have surmised"
+    },
+    {
+      "before": "pound of flesh, <em>at least—!”</em>",
+      "after": "pound of flesh, <em>at least</em>—!”"
     }
   ],
   "https://www.parahumans.net/2019/04/02/black-13-1/": [
@@ -6649,6 +6647,10 @@
     {
       "before": "looking for mom in the crowd",
       "after": "looking for Mom in the crowd"
+    },
+    {
+      "before": "“E<em>ntrapment</em>.”",
+      "after": "“<em>Entrapment.</em>”"
     }
   ],
   "https://www.parahumans.net/2019/11/23/radiation-18-3/": [
@@ -6803,6 +6805,10 @@
     {
       "before": "you know about” my Aunt Sarah said",
       "after": "you know about,” my Aunt Sarah said"
+    },
+    {
+      "before": "so they grow <em>in…”</em>",
+      "after": "so they grow <em>in</em>…”"
     }
   ],
   "https://www.parahumans.net/2020/02/11/infrared-19-f/": [
@@ -6839,6 +6845,12 @@
     {
       "before": "across this clearing.  eyes, cameras",
       "after": "across this clearing.  Eyes, cameras"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/07/last-20-4/": [
+    {
+      "before": "peace<em>!”</em> Cryptid growled",
+      "after": "peace!” Cryptid growled"
     }
   ],
   "https://www.parahumans.net/2020/03/31/last-20-10/": [
