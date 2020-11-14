@@ -2282,6 +2282,10 @@
     {
       "before": "volunteered, <em>asked<br />\n</em> to",
       "after": "volunteered, <em>asked</em> to"
+    },
+    {
+      "before": "happened to <em>my daughter!</em>?",
+      "after": "happened to <em>my daughter</em>!?"
     }
   ],
   "https://parahumans.wordpress.com/2012/10/25/interlude-15-donation-bonus-2/": [
@@ -2660,6 +2664,10 @@
     {
       "before": "on his knees.  he held the cigarette",
       "after": "on his knees.  He held the cigarette"
+    },
+    {
+      "before": "‘<em>hief</em>!",
+      "after": "<em>’hief</em>!"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/19/queen-18-1/": [
@@ -3550,6 +3558,10 @@
     {
       "before": "kill all of the Masters that are generating",
       "after": "kill all of the masters that are generating"
+    },
+    {
+      "before": "—<em>break up the fog!</em>",
+      "after": "<em>—break up the fog!</em>"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/06/interlude-26a/": [
@@ -4262,10 +4274,6 @@
     {
       "before": "Tattletale:<br />\nwaiting?",
       "after": "Tattletale: waiting?"
-    },
-    {
-      "before": "<em>yes!</em>",
-      "after": "<em>yes</em>!"
     },
     {
       "before": "Please, If you",
@@ -5177,10 +5185,6 @@
     {
       "before": "Keith said. “You decide",
       "after": "Keith said, “you decide"
-    },
-    {
-      "before": "The <em>towels!</em>",
-      "after": "The <em>towels</em>!"
     }
   ],
   "https://www.parahumans.net/2018/07/03/beacon-8-1/": [
@@ -5349,10 +5353,6 @@
       "after": "Natalie’s Beetle"
     },
     {
-      "before": "I <em>said!</em>",
-      "after": "I <em>said</em>!"
-    },
-    {
       "before": "adam’s apple",
       "after": "Adam’s apple"
     },
@@ -5511,10 +5511,6 @@
     {
       "before": "it was one thing!",
       "after": "It was one thing!"
-    },
-    {
-      "before": "as an <em>anything!</em>",
-      "after": "as an <em>anything</em>!"
     },
     {
       "before": "have <em>backed you up!</em>",
@@ -5834,14 +5830,6 @@
     {
       "before": "they had Fallen behind",
       "after": "they had fallen behind"
-    },
-    {
-      "before": "Fucking <em>heroes!</em>",
-      "after": "Fucking <em>heroes</em>!"
-    },
-    {
-      "before": "the <em>unfucked!</em>",
-      "after": "the <em>unfucked</em>!"
     }
   ],
   "https://www.parahumans.net/2018/11/24/interlude-10-x/": [
@@ -6163,6 +6151,10 @@
     {
       "before": "to Capricorn.  then she looked",
       "after": "to Capricorn.  Then she looked"
+    },
+    {
+      "before": "<em>fucking daughter!</em>",
+      "after": "<em>fucking daughter</em>!"
     }
   ],
   "https://www.parahumans.net/2019/02/05/blinding-11-12/": [
@@ -6213,10 +6205,6 @@
     {
       "before": "I need dad",
       "after": "I need Dad"
-    },
-    {
-      "before": "Oh <em>fuck!</em>",
-      "after": "Oh <em>fuck</em>!"
     }
   ],
   "https://www.parahumans.net/2019/02/23/heavens-12-3/": [
