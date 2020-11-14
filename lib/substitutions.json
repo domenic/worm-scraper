@@ -3724,10 +3724,6 @@
       "after": "I suspect it’s a"
     },
     {
-      "before": "Case Fifty-three",
-      "after": "case fifty-three"
-    },
-    {
       "before": "reality,” Tattletale said. “What’s",
       "after": "reality,” Tattletale said, “what’s"
     },
@@ -3751,10 +3747,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/09/17/interlude-28/": [
-    {
-      "before": "Case fifty-threes",
-      "after": "case fifty-threes"
-    },
     {
       "before": "than,” Revel paused. “Six",
       "after": "than,” Revel paused, “six"
@@ -4044,14 +4036,6 @@
     {
       "before": "gun build",
       "after": "gun built"
-    },
-    {
-      "before": "hunchbacked Case fifty-three",
-      "after": "hunchbacked case fifty-three"
-    },
-    {
-      "before": "moved Case fifty-threes",
-      "after": "moved case fifty-threes"
     },
     {
       "before": "I revoked my control over her, leaving in in the middle",
