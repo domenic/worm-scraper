@@ -444,6 +444,10 @@
     {
       "before": "down the stairs.  then as carefully as we could",
       "after": "down the stairs.  Then, as carefully as we could"
+    },
+    {
+      "before": "I took his feet  With agonizing slowness",
+      "after": "I took his feet.  With agonizing slowness"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/03/hive-5-9/": [
@@ -754,6 +758,10 @@
     {
       "before": "Coil,” I spoke. “It’s",
       "after": "Coil,” I spoke, “it’s"
+    },
+    {
+      "before": "trying to convince me  The question",
+      "after": "trying to convince me.  The question"
     }
   ],
   "https://parahumans.wordpress.com/2012/02/25/buzz-7-12/": [
@@ -1450,6 +1458,10 @@
     {
       "before": "“…Things are",
       "after": "“…things are"
+    },
+    {
+      "before": "swarm had gone  Had the girl’s armor",
+      "after": "swarm had gone.  Had the girl’s armor"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/24/parasite-10-1/": [
@@ -2785,6 +2797,10 @@
     {
       "before": "priest,” he said. “I",
       "after": "priest,” he said, “I"
+    },
+    {
+      "before": "Jessica observed  She looked like",
+      "after": "Jessica observed.  She looked like"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/09/queen-18-7/": [
@@ -2903,6 +2919,12 @@
     {
       "before": "noting,” Legend said. “That",
       "after": "noting,” Legend said, “that"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/03/05/scourge-19-5/": [
+    {
+      "before": "returned to a standing position  Her face was softer",
+      "after": "returned to a standing position.  Her face was softer"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/09/scourge-19-6/": [
@@ -3500,6 +3522,10 @@
     {
       "before": "think,” Dobrynja said. “You’ve",
       "after": "think,” Dobrynja said, “you’ve"
+    },
+    {
+      "before": "particular type out there  Eight Cherishes are dead",
+      "after": "particular type out there.  Eight Cherishes are dead"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/27/sting-26-4/": [
@@ -3570,6 +3596,10 @@
     {
       "before": "these past few years</p>",
       "after": "these past few years.</p>"
+    },
+    {
+      "before": "Focus  Memorize.",
+      "after": "Focus.  Memorize."
     }
   ],
   "https://parahumans.wordpress.com/2013/08/13/extinction-27-1/": [
@@ -3886,6 +3916,10 @@
     {
       "before": "panting for breath.  the wound at his",
       "after": "panting for breath.  The wound at his"
+    },
+    {
+      "before": "appeared behind her  A man with yellow skin",
+      "after": "appeared behind her.  A man with yellow skin"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/15/speck-30-1/": [
@@ -5922,6 +5956,10 @@
     {
       "before": "axe—arm",
       "after": "axe-arm"
+    },
+    {
+      "before": "hit him again  He wouldn’t simply",
+      "after": "hit him again.  He wouldn’t simply"
     }
   ],
   "https://www.parahumans.net/2018/12/11/interlude-10-y/": [
@@ -6039,6 +6077,16 @@
     {
       "before": "two heartbroken",
       "after": "two Heartbroken"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/08/blinding-11-6/": [
+    {
+      "before": "Let’s go  Let’s make a hole",
+      "after": "Let’s go.  Let’s make a hole"
+    },
+    {
+      "before": "catch up with the group  I saw Foil and Chastity",
+      "after": "catch up with the group.  I saw Foil and Chastity"
     }
   ],
   "https://www.parahumans.net/2019/01/12/blinding-11-7/": [
@@ -6575,6 +6623,10 @@
     {
       "before": "one primary goal—me-, and who",
       "after": "one primary goal—me—and who"
+    },
+    {
+      "before": "She’s aggressive  If anyone makes",
+      "after": "She’s aggressive.  If anyone makes"
     }
   ],
   "https://www.parahumans.net/2019/11/02/sundown-17-10/": [
@@ -6661,6 +6713,10 @@
     {
       "before": "“I’m fine” Egg said",
       "after": "“I’m fine,” Egg said"
+    },
+    {
+      "before": "can’t induce triggers  There were parahumans",
+      "after": "can’t induce triggers.  There were parahumans"
     }
   ],
   "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
