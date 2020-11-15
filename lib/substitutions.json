@@ -6107,6 +6107,40 @@
     {
       "before": "loading up trucks with basic supplies</p>",
       "after": "loading up trucks with basic supplies.</p>"
+    },
+    {
+      "before": "I’m sor—that fucking sucks",
+      "after": "I’m sor— That fucking sucks"
+    },
+    {
+      "before": "two of the targets was really",
+      "after": "two of the targets were really"
+    },
+    {
+      "before": "punch a hold into the ground",
+      "after": "punch a hole into the ground"
+    }
+  ],
+  "https://www.parahumans.net/2019/01/22/interlude-11-c/": [
+    {
+      "before": "were a worse adult examples",
+      "after": "were worse adult examples"
+    },
+    {
+      "before": "four-times-normal—width",
+      "after": "four-times-normal-width"
+    },
+    {
+      "before": "accumualted",
+      "after": "accumulated"
+    },
+    {
+      "before": "get away from one swung",
+      "after": "get away from one swing"
+    },
+    {
+      "before": "“Cradle—the most intact part of Tattletale said",
+      "after": "“Cradle—” the most intact part of Tattletale said"
     }
   ],
   "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
@@ -6129,12 +6163,28 @@
     {
       "before": "three heartbroken",
       "after": "three Heartbroken"
+    },
+    {
+      "before": "Do yo want me to send",
+      "after": "Do you want me to send"
+    },
+    {
+      "before": "PRT—or SWAT-van style",
+      "after": "PRT- or SWAT-van style"
+    },
+    {
+      "before": "<em>apparently I</em>",
+      "after": "<em>apparently</em> I"
     }
   ],
   "https://www.parahumans.net/2019/01/29/blinding-11-10/": [
     {
       "before": "heartbroken kid",
       "after": "Heartbroken kid"
+    },
+    {
+      "before": "The <em>team, the dynamic with the Undersiders</em>, the Heartbroken, the <em>kids</em>",
+      "after": "The <em>team</em>, the <em>dynamic with the Undersiders</em>, the Heartbroken, the <em>kids</em>"
     }
   ],
   "https://www.parahumans.net/2019/02/02/blinding-11-11/": [
@@ -6145,12 +6195,36 @@
     {
       "before": "<em>fucking daughter!</em>",
       "after": "<em>fucking daughter</em>!"
+    },
+    {
+      "before": "The Warrior Monk told me",
+      "after": "the Warrior Monk told me"
+    },
+    {
+      "before": "Foil-Hookline",
+      "after": "Foil–Hookline"
     }
   ],
   "https://www.parahumans.net/2019/02/05/blinding-11-12/": [
     {
       "before": "and drawers.  her legs were stacked against",
       "after": "and drawers.  Her legs were stacked against"
+    },
+    {
+      "before": "Not when—not like this.",
+      "after": "Not when— Not like this."
+    },
+    {
+      "before": "<em>Go you, Little</em> V.",
+      "after": "<em>Go you, Little V.</em>"
+    },
+    {
+      "before": "the King on the chess board",
+      "after": "the king on the chess board"
+    },
+    {
+      "before": "Almost Eight?",
+      "after": "Almost eight?"
     }
   ],
   "https://www.parahumans.net/2019/02/09/interlude-12-z/": [
@@ -6173,18 +6247,54 @@
     {
       "before": "all the Kiss and Kill things",
       "after": "all the kiss and kill things"
+    },
+    {
+      "before": "relatives houses",
+      "after": "relatives’ houses"
+    },
+    {
+      "before": "<em>Do you want to see me go all out</em>? she thought",
+      "after": "<em>Do you want to see me go all out?</em> she thought"
+    },
+    {
+      "before": "roof top",
+      "after": "rooftop"
     }
   ],
   "https://www.parahumans.net/2019/02/12/heavens-12-1/": [
     {
       "before": "And mom’s implying I want",
       "after": "And Mom’s implying I want"
+    },
+    {
+      "before": "ent North",
+      "after": "ent north"
+    },
+    {
+      "before": "They headed <em>North</em>",
+      "after": "They headed <em>north</em>"
+    },
+    {
+      "before": "It had been Marquis, before",
+      "after": "It had been Marquis’, before"
+    },
+    {
+      "before": "police, patrol, or station",
+      "after": "police, Patrol, or station"
+    },
+    {
+      "before": "earth-N",
+      "after": "Earth-N"
     }
   ],
   "https://www.parahumans.net/2019/02/16/heavens-12-2/": [
     {
       "before": "And <em>you-</em> don’t do that",
       "after": "And <em>you</em>—don’t do that"
+    },
+    {
+      "before": "<em>Harbingers</em>?",
+      "after": "<em>Harbingers?</em>"
     }
   ],
   "https://www.parahumans.net/2019/02/19/interlude-12-e/": [
@@ -6195,12 +6305,30 @@
     {
       "before": "I need dad",
       "after": "I need Dad"
+    },
+    {
+      "before": "going to mars or some",
+      "after": "going to Mars or some"
     }
   ],
   "https://www.parahumans.net/2019/02/23/heavens-12-3/": [
     {
       "before": "had shaken them <em>good-</em> but I could",
       "after": "had shaken them <em>good</em>—but I could"
+    },
+    {
+      "before": "Harbinger one was down, and two was wounded",
+      "after": "Harbinger One was down, and Two was wounded"
+    }
+  ],
+  "https://www.parahumans.net/2019/02/26/heavens-12-4/": [
+    {
+      "before": "but the Harbinger said, “yes,” and I took",
+      "after": "but the Harbinger said “yes,” and I took"
+    },
+    {
+      "before": "closer to haunting, “Think you can",
+      "after": "closer to haunting, “think you can"
     }
   ],
   "https://www.parahumans.net/2019/03/02/heavens-12-all/": [
@@ -6239,6 +6367,12 @@
     {
       "before": "created glowing orbs.  he threw one to my",
       "after": "created glowing orbs.  He threw one to my"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/23/heavens-12-9/": [
+    {
+      "before": "Harbinger two was out and Harbinger one",
+      "after": "Harbinger Two was out and Harbinger One"
     }
   ],
   "https://www.parahumans.net/2019/03/26/heavens-12-none/": [
