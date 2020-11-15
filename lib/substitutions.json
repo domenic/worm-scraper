@@ -956,7 +956,7 @@
       "after": "CD-6.</em></p>"
     },
     {
-      "before": "<em>Narwhal,</em>",
+      "before": "<em>Narwhal</em>,",
       "after": "Narwhal,"
     },
     {
@@ -5678,10 +5678,6 @@
       "after": "assistant warden"
     },
     {
-      "before": "behind those things was <em>By,</em>",
-      "after": "behind those things was <em>By</em>,"
-    },
-    {
       "before": "<em>What got into you</em>?",
       "after": "<em>What got into you?</em>"
     },
@@ -5714,10 +5710,6 @@
     {
       "before": "finds it’s root",
       "after": "finds its root"
-    },
-    {
-      "before": "they’re <em>Valkyrie,</em> Crystal",
-      "after": "they’re <em>Valkyrie</em>, Crystal"
     }
   ],
   "https://www.parahumans.net/2018/10/23/polarize-10-1/": [
@@ -7073,8 +7065,8 @@
       "after": "Your issue with Dad"
     },
     {
-      "before": "My boss is-was <em>Narwhal,</em> mom",
-      "after": "My boss is—was <em>Narwhal</em>, Mom"
+      "before": "My boss is-was",
+      "after": "My boss is—was"
     },
     {
       "before": "he mom shook her head",
