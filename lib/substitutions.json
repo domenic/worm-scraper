@@ -2362,12 +2362,12 @@
       "after": "leave?”  Hero asked.  “Why"
     },
     {
-      "before": "eye contact.  ”She",
-      "after": "eye contact.  “She"
-    },
-    {
       "before": "Alexandria said.  ”Why",
       "after": "Alexandria said.  “Why"
+    },
+    {
+      "before": "voice as quiet.  ”We’ve got teams",
+      "after": "voice as quiet.  “We’ve got teams"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/10/colony-15-8/": [
@@ -3408,6 +3408,10 @@
     {
       "before": "Bay,” Wanton said. “Not",
       "after": "Bay,” Wanton said, “not"
+    },
+    {
+      "before": "<strong>Connecting to “agChat.ParahumansOnline016.par:6667” (Attempt 1 of 55)</strong><br />\n<strong>Resolving Host Name</strong><br />\n<strong>Connecting…</strong><br />\n<strong>Connected.</strong><br />\n<strong>Using identity</strong> “<strong>Iblis”, nick “Iblis”<br />\nWelcome to Parahumans Online Chatroom #116, ‘The Holdout’.  <span style=\"text-decoration:underline;\">Rules Here</span>.  Behave.  Obey the @s.</strong>",
+      "after": "<strong>Connecting to “agChat.ParahumansOnline016.par:6667” (Attempt 1 of 55)<br />\nResolving Host Name<br />\nConnecting…<br />\nConnected.<br />\nUsing identity “Iblis”, nick “Iblis”<br />\nWelcome to Parahumans Online Chatroom #116, ‘The Holdout’.  <span style=\"text-decoration:underline;\">Rules Here</span>.  Behave.  Obey the @s.</strong>"
     }
   ],
   "https://parahumans.wordpress.com/2013/06/29/scarab-25-1/": [
@@ -4906,6 +4910,12 @@
       "after": "—and from other horrors."
     }
   ],
+  "https://www.parahumans.net/2018/05/22/torch-7-3/": [
+    {
+      "before": "by saying,”Isn’t it a rule",
+      "after": "by saying, “Isn’t it a rule"
+    }
+  ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
     {
       "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
@@ -5447,6 +5457,10 @@
     {
       "before": "then teacher can’t",
       "after": "then Teacher can’t"
+    },
+    {
+      "before": "“Who is this?”a strange voice asked",
+      "after": "“Who is this?” a strange voice asked"
     }
   ],
   "https://www.parahumans.net/2018/09/13/gleaming-interlude-9-x/": [
@@ -5624,12 +5638,6 @@
       "before": "the pharmacist",
       "after": "the Pharmacist",
       "_comment": "See comment in https://www.parahumans.net/2018/09/29/gleaming-9-11/"
-    }
-  ],
-  "https://www.parahumans.net/2018/10/06/gleaming-9-13/": [
-    {
-      "before": "second.”Clarify.”",
-      "after": "second. “Clarify.”"
     }
   ],
   "https://www.parahumans.net/2018/10/09/gleaming-9-14/": [
@@ -6383,6 +6391,10 @@
     {
       "before": "wasn’t mom’s <em>whole</em>",
       "after": "wasn’t Mom’s <em>whole</em>"
+    },
+    {
+      "before": "“Fuck,”Capricorn said again",
+      "after": "“Fuck,” Capricorn said again"
     }
   ],
   "https://www.parahumans.net/2019/03/29/heavens-12-x/": [
@@ -6689,6 +6701,10 @@
     {
       "before": "ducked their heads down and hurried</p>",
       "after": "ducked their heads down and hurried.</p>"
+    },
+    {
+      "before": "in the way,”she said",
+      "after": "in the way,” she said"
     }
   ],
   "https://www.parahumans.net/2019/10/01/sundown-17-1/": [
@@ -6969,6 +6985,12 @@
     {
       "before": "Imp and the heartbroken",
       "after": "Imp and the Heartbroken"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/23/infrared-19-z/": [
+    {
+      "before": "5’1 “",
+      "after": "5′1″"
     }
   ],
   "https://www.parahumans.net/2020/02/25/last-20-1/": [
