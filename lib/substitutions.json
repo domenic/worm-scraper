@@ -1174,6 +1174,10 @@
     {
       "before": "hand at me, “She’s",
       "after": "hand at me, “she’s"
+    },
+    {
+      "before": ", kay",
+      "after": ", ’kay"
     }
   ],
   "https://parahumans.wordpress.com/2012/03/27/extermination-8-8/": [
@@ -1689,10 +1693,6 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/05/19/infestation-11-1/": [
-    {
-      "before": "was.. how",
-      "after": "was… how"
-    },
     {
       "before": "Dinah being kidnapped and leaving",
       "after": "Dinah being kidnapped, and leaving"
@@ -3596,7 +3596,7 @@
   ],
   "https://parahumans.wordpress.com/2013/08/10/interlude-26/": [
     {
-      "before": "<em>variation..</em>.",
+      "before": "<em>variation…</em>. ",
       "after": "<em>variation</em>…"
     },
     {
@@ -5421,10 +5421,6 @@
     {
       "before": "what it’s worth,” Tristan said.  “Thanks for",
       "after": "what it’s worth,” Tristan said, “thanks for"
-    },
-    {
-      "before": "Apparently… perk of..",
-      "after": "Apparently… perk of…"
     }
   ],
   "https://www.parahumans.net/2018/09/01/gleaming-9-4/": [
@@ -6335,6 +6331,30 @@
     {
       "before": "bounce off of the the people",
       "after": "bounce off of the people"
+    },
+    {
+      "before": "a ‘us’",
+      "after": "an ‘us’"
+    },
+    {
+      "before": "keep going,” Their March says",
+      "after": "keep going,” their March says"
+    },
+    {
+      "before": "move, but Vista was, at least a little",
+      "after": "move, but Vista could, at least a little"
+    },
+    {
+      "before": "a fraction of a second her more time",
+      "after": "a fraction of a second more time"
+    },
+    {
+      "before": "let the charge grow",
+      "after": "lets the charge grow"
+    },
+    {
+      "before": "She imagines It would",
+      "after": "She imagines it would"
     }
   ],
   "https://www.parahumans.net/2019/03/05/heavens-12-5/": [
@@ -6345,6 +6365,18 @@
     {
       "before": "we didn’t resume the discussion</p>",
       "after": "we didn’t resume the discussion.</p>"
+    },
+    {
+      "before": "flashlight of the Patrol",
+      "after": "flashlight of the patrol"
+    },
+    {
+      "before": "ID’s",
+      "after": "IDs"
+    },
+    {
+      "before": "My mom asked",
+      "after": "my mom asked"
     }
   ],
   "https://www.parahumans.net/2019/03/09/heavens-12-6/": [
@@ -6355,12 +6387,42 @@
     {
       "before": "back pouch” my mom said",
       "after": "back pouch,” my mom said"
+    },
+    {
+      "before": "protest—Two people held hostage",
+      "after": "protest—two people held hostage"
+    }
+  ],
+  "https://www.parahumans.net/2019/03/12/heavens-12-f/": [
+    {
+      "before": ", kay",
+      "after": ", ’kay"
+    },
+    {
+      "before": "thinking, the he brushed",
+      "after": "thinking, then he brushed"
     }
   ],
   "https://www.parahumans.net/2019/03/16/heavens-12-7/": [
     {
       "before": "without knowing.  by Love Lost",
       "after": "without knowing.  By Love Lost"
+    },
+    {
+      "before": "The man-though he",
+      "after": "The man—though he"
+    },
+    {
+      "before": "a chance it might never.",
+      "after":"a chance it might never stop."
+    },
+    {
+      "before": "wrench a weapon free,  Curved blades that",
+      "after": "wrench a weapon free.  Curved blades that"
+    },
+    {
+      "before": "saw the group that standing tallest",
+      "after": "saw the group that was standing tallest"
     }
   ],
   "https://www.parahumans.net/2019/03/19/heavens-12-8/": [
@@ -6373,6 +6435,18 @@
     {
       "before": "Harbinger two was out and Harbinger one",
       "after": "Harbinger Two was out and Harbinger One"
+    },
+    {
+      "before": "pizz dispenser",
+      "after": "Pez dispenser"
+    },
+    {
+      "before": "background keeping Crete",
+      "after": "background keeping Cretan"
+    },
+    {
+      "regExp": " Mech",
+      "replacement": " mech"
     }
   ],
   "https://www.parahumans.net/2019/03/26/heavens-12-none/": [
@@ -6387,6 +6461,14 @@
     {
       "before": "“Fuck,”Capricorn said again",
       "after": "“Fuck,” Capricorn said again"
+    },
+    {
+      "before": "With your friends, your teachers the places you love",
+      "after": "With your friends, your teachers, the places you love"
+    },
+    {
+      "before": "every earth",
+      "after": "every Earth"
     }
   ],
   "https://www.parahumans.net/2019/03/29/heavens-12-x/": [
