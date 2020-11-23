@@ -788,10 +788,6 @@
       "after": "Walk or—"
     },
     {
-      "before": "twenty six years",
-      "after": "twenty-six years"
-    },
-    {
       "before": "<em>here?  Now?</em>",
       "after": "<em>here</em>?  <em>Now</em>?"
     },
@@ -1886,7 +1882,7 @@
       "after": "my ‘candy’</em>"
     },
     {
-      "before": "Thirty Nine point",
+      "before": "Thirty-Nine point",
       "after": "Thirty-nine point"
     },
     {
@@ -3516,6 +3512,10 @@
     {
       "before": "a burst of alarm</em>.",
       "after": "a burst of alarm.</em>"
+    },
+    {
+      "before": "Up from Eighty-three point four percent",
+      "after": "Up from eighty-three point four percent"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/23/sting-26-3/": [
