@@ -6747,6 +6747,10 @@
     {
       "before": "thing number one.  it’s not a lot",
       "after": "thing number one.  It’s not a lot"
+    },
+    {
+      "before": "French toast",
+      "after": "french toast"
     }
   ],
   "https://www.parahumans.net/2019/08/31/from-within-16-6/": [
