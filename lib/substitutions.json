@@ -2386,6 +2386,10 @@
     {
       "before": "better pictures of mom",
       "after": "better pictures of Mom"
+    },
+    {
+      "before": "five-hundred percent",
+      "after": "five hundred percent"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/20/interlude-15/": [
@@ -3101,6 +3105,10 @@
     {
       "before": "I know you and dad won’t approve",
       "after": "I know you and Dad won’t approve"
+    },
+    {
+      "before": "hundred and ten-percent",
+      "after": "hundred and ten percent"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/16/imago-21-3/": [
@@ -3502,6 +3510,10 @@
     {
       "before": "Master and stranger",
       "after": "master and stranger"
+    },
+    {
+      "before": "nearly-three-hundred",
+      "after": "nearly three hundred"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/20/sting-26-2/": [
@@ -5623,6 +5635,10 @@
       "regExp": "the pharmacist",
       "replacement": "the Pharmacist",
       "_comment": "in the previous chapter, 'the Pharmacist' starts getting capitalized consistently, as if it's a name instead of a profession. Carry it forward."
+    },
+    {
+      "before": "one hundred and ten-percent",
+      "after": "one hundred and ten percent"
     }
   ],
   "https://www.parahumans.net/2018/10/02/gleaming-9-12/": [
