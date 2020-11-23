@@ -346,7 +346,7 @@
       "after": "in point: shazam"
     },
     {
-      "before": "‘Kay",
+      "before": "’Kay",
       "after": "’kay"
     }
   ],
@@ -404,10 +404,6 @@
     {
       "before": "guardian spoke, “You’d",
       "after": "guardian spoke. “You’d"
-    },
-    {
-      "before": "‘Kay",
-      "after": "’Kay"
     },
     {
       "before": "‘specially with",
