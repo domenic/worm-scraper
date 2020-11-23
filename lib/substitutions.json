@@ -2819,6 +2819,10 @@
     {
       "before": "fight,” Tattletale said. “And",
       "after": "fight,” Tattletale said, “and"
+    },
+    {
+      "before": "earth-shaking",
+      "after": "earthshaking"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/12/queen-18-8/": [
@@ -6423,6 +6427,10 @@
     {
       "before": "saw the group that standing tallest",
       "after": "saw the group that was standing tallest"
+    },
+    {
+      "before": "T’was",
+      "after": "’Twas"
     }
   ],
   "https://www.parahumans.net/2019/03/19/heavens-12-8/": [
@@ -6491,6 +6499,66 @@
     {
       "before": "morning breath—more than morning breath-, but there",
       "after": "morning breath—more than morning breath—but there"
+    },
+    {
+      "before": "<p><strong><a href=\"https://www.parahumans.net/2019/03/26/heavens-12-none/\">Previous Chapter</a>                                                                                      <a href=\"https://www.parahumans.net/2019/04/02/black-13-1/\">Next Chapter</a></strong></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>",
+      "after": "<div style=\"page-break-after: always;\">&#160;</div>\n<div style=\"page-break-after: always;\">&#160;</div>",
+      "_comment": "This is the best way I can think of to emulate the end of chapter 'fake out' in an ebook format"
+    },
+    {
+      "before": "Can we—Can we do my thing",
+      "after": "Can we— Can we do my thing"
+    },
+    {
+      "before": "<em>Let me through</em>!",
+      "after": "<em>Let me through!</em>"
+    },
+    {
+      "before": "This?  <em>That</em>?",
+      "after": "This?  <em>That?</em>"
+    },
+    {
+      "before": "more saccharine, “You don’t",
+      "after": "more saccharine, “you don’t"
+    },
+    {
+      "before": "Damsel told Antares, “Think again",
+      "after": "Damsel told Antares, “think again"
+    }
+  ],
+  "https://www.parahumans.net/2019/04/02/black-13-1/": [
+    {
+      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><strong><a href=\"https://www.parahumans.net/2019/03/29/heavens-12-x/\">Previous Chapter</a>                                                                                      <a href=\"https://www.parahumans.net/2019/04/05/black-13-2/\">Next Chapter</a></strong></p>\n",
+      "after": "",
+      "_comment": "Our usual heuristics of removing the first paragraph to remove the previous/next chapter links are broken here because of the 'go back and look at the fake out' comment at the top"
+    },
+    {
+      "before": "walls stone and wood.  the building",
+      "after": "walls stone and wood.  The building"
+    },
+    {
+      "before": "he asked</p>",
+      "after": "he asked.</p>"
+    },
+    {
+      "before": "—and my costume leggings",
+      "after": "—And my costume leggings"
+    },
+    {
+      "before": "I told Rain, “Is a goodbye.",
+      "after": "I told Rain, “is a goodbye."
+    },
+    {
+      "before": "fiancee",
+      "after": "fiancée"
+    },
+    {
+      "before": "Signal fire",
+      "after": "Signal Fire"
+    },
+    {
+      "before": "“It’s winter,’",
+      "after": "“It’s winter,”"
     }
   ],
   "https://www.parahumans.net/2019/04/09/black-13-3/": [
@@ -6501,40 +6569,66 @@
     {
       "before": "pound of flesh, <em>at least—!”</em>",
       "after": "pound of flesh, <em>at least</em>—!”"
-    }
-  ],
-  "https://www.parahumans.net/2019/04/02/black-13-1/": [
-    {
-      "before": "walls stone and wood.  the building",
-      "after": "walls stone and wood.  The building"
     },
     {
-      "before": "he asked</p>",
-      "after": "he asked.</p>"
+      "before": "…Kind of hate hospitals",
+      "after": "…kind of hate hospitals"
+    },
+    {
+      "before": "—For them!",
+      "after": "—for them!"
     }
   ],
   "https://www.parahumans.net/2019/04/13/black-13-4/": [
     {
       "before": "wiped—or perhaps <em>struck-</em> clean.",
       "after": "wiped—or perhaps <em>struck</em>—clean."
+    },
+    {
+      "before": "—Because it’s a dress",
+      "after": "—because it’s a dress"
+    },
+    {
+      "before": "<em>Bam</em>!",
+      "after": "<em>Bam!</em>"
     }
   ],
   "https://www.parahumans.net/2019/04/16/black-13-5/": [
     {
       "before": "For some of the heartbroken",
       "after": "For some of the Heartbroken"
+    },
+    {
+      "before": "agent-parahuman",
+      "after": "agent–parahuman"
     }
   ],
   "https://www.parahumans.net/2019/04/20/black-13-6/": [
     {
       "before": "I’m a Master, right, you",
       "after": "I’m a master, right, you"
+    },
+    {
+      "before": "been studying, woo</em>!",
+      "after": "been studying, woo!</em>"
+    },
+    {
+      "before": "Kenz-Lookout",
+      "after": "Kenz—Lookout"
     }
   ],
   "https://www.parahumans.net/2019/04/23/black-13-7/": [
     {
       "before": "looked like they were were painted on",
       "after": "looked like they were painted on"
+    },
+    {
+      "before": "—My friend",
+      "after": "—my friend"
+    },
+    {
+      "before": "Fucking <em>what?  When?</em>  How bad",
+      "after": "Fucking <em>what</em>?  <em>When?</em>  How bad"
     }
   ],
   "https://www.parahumans.net/2019/04/27/black-13-8/": [
@@ -6545,6 +6639,10 @@
     {
       "before": "zero—a circle made with her full hand-, three",
       "after": "zero—a circle made with her full hand—three"
+    },
+    {
+      "before": "what the Wedge is or where",
+      "after": "what the wedge is or where"
     }
   ],
   "https://www.parahumans.net/2019/04/30/black-13-x/": [
@@ -6555,36 +6653,122 @@
     {
       "before": "from yet another earth",
       "after": "from yet another Earth"
+    },
+    {
+      "before": "in that a sea of yellow",
+      "after": "in that sea of yellow"
+    },
+    {
+      "regExp": "cell five",
+      "replacement": "Cell Five"
+    },
+    {
+      "regExp": "cell eleven",
+      "replacement": "Cell Eleven"
+    },
+    {
+      "regExp": "cell nineteen",
+      "replacement": "Cell Nineteen"
+    },
+    {
+      "before": "there were always some overhead",
+      "after": "there were always some over head"
+    },
+    {
+      "before": "one of the Theocrats",
+      "after": "one of the theocrats"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/04/black-13-9/": [
+    {
+      "before": "thing is,” Tattletale said.  “What did",
+      "after": "thing is,” Tattletale said, “what did"
+    },
+    {
+      "before": "jacakss",
+      "after": "jackass"
+    },
+    {
+      "before": "whether you invite me or not, it’s understandable if you don’t you’re going to want",
+      "after": "whether you invite me or not, it’s understandable if you don’t, you’re going to want"
     }
   ],
   "https://www.parahumans.net/2019/05/07/black-13-10/": [
     {
       "before": "the interior of this one was quiet-, I could",
       "after": "the interior of this one was quiet—I could"
+    },
+    {
+      "before": "‘why didn’t Imp back us up’?",
+      "after": "‘why didn’t Imp back us up?’"
     }
   ],
   "https://www.parahumans.net/2019/05/11/black-13-11/": [
     {
       "before": "been scummy and and tried",
       "after": "been scummy and tried"
+    },
+    {
+      "before": "—And I wanted to bring it up",
+      "after": "—and I wanted to bring it up"
+    },
+    {
+      "before": "—Because I could have pushed harder",
+      "after": "—because I could have pushed harder"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/14/13-z/": [
+    {
+      "before": "and they were pro-irregular",
+      "after": "and they were pro-Irregular"
     }
   ],
   "https://www.parahumans.net/2019/05/18/breaking-14-1/": [
     {
       "before": "face—ridiculous notion but still-, if I wrote him a note or sent him a text—less ridiculous notion-, saying",
       "after": "face—ridiculous notion but still—if I wrote him a note or sent him a text—less ridiculous notion—saying"
+    },
+    {
+      "before": "Instead a 1,—2, 4",
+      "after": "Instead a 1, −2, 4"
     }
   ],
   "https://www.parahumans.net/2019/05/25/breaking-14-3/": [
     {
       "before": "actively tamper with it it",
       "after": "actively tamper with it"
+    },
+    {
+      "before": "to reclaim her throne, and I.”",
+      "after": "to reclaim her throne, and I—”"
+    },
+    {
+      "before": "A teacher plot",
+      "after": "A Teacher plot"
+    },
+    {
+      "before": "<em>Your</em> own mother just went",
+      "after": "<em>your</em> own mother just went"
+    },
+    {
+      "before": "Ashley stared int the",
+      "after": "Ashley stared into the"
     }
   ],
   "https://www.parahumans.net/2019/05/28/breaking-14-4/": [
     {
       "before": "Once Goddess’s earth",
       "after": "Once Goddess’s Earth"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/01/breaking-14-5/": [
+    {
+      "before": "his wife was dressed in patching colors",
+      "after": "his wife was dressed in matching colors"
+    },
+    {
+      "before": "Luis said.  “he saw a lot of",
+      "after": "Luis said.  “He saw a lot of"
     }
   ],
   "https://www.parahumans.net/2019/06/04/breaking-14-6/": [
@@ -6603,6 +6787,18 @@
     {
       "before": "or innovators—scientists-, they say",
       "after": "or innovators—scientists—they say"
+    },
+    {
+      "before": "PHD",
+      "after": "PhD"
+    },
+    {
+      "before": "<em>If I’m asking</em>?",
+      "after": "<em>If I’m asking?</em>"
+    },
+    {
+      "before": "<em>Isn’t it</em>?",
+      "after": "<em>Isn’t it?</em>"
     }
   ],
   "https://www.parahumans.net/2019/06/08/breaking-14-7/": [
@@ -6613,18 +6809,60 @@
     {
       "before": "you’re talking syncope—fainting-, arrythmia,",
       "after": "you’re talking syncope—fainting, arrythmia,"
+    },
+    {
+      "before": "inter-earth",
+      "after": "inter-Earth"
+    },
+    {
+      "before": "‘can‘t’",
+      "after": "‘can’t’"
+    },
+    {
+      "before": "The Western of the two half-castles",
+      "after": "The western of the two half-castles"
+    }
+  ],
+  "https://www.parahumans.net/2019/06/11/breaking-14-8/": [
+    {
+      "before": "the conditions weren’t great-it was cold enough",
+      "after": "the conditions weren’t great—it was cold enough"
+    },
+    {
+      "before": "pick up line",
+      "after": "pickup line"
+    },
+    {
+      "before": "got me,” Rain said. “Was that",
+      "after": "got me,” Rain said, “was that"
+    },
+    {
+      "before": "—Ask for some strings",
+      "after": "—ask for some strings"
     }
   ],
   "https://www.parahumans.net/2019/06/15/breaking-14-9/": [
     {
       "before": "You stay away from mom, you stay away from dad",
       "after": "You stay away from Mom, you stay away from Dad"
+    },
+    {
+      "before": "‘fuck this, not hitching a ride with—this-‘",
+      "after": "‘fuck this, not hitching a ride with <em>this</em>’"
     }
   ],
   "https://www.parahumans.net/2019/06/18/breaking-14-10/": [
     {
       "before": "in a real fight-, but in",
       "after": "in a real fight—but in"
+    },
+    {
+      "before": "fall to the mattress, “Let",
+      "after": "fall to the mattress, “let"
+    },
+    {
+      "before": "I—Only if you hold onto it.",
+      "after": "I— Only if you hold onto it."
     }
   ],
   "https://www.parahumans.net/2019/06/22/breaking-14-11/": [
@@ -6649,6 +6887,14 @@
     {
       "before": "<em>-That was us</em>—the message on my display read.—<em>cuz guards—</em>",
       "after": "<em>-That was us-</em> the message on my display read. <em>-cuz guards-</em>"
+    },
+    {
+      "before": "blinfd",
+      "after": "blind"
+    },
+    {
+      "before": "<em>This</em>?  It’s stupid politics",
+      "after": "<em>This?</em>  It’s stupid politics"
     }
   ],
   "https://www.parahumans.net/2019/06/29/breaking-14-z/": [
@@ -6663,6 +6909,10 @@
     {
       "before": "allusion to Master–stranger protocols",
       "after": "allusion to master–stranger protocols"
+    },
+    {
+      "before": "I dealt with ‘m",
+      "after": "I dealt with ’m"
     }
   ],
   "https://www.parahumans.net/2019/07/02/dying-15-a/": [
