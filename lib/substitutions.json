@@ -4130,6 +4130,10 @@
     {
       "before": "resulting crater that compared with",
       "after": "resulting crater compared with"
+    },
+    {
+      "before": "on the other earth",
+      "after": "on the other Earth"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/29/30-7/": [
@@ -6543,6 +6547,16 @@
       "after": "zero—a circle made with her full hand—three"
     }
   ],
+  "https://www.parahumans.net/2019/04/30/black-13-x/": [
+    {
+      "before": "technology from another earth",
+      "after": "technology from another Earth"
+    },
+    {
+      "before": "from yet another earth",
+      "after": "from yet another Earth"
+    }
+  ],
   "https://www.parahumans.net/2019/05/07/black-13-10/": [
     {
       "before": "the interior of this one was quiet-, I could",
@@ -6565,6 +6579,12 @@
     {
       "before": "actively tamper with it it",
       "after": "actively tamper with it"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/28/breaking-14-4/": [
+    {
+      "before": "Once Goddess’s earth",
+      "after": "Once Goddess’s Earth"
     }
   ],
   "https://www.parahumans.net/2019/06/04/breaking-14-6/": [
