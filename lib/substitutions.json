@@ -1808,6 +1808,10 @@
     {
       "before": "asinine confession again, “It’s",
       "after": "asinine confession again. “It’s"
+    },
+    {
+      "before": "people from the Church",
+      "after": "people from the church"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/16/interlude-11a/": [
@@ -4631,6 +4635,10 @@
     {
       "before": "hair he had.  it was long",
       "after": "hair he had.  It was long"
+    },
+    {
+      "before": "about you and Church",
+      "after": "about you and church"
     }
   ],
   "https://www.parahumans.net/2018/02/24/shadow-5-1/": [
@@ -4914,6 +4922,12 @@
     {
       "before": "the Junior Captain said",
       "after": "the junior captain said"
+    }
+  ],
+  "https://www.parahumans.net/2018/05/15/torch-7-1/": [
+    {
+      "before": "got to go to Church",
+      "after": "got to go to church"
     }
   ],
   "https://www.parahumans.net/2018/05/19/torch-7-2/": [
@@ -6863,6 +6877,10 @@
     {
       "before": "—Ask for some strings",
       "after": "—ask for some strings"
+    },
+    {
+      "before": "for the needy for Church events",
+      "after": "for the needy for church events"
     }
   ],
   "https://www.parahumans.net/2019/06/15/breaking-14-9/": [
@@ -7197,6 +7215,10 @@
     {
       "before": "Couple of of times a month",
       "after": "Couple of times a month"
+    },
+    {
+      "before": "This would be the Church.",
+      "after": "This would be the church."
     }
   ],
   "https://www.parahumans.net/2019/12/28/infrared-19-2/": [
