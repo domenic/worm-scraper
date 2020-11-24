@@ -6731,6 +6731,14 @@
     {
       "before": "—Because I could have pushed harder",
       "after": "—because I could have pushed harder"
+    },
+    {
+      "before": "the Wardens’ bunker",
+      "after": "the Wardens’ Bunker"
+    },
+    {
+      "before": "the more distant bunker itself",
+      "after": "the more distant Bunker itself"
     }
   ],
   "https://www.parahumans.net/2019/05/14/13-z/": [
