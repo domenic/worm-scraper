@@ -7230,6 +7230,10 @@
     {
       "before": "wasn’t A.I.  it was just a picture",
       "after": "wasn’t A.I.  It was just a picture"
+    },
+    {
+      "before": "end of Summer that",
+      "after": "end of summer that"
     }
   ],
   "https://www.parahumans.net/2019/08/17/from-within-16-2/": [
@@ -7392,6 +7396,10 @@
     {
       "before": "“E<em>ntrapment</em>.”",
       "after": "“<em>Entrapment.</em>”"
+    },
+    {
+      "before": "tents last Winter or Spring",
+      "after": "tents last winter or spring"
     }
   ],
   "https://www.parahumans.net/2019/11/23/radiation-18-3/": [
@@ -7444,6 +7452,10 @@
     {
       "before": "Victoria?” My Uncle asked",
       "after": "Victoria?” my uncle asked"
+    },
+    {
+      "before": "end of the Summer",
+      "after": "end of the summer"
     }
   ],
   "https://www.parahumans.net/2019/12/21/interlude-18-z-radiation/": [
