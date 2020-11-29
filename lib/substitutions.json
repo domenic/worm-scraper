@@ -5473,6 +5473,10 @@
     {
       "before": "The patrol had done its work",
       "after": "The Patrol had done its work"
+    },
+    {
+      "before": "guard confirmed as Thralls",
+      "after": "guard confirmed as thralls"
     }
   ],
   "https://www.parahumans.net/2018/09/11/gleaming-9-7/": [
@@ -6325,6 +6329,10 @@
     {
       "before": "<em>Harbingers</em>?",
       "after": "<em>Harbingers?</em>"
+    },
+    {
+      "before": "“Thing one, thing two",
+      "after": "“Thing One, Thing Two"
     }
   ],
   "https://www.parahumans.net/2019/02/19/interlude-12-e/": [
@@ -6965,6 +6973,14 @@
     {
       "before": "scary.  that’s all",
       "after": "scary.  That’s all"
+    },
+    {
+      "before": "At Anita’s assistance",
+      "after": "At Anita’s insistence"
+    },
+    {
+      "before": "kanji for ‘Shi’",
+      "after": "kanji for ‘shi’"
     }
   ],
   "https://www.parahumans.net/2019/07/06/dying-15-1/": [
@@ -6975,42 +6991,162 @@
     {
       "before": "The blond heartbroken",
       "after": "The blond Heartbroken"
+    },
+    {
+      "before": "straight A’s",
+      "after": "straight As"
     }
   ],
   "https://www.parahumans.net/2019/07/09/dying-15-2/": [
     {
       "before": "I told Precipice</p>",
       "after": "I told Precipice.</p>"
+    },
+    {
+      "before": "Guys’ gotta be a thirteen",
+      "after": "Guy’s gotta be a thirteen"
+    },
+    {
+      "before": "been sitting her for",
+      "after": "been sitting here for"
+    },
+    {
+      "before": "a body torn two",
+      "after": "a body torn in two"
+    },
+    {
+      "before": "it had eben damaged",
+      "after": "it had been damaged"
+    },
+    {
+      "before": "dodge that was fast moving",
+      "after": "dodge something that fast-moving"
+    },
+    {
+      "before": "done so far, and crippling",
+      "after": "done so far, crippling"
+    },
+    {
+      "before": "‘hedrons",
+      "after": "’hedrons"
+    },
+    {
+      "before": "post its",
+      "after": "Post-its"
     }
   ],
   "https://www.parahumans.net/2019/07/13/dying-15-3/": [
     {
       "before": "Didn’t ask about mom, dad, or",
       "after": "Didn’t ask about Mom, Dad, or"
+    },
+    {
+      "before": "—And we’re heading upstairs",
+      "after": "—and we’re heading upstairs"
     }
   ],
   "https://www.parahumans.net/2019/07/16/dying-15-4/": [
     {
       "before": "There was was no ‘good’",
       "after": "There was no ‘good’"
+    },
+    {
+      "before": "was a H turned",
+      "after": "was an H turned"
+    },
+    {
+      "before": "Needles receded as the entered",
+      "after": "Needles receded as they entered"
+    },
+    {
+      "before": "flanking help other teams",
+      "after": "flanking to help other teams"
+    },
+    {
+      "before": "water off a ducks’ back",
+      "after": "water off a duck’s back"
+    },
+    {
+      "before": "the damage segments around",
+      "after": "the damaged segments around"
+    },
+    {
+      "before": "when we’re done this mission",
+      "after": "when we’re done with this mission"
+    },
+    {
+      "before": "If you take the current device with you can use it again",
+      "after": "If you take the current device with, you can use it again"
+    },
+    {
+      "before": "one remaining Thrall",
+      "after": "one remaining thrall"
     }
   ],
   "https://www.parahumans.net/2019/07/20/dying-15-5/": [
     {
       "before": "worth of of water",
       "after": "worth of water"
+    },
+    {
+      "before": "mind controlling",
+      "after": "mind-controlling"
+    },
+    {
+      "before": "range of the Halo",
+      "after": "range of the halo"
+    },
+    {
+      "before": "tear up the Haloed angel",
+      "after": "tear up the haloed angel"
+    },
+    {
+      "before": "her power helping, to keep her there instead of falling",
+      "after": "her power helping to keep her there instead of falling"
+    },
+    {
+      "before": "the time manipulating tinkers",
+      "after": "the time-manipulating tinkers"
     }
   ],
   "https://www.parahumans.net/2019/07/23/dying-15-6/": [
     {
       "before": "The teams had finished picking</p>",
       "after": "The teams had finished picking.</p>"
+    },
+    {
+      "before": "no wifi",
+      "after": "no Wi-Fi"
+    },
+    {
+      "before": "a of linked metal segments",
+      "after": "a ??? of linked metal segments"
+    },
+    {
+      "before": "Things one through whatever",
+      "after": "Things One through whatever"
+    },
+    {
+      "before": "close to identical powersets",
+      "after": "close-to-identical powersets"
+    },
+    {
+      "before": "distracting you, Lookout,</em> I wrote.",
+      "after": "distracting you, Lookout</em>, I wrote."
+    },
+    {
+      "before": "The second they were out jailer’s door",
+      "after": "The second they were out of the jailer’s door"
     }
   ],
   "https://www.parahumans.net/2019/07/27/dying-15-7/": [
     {
       "before": "stranger or Master in",
       "after": "stranger or master in"
+    },
+    {
+      "before": "d—! _ !  d—",
+      "after": "d- ! _ ! d-"
     }
   ],
   "https://www.parahumans.net/2019/07/30/dying-15-8/": [
@@ -7021,6 +7157,85 @@
     {
       "before": "I got a glimpse.  it’s fucking with me",
       "after": "I got a glimpse.  It’s fucking with me"
+    },
+    {
+      "before": "<em>What</em>?  But Cassie.",
+      "after": "<em>What?</em>  But Cassie."
+    },
+    {
+      "before": "‘aunt Rachel‘s’",
+      "after": "‘Aunt Rachel’s’"
+    },
+    {
+      "before": "Letting teacher go, knowing two members",
+      "after": "Letting Teacher go, knowing two members"
+    },
+    {
+      "before": "using then to help hold up",
+      "after": "using them to help hold up"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/03/dying-15-x/": [
+    {
+      "before": "The Halo protected against",
+      "after": "The halo protected against"
+    },
+    {
+      "before": "Normally teacher granted something",
+      "after": "Normally Teacher granted something"
+    },
+    {
+      "before": "Carbon Dioxide bubbles manifesting",
+      "after": "Carbon dioxide bubbles manifesting"
+    },
+    {
+      "before": "got the Thrall Commander, right",
+      "after": "got the thrall commander, right"
+    },
+    {
+      "before": "I could ask these questions.  <em>Why</em>?",
+      "after": "I could ask these questions.  <em>Why?</em>"
+    },
+    {
+      "before": "the Yàngbǎn supported squad",
+      "after": "the Yàngbǎn-supported squad"
+    },
+    {
+      "before": "radius in you systems",
+      "after": "radius in your systems"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/06/dying-15-y/": [
+    {
+      "before": "little miss Webb’s way",
+      "after": "little Miss Webb’s way"
+    }
+  ],
+  "https://www.parahumans.net/2019/08/10/dying-15-z/": [
+    {
+      "before": "All around her, Thralls paid her their worship",
+      "after": "All around her, thralls paid her their worship"
+    },
+    {
+      "before": "almost floated almost three hundred thousand",
+      "after": "almost floated amongst three hundred thousand"
+    },
+    {
+      "before": "parahuman’s hackers",
+      "after": "parahumans’ hackers"
+    },
+    {
+      "before": "the room, and them him",
+      "after": "the room, and then him"
+    },
+    {
+      "before": "transcendant",
+      "after": "transcendent"
+    },
+    {
+      "before": "The one who was slicing up the supporting walls  ground rumbled, the floor twisted, the house-sized turbine in the center of the room lost some of its foundation",
+      "after": "The one who was slicing up the supporting walls—</p>\n<p>The ground rumbled, the floor twisted, the house-sized turbine in the center of the room lost some of its foundation",
+      "_comment": "This paragraph break probably wasn't what was intended, but a good chunk of the sentence is missing, so this is the best fix I can think of."
     }
   ],
   "https://www.parahumans.net/2019/08/13/from-within-16-1/": [
@@ -7069,6 +7284,12 @@
     {
       "before": "letters I wrote to dad’s friends",
       "after": "letters I wrote to Dad’s friends"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/03/from-within-16-7/": [
+    {
+      "before": "aunt Rachel",
+      "after": "Aunt Rachel"
     }
   ],
   "https://www.parahumans.net/2019/09/10/from-within-16-9/": [
