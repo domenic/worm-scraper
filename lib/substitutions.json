@@ -7244,6 +7244,10 @@
     {
       "before": "Hardboil",
       "after": "Hard Boil"
+    },
+    {
+      "before": "after class in Math, my",
+      "after": "after class in math, my"
     }
   ],
   "https://www.parahumans.net/2019/08/20/from-within-16-3/": [
@@ -7320,6 +7324,12 @@
     {
       "before": "egg for Crystal and mom",
       "after": "egg for Crystal and Mom"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/08/sundown-17-3/": [
+    {
+      "before": "say, Math class",
+      "after": "say, math class"
     }
   ],
   "https://www.parahumans.net/2019/10/12/sundown-17-4/": [
