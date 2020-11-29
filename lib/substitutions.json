@@ -3968,10 +3968,6 @@
       "after": "’lowed to do that, ’miright"
     },
     {
-      "before": "path was clear,",
-      "after": "path was clear."
-    },
-    {
       "before": "hard, don’t you</em>?",
       "after": "hard, don’t you?</em>"
     },
@@ -6229,6 +6225,10 @@
     {
       "before": "Foil-Hookline",
       "after": "Foil–Hookline"
+    },
+    {
+      "before": "“Fired through a hole I made in my fist.</p>",
+      "after": "“Fired through a hole I made in my fist.”</p>"
     }
   ],
   "https://www.parahumans.net/2019/02/05/blinding-11-12/": [
