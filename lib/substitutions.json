@@ -390,6 +390,10 @@
     {
       "before": "Terrifying.” Alan told my dad, “When",
       "after": "Terrifying,” Alan told my dad. “When"
+    },
+    {
+      "before": "day to day basis",
+      "after": "day-to-day basis"
     }
   ],
   "https://parahumans.wordpress.com/2011/11/15/hive-5-4/": [
@@ -476,6 +480,10 @@
     {
       "before": "“Yeah,” Newter grinned,” You can tell",
       "after": "“Yeah,” Newter grinned.  “You can tell"
+    },
+    {
+      "before": "day to day interactions",
+      "after": "day-to-day interactions"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/10/interlude-5/": [
@@ -4210,6 +4218,10 @@
     {
       "before": "stories,” Riley said. “The",
       "after": "stories,” Riley said, “the"
+    },
+    {
+      "before": "day to day, minute-to-minute existence",
+      "after": "day-to-day, minute-to-minute existence"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/05/teneral-e-2/": [
@@ -4399,6 +4411,10 @@
     {
       "before": "<strong>Glitzglam *New Message*: I</strong>",
       "after": "<strong>Glitzglam *New Message*:</strong> I"
+    },
+    {
+      "before": "day to day life",
+      "after": "day-to-day life"
     }
   ],
   "https://www.parahumans.net/2017/12/09/flare-2-1/": [
@@ -4959,6 +4975,10 @@
     {
       "before": "no Master pets",
       "after": "no master pets"
+    },
+    {
+      "before": "day to day basis",
+      "after": "day-to-day basis"
     }
   ],
   "https://www.parahumans.net/2018/05/26/eclipse-x-1/": [
@@ -5227,6 +5247,10 @@
     {
       "before": "a group of minors,” Dragon said. “Allow others",
       "after": "a group of minors,” Dragon said, “allow others"
+    },
+    {
+      "before": "day to day basis",
+      "after": "day-to-day basis"
     }
   ],
   "https://www.parahumans.net/2018/07/07/beacon-8-2/": [
@@ -6031,6 +6055,10 @@
     {
       "before": "Chiet",
       "after": "Cheit"
+    },
+    {
+      "before": "day to day way",
+      "after": "day-to-day way"
     }
   ],
   "https://www.parahumans.net/2019/01/01/blinding-11-4/": [
@@ -6975,6 +7003,10 @@
     {
       "before": "kanji for ‘Shi’",
       "after": "kanji for ‘shi’"
+    },
+    {
+      "before": "re-learning day to day life",
+      "after": "relearning day-to-day life"
     }
   ],
   "https://www.parahumans.net/2019/07/06/dying-15-1/": [
@@ -7468,6 +7500,14 @@
     {
       "before": "transcending earth and humanity",
       "after": "transcending Earth and humanity"
+    },
+    {
+      "before": "day to day stuff",
+      "after": "day-to-day stuff"
+    },
+    {
+      "before": "day to day work",
+      "after": "day-to-day work"
     }
   ],
   "https://www.parahumans.net/2019/09/28/from-within-16-z/": [
