@@ -170,6 +170,10 @@
     {
       "before": "gangbangers easy access to to the rest of the city",
       "after": "gangbangers easy access to the rest of the city"
+    },
+    {
+      "before": "be, tonight, If that’s",
+      "after": "be, tonight, if that’s"
     }
   ],
   "https://parahumans.wordpress.com/2011/08/23/agitation-3-5/": [
@@ -5285,6 +5289,10 @@
     {
       "before": "mask was only a B-",
       "after": "mask was only a B−"
+    },
+    {
+      "before": "Nothing about it was even B-.",
+      "after": "Nothing about it was even B−."
     }
   ],
   "https://www.parahumans.net/2018/07/21/beacon-8-6/": [
@@ -6731,6 +6739,10 @@
     {
       "before": "‘why didn’t Imp back us up’?",
       "after": "‘why didn’t Imp back us up?’"
+    },
+    {
+      "before": "panic inducing memories",
+      "after": "panic-inducing memories"
     }
   ],
   "https://www.parahumans.net/2019/05/11/black-13-11/": [
@@ -7025,6 +7037,10 @@
     {
       "before": "post its",
       "after": "Post-its"
+    },
+    {
+      "before": "travelled",
+      "after": "traveled"
     }
   ],
   "https://www.parahumans.net/2019/07/13/dying-15-3/": [
@@ -7077,6 +7093,10 @@
     {
       "before": "Team copper-white",
       "after": "Team Copper-White"
+    },
+    {
+      "before": "Caraytid",
+      "after": "Caryatid"
     }
   ],
   "https://www.parahumans.net/2019/07/20/dying-15-5/": [
@@ -7234,6 +7254,10 @@
     {
       "before": "end of Summer that",
       "after": "end of summer that"
+    },
+    {
+      "before": "or get back to where you",
+      "after": "or to get back to where you"
     }
   ],
   "https://www.parahumans.net/2019/08/17/from-within-16-2/": [
@@ -7248,6 +7272,18 @@
     {
       "before": "after class in Math, my",
       "after": "after class in math, my"
+    },
+    {
+      "before": "My point is, If you",
+      "after": "My point is, if you"
+    },
+    {
+      "before": "loyalty inducing Goddesses",
+      "after": "loyalty-inducing Goddesses"
+    },
+    {
+      "before": "Did you get an impression about her character, or anything weird.",
+      "after": "Did you get an impression about her character, or anything weird?"
     }
   ],
   "https://www.parahumans.net/2019/08/20/from-within-16-3/": [
@@ -7258,12 +7294,24 @@
     {
       "before": "for the recording.”",
       "after": "for the recording."
+    },
+    {
+      "before": "—But one of us could still",
+      "after": "—but one of us could still"
     }
   ],
   "https://www.parahumans.net/2019/08/24/from-within-16-4/": [
     {
       "before": "the rest  black and slim.  with doodle-like drawings",
       "after": "the rest black and slim, with doodle-like drawings"
+    },
+    {
+      "before": "trophy wrack",
+      "after": "trophy rack"
+    },
+    {
+      "before": "hopped onto his back for the extra eight",
+      "after": "hopped onto his back for the extra height"
     }
   ],
   "https://www.parahumans.net/2019/08/27/from-within-16-5/": [
@@ -7274,12 +7322,24 @@
     {
       "before": "French toast",
       "after": "french toast"
+    },
+    {
+      "before": "put into Neutral out of",
+      "after": "put into neutral out of"
+    },
+    {
+      "before": "after Mockument’s had hatched that",
+      "after": "after Mockument had hatched that"
     }
   ],
   "https://www.parahumans.net/2019/08/31/from-within-16-6/": [
     {
       "before": "letters I wrote to dad’s friends",
       "after": "letters I wrote to Dad’s friends"
+    },
+    {
+      "before": "—But that might be intentional",
+      "after": "—but that might be intentional"
     }
   ],
   "https://www.parahumans.net/2019/09/03/from-within-16-7/": [
@@ -7288,16 +7348,136 @@
       "after": "Aunt Rachel"
     }
   ],
+  "https://www.parahumans.net/2019/09/07/from-within-16-8/": [
+    {
+      "before": "Giant lightning man guard dog",
+      "after": "Giant lightning-man guard dog"
+    },
+    {
+      "before": "35: 10",
+      "after": "35:10"
+    },
+    {
+      "before": "pluckign",
+      "after": "plucking"
+    },
+    {
+      "before": "special event space",
+      "after": "Special event space"
+    }
+  ],
   "https://www.parahumans.net/2019/09/10/from-within-16-9/": [
     {
       "before": "changers and and shakers",
       "after": "changers and shakers"
+    },
+    {
+      "before": "the Twins’ portion of the room",
+      "after": "the twins’ portion of the room"
+    },
+    {
+      "before": "one central area—No weapon—and swung backhanded",
+      "after": "one central area—no weapon—and swung backhanded"
+    },
+    {
+      "before": "shifted course to favor the smallest portion of the gap leaped the ditch",
+      "after": "shifted course to favor the smallest portion of the gap and leaped the ditch"
+    },
+    {
+      "before": "—It’s not three-dimensional",
+      "after": "—it’s not three-dimensional"
+    },
+    {
+      "before": "a work bench",
+      "after": "a workbench"
+    },
+    {
+      "before": "—Don’t shoot it!",
+      "after": "—don’t shoot it!"
     }
   ],
   "https://www.parahumans.net/2019/09/15/from-within-16-10/": [
     {
       "before": "carried on.  out of",
       "after": "carried on, out of"
+    },
+    {
+      "before": "That-.  Okay.",
+      "after": "That—  Okay."
+    },
+    {
+      "before": "combat trained",
+      "after": "combat-trained"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/17/from-within-16-11/": [
+    {
+      "before": "Warrior monk",
+      "after": "Warrior Monk"
+    },
+    {
+      "before": "Empire Eighty-eight",
+      "after": "Empire Eighty-Eight"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/21/from-within-16-12/": [
+    {
+      "before": "harder than normal exhalation",
+      "after": "harder-than-normal exhalation"
+    },
+    {
+      "before": "maybe a bit to the right.  “There’s probably a",
+      "after": "maybe a bit to the right, “there’s probably a"
+    },
+    {
+      "before": "—We need to do this fast",
+      "after": "—we need to do this fast"
+    }
+  ],
+  "https://www.parahumans.net/2019/09/24/from-within-16-y/": [
+    {
+      "before": "…She was my first kiss",
+      "after": "…she was my first kiss"
+    },
+    {
+      "before": "another on the railing.  “I’m not",
+      "after": "another on the railing, “I’m not"
+    },
+    {
+      "before": "that out loud, “—But you’re a therapist",
+      "after": "that out loud, “—but you’re a therapist"
+    },
+    {
+      "before": "monster slaying",
+      "after": "monster-slaying"
+    },
+    {
+      "before": "so important they’d focus on you’?”",
+      "after": "so important they’d focus on you?’”"
+    },
+    {
+      "before": "Than in B—In B, the woman",
+      "after": "Than in B—in B, the woman"
+    },
+    {
+      "before": "insistent, annoyed.  “I <em>could</em>",
+      "after": "insistent, annoyed, “I <em>could</em>"
+    },
+    {
+      "before": "<em>Listen</em>!",
+      "after": "<em>Listen!</em>"
+    },
+    {
+      "before": "“—But when I shook your hand",
+      "after": "“—but when I shook your hand"
+    },
+    {
+      "before": "That,” Chris said. “Is what",
+      "after": "That,” Chris said, “is what"
+    },
+    {
+      "before": "transcending earth and humanity",
+      "after": "transcending Earth and humanity"
     }
   ],
   "https://www.parahumans.net/2019/09/28/from-within-16-z/": [
@@ -7308,6 +7488,34 @@
     {
       "before": "in the way,”she said",
       "after": "in the way,” she said"
+    },
+    {
+      "before": "his voice just for her.  “I’ll be",
+      "after": "his voice just for her, “I’ll be"
+    },
+    {
+      "before": "through the threshold to the.",
+      "after": "through the threshold."
+    },
+    {
+      "regExp": "capitol",
+      "replacement": "capital"
+    },
+    {
+      "before": "—But none of that would",
+      "after": "—but none of that would"
+    },
+    {
+      "before": "the Doctor replied",
+      "after": "the doctor replied"
+    },
+    {
+      "before": "…It’d be exactly the same",
+      "after": "…it’d be exactly the same"
+    },
+    {
+      "before": "This—This had been just for her.",
+      "after": "This—this had been just for her."
     }
   ],
   "https://www.parahumans.net/2019/10/01/sundown-17-1/": [
@@ -7692,6 +7900,12 @@
     {
       "before": "“Actually,” Tattletale said. “I’ve been going",
       "after": "“Actually,” Tattletale said, “I’ve been going"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/18/last-20-e3/": [
+    {
+      "before": "madness inducing years of isolation",
+      "after": "madness-inducing years of isolation"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
