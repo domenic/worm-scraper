@@ -814,7 +814,7 @@
       "after": "east"
     },
     {
-      "before": "<em>listened to,</em>",
+      "before": "<em>listened to</em>,",
       "after": "<em>listened to</em>."
     },
     {
@@ -940,11 +940,11 @@
       "after": "<p><em>Brigandine deceased, CD-5.</em></p>"
     },
     {
-      "before": "deceased,</em> CD-6.",
+      "before": "deceased</em>, CD-6.",
       "after": "deceased, CD-6.</em>"
     },
     {
-      "before": "CD-6,</em>  The armbands",
+      "before": "CD-6</em>,  The armbands",
       "after": "CD-6</em>, the armbands"
     },
     {
@@ -1014,7 +1014,7 @@
       "after": "Aegis deceased, CD-6</em>"
     },
     {
-      "before": "down,</em> CC-6.",
+      "before": "down</em>, CC-6.",
       "after": "down, CC-6.</em>"
     },
     {
@@ -1052,16 +1052,12 @@
       "after": "deceased, BW-8.</em>"
     },
     {
-      "before": "deceased,</em> CB-10.",
+      "before": "deceased</em>, CB-10.",
       "after": "deceased, CB-10.</em>"
     },
     {
       "before": "<em>Defensive perimeter, report</em>.",
       "after": "<em>Defensive perimeter, report.</em>"
-    },
-    {
-      "before": "<em>Enemy location unknown,</em>",
-      "after": "<em>Enemy location unknown</em>,"
     },
     {
       "before": "<em>Dad</em>.",
@@ -1838,10 +1834,6 @@
     {
       "before": "“I—” Bitch paused, “Don’t",
       "after": "“I—” Bitch paused. “Don’t"
-    },
-    {
-      "before": "<em>Bitch,</em>”",
-      "after": "<em>Bitch</em>,”"
     }
   ],
   "https://parahumans.wordpress.com/2012/06/17/interlude-11b/": [
@@ -1920,11 +1912,11 @@
       "after": "<p><i>Love me, you?<br />\nLove me, true?</i></p>"
     },
     {
-      "before": "<p><em>Crazed, kooky, cracked, crazy,</em> <br />\n<em>Nutty, barmy, mad for me…</em></p>",
+      "before": "<p><em>Crazed, kooky, cracked, crazy</em>, <br />\n<em>Nutty, barmy, mad for me…</em></p>",
       "after": "<p><i>Crazed, kooky, cracked, crazy,<br />\nNutty, barmy, mad for me…</i></p>"
     },
     {
-      "before": "<p><em><em>Crazed, kooky, cracked, crazy,</em><br />\nMental, dotty, whacked, loopy…</em></p>",
+      "before": "<p><em><em>Crazed, kooky, cracked, crazy</em>,<br />\nMental, dotty, whacked, loopy…</em></p>",
       "after": "<p><i>Crazed, kooky, cracked, crazy,<br />\nMental, dotty, whacked, loopy…</i></p>"
     },
     {
@@ -6002,10 +5994,6 @@
       "after": "New Brockton Primary School"
     },
     {
-      "before": "They can be <em>so cool,</em> but",
-      "after": "They can be <em>so cool</em>, but"
-    },
-    {
       "before": "Rome-Roman’s",
       "after": "Rome—Roman’s"
     }
@@ -7133,10 +7121,6 @@
     {
       "before": "close to identical powersets",
       "after": "close-to-identical powersets"
-    },
-    {
-      "before": "distracting you, Lookout,</em> I wrote.",
-      "after": "distracting you, Lookout</em>, I wrote."
     },
     {
       "before": "The second they were out jailer’s door",
