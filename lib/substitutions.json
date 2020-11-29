@@ -372,6 +372,10 @@
     {
       "before": "so to speak, they",
       "after": "so to speak; they"
+    },
+    {
+      "before": "Brian looked across the room,” We’ve",
+      "after": "Brian looked across the room.  “We’ve"
     }
   ],
   "https://parahumans.wordpress.com/2011/11/12/hive-5-3/": [
@@ -464,6 +468,10 @@
     {
       "before": "East",
       "after": "east"
+    },
+    {
+      "before": "“Yeah,” Newter grinned,” You can tell",
+      "after": "“Yeah,” Newter grinned.  “You can tell"
     }
   ],
   "https://parahumans.wordpress.com/2011/12/10/interlude-5/": [
@@ -2354,15 +2362,15 @@
       "after": "to,” Alexandria spoke, “is"
     },
     {
-      "before": "leave?”  Hero asked.  ”Why",
+      "before": "leave?”  Hero asked.”Why",
       "after": "leave?”  Hero asked.  “Why"
     },
     {
-      "before": "Alexandria said.  ”Why",
+      "before": "Alexandria said.”Why",
       "after": "Alexandria said.  “Why"
     },
     {
-      "before": "voice as quiet.  ”We’ve got teams",
+      "before": "voice as quiet.”We’ve got teams",
       "after": "voice as quiet.  “We’ve got teams"
     }
   ],
@@ -2883,7 +2891,7 @@
   ],
   "https://parahumans.wordpress.com/2013/02/16/interlude-18/": [
     {
-      "before": "her feet.  ”We’re",
+      "before": "her feet.”We’re",
       "after": "her feet.  “We’re"
     }
   ],
@@ -3546,6 +3554,10 @@
     {
       "before": "me,” I said. “Is",
       "after": "me,” I said, “is"
+    },
+    {
+      "before": "<p><em>“Help’s on the way</em>.”</p>",
+      "after": "<p>“<em>Help’s on the way.</em>”</p>"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/25/interlude-26-donation-bonus-1/": [
@@ -5756,10 +5768,6 @@
       "after": "post-prison"
     },
     {
-      "before": "to take power!’ ”",
-      "after": "to take power!’”"
-    },
-    {
       "before": "I’m sorry, <em>what?  What?</em>",
       "after": "I’m sorry, <em>what</em>?  <em>What?</em>"
     }
@@ -7626,6 +7634,10 @@
     {
       "before": "had harangued the P.R.T., even",
       "after": "had harangued the PRT, even"
+    },
+    {
+      "before": "“Actually,” Tattletale said. “I’ve been going",
+      "after": "“Actually,” Tattletale said, “I’ve been going"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
