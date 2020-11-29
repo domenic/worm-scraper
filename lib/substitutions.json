@@ -4563,6 +4563,10 @@
     {
       "before": "<i>Stop.  </i>Please.",
       "after": "<em>Stop.</em>  Please."
+    },
+    {
+      "before": "his Aunt would say",
+      "after": "his aunt would say"
     }
   ],
   "https://www.parahumans.net/2018/02/08/shade-4-4/": [
@@ -7125,6 +7129,10 @@
     {
       "before": "The second they were out jailer’s door",
       "after": "The second they were out of the jailer’s door"
+    },
+    {
+      "before": "my Aunt’s",
+      "after": "my aunt’s"
     }
   ],
   "https://www.parahumans.net/2019/07/27/dying-15-7/": [
@@ -7420,6 +7428,42 @@
     {
       "before": "This would be the Church.",
       "after": "This would be the church."
+    },
+    {
+      "before": "my Uncle said",
+      "after": "my uncle said"
+    },
+    {
+      "before": "my Uncle asked",
+      "after": "my uncle asked"
+    },
+    {
+      "before": "Only Jester and my Uncle were",
+      "after": "Only Jester and my uncle were"
+    },
+    {
+      "before": "Victoria?” My Uncle asked",
+      "after": "Victoria?” my uncle asked"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/21/interlude-18-z-radiation/": [
+    {
+      "before": "face where her Uncle would see",
+      "after": "face where her uncle would see"
+    },
+    {
+      "before": "Her Uncle put his hand",
+      "after": "Her uncle put his hand"
+    },
+    {
+      "before": "and saw her Aunt and Uncle approaching",
+      "after": "and saw her aunt and uncle approaching"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/24/infrared-19-1/": [
+    {
+      "before": "Victoria,” my Aunt said",
+      "after": "Victoria,” my aunt said"
     }
   ],
   "https://www.parahumans.net/2019/12/28/infrared-19-2/": [
@@ -7480,6 +7524,18 @@
     {
       "before": "pause, drew its attention</p>",
       "after": "pause, drew its attention.</p>"
+    },
+    {
+      "before": "someone my Aunt and Uncle deemed subversive",
+      "after": "someone my aunt and uncle deemed subversive"
+    },
+    {
+      "before": "Looks after my Aunt while my Uncle",
+      "after": "Looks after my aunt while my uncle"
+    },
+    {
+      "before": "can understand your Aunt and Uncle",
+      "after": "can understand your aunt and uncle"
     }
   ],
   "https://www.parahumans.net/2020/01/14/infrared-19-c/": [
@@ -7546,6 +7602,10 @@
     {
       "before": "so they grow <em>in…”</em>",
       "after": "so they grow <em>in</em>…”"
+    },
+    {
+      "before": "my Uncle said",
+      "after": "my uncle said"
     }
   ],
   "https://www.parahumans.net/2020/02/11/infrared-19-f/": [
