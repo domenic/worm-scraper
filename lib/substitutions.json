@@ -6206,6 +6206,10 @@
     {
       "before": "“Cradle—the most intact part of Tattletale said",
       "after": "“Cradle—” the most intact part of Tattletale said"
+    },
+    {
+      "before": "backwards-high five",
+      "after": "backwards high five"
     }
   ],
   "https://www.parahumans.net/2019/01/26/blinding-11-9/": [
@@ -7381,6 +7385,11 @@
     {
       "before": "aunt Rachel",
       "after": "Aunt Rachel"
+    },
+    {
+      "before": "for Kenzie to high five",
+      "after": "for Kenzie to high-five",
+      "_comment": "Here it's a verb"
     }
   ],
   "https://www.parahumans.net/2019/09/07/from-within-16-8/": [
@@ -8320,6 +8329,11 @@
     {
       "before": "Almost a Figurehead",
       "after": "Almost a figurehead"
+    },
+    {
+      "before": "Can’t fist bump",
+      "after": "Can’t fist-bump",
+      "_comment": "Here it's a verb"
     }
   ],
   "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
