@@ -7622,18 +7622,30 @@
     {
       "before": "Because it made mom come",
       "after": "Because it made Mom come"
+    },
+    {
+      "before": "new titan",
+      "after": "new Titan"
     }
   ],
   "https://www.parahumans.net/2019/11/12/interlude-17-z-sundown/": [
     {
       "before": "had his powers.  the forcefield above",
       "after": "had his powers.  The forcefield above"
+    },
+    {
+      "regExp": "titan(?![a-z])",
+      "replacement": "Titan"
     }
   ],
   "https://www.parahumans.net/2019/11/16/radiation-18-1/": [
     {
       "before": "worked for the P.R.T.",
       "after": "worked for the PRT."
+    },
+    {
+      "regExp": "titan(?![a-z])",
+      "replacement": "Titan"
     }
   ],
   "https://www.parahumans.net/2019/11/19/radiation-18-2/": [
@@ -7648,12 +7660,20 @@
     {
       "before": "tents last Winter or Spring",
       "after": "tents last winter or spring"
+    },
+    {
+      "regExp": "titan(?![a-z])",
+      "replacement": "Titan"
     }
   ],
   "https://www.parahumans.net/2019/11/23/radiation-18-3/": [
     {
       "before": "in the eyes.  they were a",
       "after": "in the eyes.  They were a"
+    },
+    {
+      "before": "first look at a titan",
+      "after": "first look at a Titan"
     }
   ],
   "https://www.parahumans.net/2019/11/26/radiation-18-4/": [
@@ -7668,12 +7688,20 @@
     {
       "before": "some business headquarters I was in</p>",
       "after": "some business headquarters I was in.</p>"
+    },
+    {
+      "before": "hunched-over titan",
+      "after": "hunched-over Titan"
     }
   ],
   "https://www.parahumans.net/2019/12/03/radiation-18-6/": [
     {
       "before": "Some Master minions",
       "after": "Some master minions"
+    },
+    {
+      "before": "bomb to a titan",
+      "after": "bomb to a Titan"
     }
   ],
   "https://www.parahumans.net/2019/12/07/radiation-18-7/": [
@@ -7704,6 +7732,18 @@
     {
       "before": "end of the Summer",
       "after": "end of the summer"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/14/radiation-18-9/": [
+    {
+      "before": "the next titan",
+      "after": "the next Titan"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/17/radiation-18-10/": [
+    {
+      "before": "one titan dogging me",
+      "after": "one Titan dogging me"
     }
   ],
   "https://www.parahumans.net/2019/12/21/interlude-18-z-radiation/": [
@@ -7748,6 +7788,10 @@
       "regExp": "([Tt]he) stranger",
       "replacement": "$1 Stranger",
       "_comment": "See convert-worker.js; this corrects an over-correction"
+    },
+    {
+      "before": "because the titan was",
+      "after": "because the Titan was"
     }
   ],
   "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
@@ -7764,6 +7808,14 @@
     {
       "before": "I thought of dad, seeing him hug my mother",
       "after": "I thought of Dad, seeing him hug my mother"
+    },
+    {
+      "before": "One titan mobilizing",
+      "after": "One Titan mobilizing"
+    },
+    {
+      "before": "the horrifying titan",
+      "after": "the horrifying Titan"
     }
   ],
   "https://www.parahumans.net/2020/01/11/infrared-19-b/": [
@@ -7830,6 +7882,10 @@
     {
       "before": "<em>-through the emotion.  Emote through the emotion.  Emote</em>—",
       "after": "<em>—through the emotion.  Emote through the emotion.  Emote—</em>"
+    },
+    {
+      "before": "titan Ophion’s",
+      "after": "Titan Ophion’s"
     }
   ],
   "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
@@ -7912,6 +7968,10 @@
     {
       "before": "5’1 “",
       "after": "5′1″"
+    },
+    {
+      "before": "pink and black titan",
+      "after": "pink and black Titan"
     }
   ],
   "https://www.parahumans.net/2020/02/25/last-20-1/": [
