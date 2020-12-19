@@ -7774,6 +7774,10 @@
     {
       "before": "was emotion resistant",
       "after": "was emotion-resistant"
+    },
+    {
+      "before": "Thank you, fragile one",
+      "after": "Thank you, Fragile One"
     }
   ],
   "https://www.parahumans.net/2019/10/29/sundown-17-9/": [
@@ -7948,6 +7952,14 @@
     {
       "before": "hunched-over titan",
       "after": "hunched-over Titan"
+    },
+    {
+      "before": "experience the world, fragile one",
+      "after": "experience the world, Fragile One"
+    },
+    {
+      "before": "chime in, fragile one",
+      "after": "chime in, Fragile One"
     }
   ],
   "https://www.parahumans.net/2019/12/03/radiation-18-6/": [
@@ -8152,6 +8164,14 @@
     {
       "before": "titan Ophion’s",
       "after": "Titan Ophion’s"
+    },
+    {
+      "before": "Work with me, fragile one",
+      "after": "Work with me, Fragile One"
+    },
+    {
+      "before": "‘fragile one’",
+      "after": "‘Fragile One’"
     }
   ],
   "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
