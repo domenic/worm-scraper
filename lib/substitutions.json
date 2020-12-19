@@ -7933,6 +7933,30 @@
     {
       "regExp": "titan(?![a-z])",
       "replacement": "Titan"
+    },
+    {
+      "before": "condemnation free",
+      "after": "condemnation-free"
+    },
+    {
+      "before": "eyes heavily decorate with gray",
+      "after": "eyes heavily decorated with gray"
+    },
+    {
+      "before": "<em>Yuh</em>!",
+      "after": "<em>Yuh!</em>"
+    },
+    {
+      "before": "cultured accent, “Is that us",
+      "after": "cultured accent, “is that us"
+    },
+    {
+      "before": "to force one.”",
+      "after": "to force one’.”"
+    },
+    {
+      "before": "between the Titans  <em>Pull",
+      "after": "between the Titans.  <em>Pull"
     }
   ],
   "https://www.parahumans.net/2019/11/23/radiation-18-3/": [
@@ -7943,6 +7967,18 @@
     {
       "before": "first look at a titan",
       "after": "first look at a Titan"
+    },
+    {
+      "before": "too much fo a retreat",
+      "after": "too much of a retreat"
+    },
+    {
+      "before": "said, “after we were all",
+      "after": "said, “After we were all"
+    },
+    {
+      "before": "reconicle",
+      "after": "reconcile"
     }
   ],
   "https://www.parahumans.net/2019/11/26/radiation-18-4/": [
@@ -7969,6 +8005,60 @@
     {
       "before": "chime in, fragile one",
       "after": "chime in, Fragile One"
+    },
+    {
+      "before": "syndicate-awareness",
+      "after": "Syndicate-awareness"
+    },
+    {
+      "before": "gray Jester Mockument was like",
+      "after": "gray jester Mockument like"
+    },
+    {
+      "before": "he halfway back",
+      "after": "he was halfway back"
+    },
+    {
+      "before": "master of biology",
+      "after": "mastery of biology"
+    },
+    {
+      "before": "for most move, or raise",
+      "after": "for most moves, or raise"
+    },
+    {
+      "before": "wasn’t hookline’s",
+      "after": "wasn’t Hookline’s"
+    },
+    {
+      "before": "Chicken little",
+      "after": "Chicken Little"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/30/radiation-18-5/": [
+    {
+      "before": "jumping of a cardboard",
+      "after": "jumping off a cardboard"
+    },
+    {
+      "before": "Tattletale said. “That breastplate",
+      "after": "Tattletale said, “that breastplate"
+    },
+    {
+      "before": "they were gas damaged",
+      "after": "they were gas-damaged"
+    },
+    {
+      "before": "“skewer them to",
+      "after": "“Skewer them to"
+    },
+    {
+      "before": "…You have to conserve",
+      "after": "…you have to conserve"
+    },
+    {
+      "before": "Shorcut",
+      "after": "Shortcut"
     }
   ],
   "https://www.parahumans.net/2019/12/03/radiation-18-6/": [
@@ -7979,6 +8069,14 @@
     {
       "before": "bomb to a titan",
       "after": "bomb to a Titan"
+    },
+    {
+      "before": "military inspired",
+      "after": "military-inspired"
+    },
+    {
+      "before": "a rough fight",
+      "after": "a rough flight"
     }
   ],
   "https://www.parahumans.net/2019/12/07/radiation-18-7/": [
@@ -8009,18 +8107,80 @@
     {
       "before": "end of the Summer",
       "after": "end of the summer"
+    },
+    {
+      "before": "five pound phone",
+      "after": "five-pound phone"
+    },
+    {
+      "before": "He was slowly knitting itself together",
+      "after": "He was slowly knitting himself together"
+    },
+    {
+      "before": "and uh, Stables",
+      "after": "and uh, stables"
+    },
+    {
+      "before": "feel the meta tines",
+      "after": "feel the metal tines"
+    },
+    {
+      "before": "back at the Workshop",
+      "after": "back at the workshop"
+    },
+    {
+      "before": "Victoria,” My uncle",
+      "after": "Victoria,” my uncle"
+    }
+  ],
+  "https://www.parahumans.net/2019/12/10/radiation-18-8/": [
+    {
+      "before": "Parahuman Sciences",
+      "after": "parahuman sciences"
+    },
+    {
+      "before": "protocols in action.’",
+      "after": "protocols in action’."
+    },
+    {
+      "before": "“—Too close",
+      "after": "“—too close"
+    },
+    {
+      "before": "Ten-thirty-six",
+      "after": "Ten thirty-six"
+    },
+    {
+      "before": "“—He was warm and safe",
+      "after": "“—he was warm and safe"
     }
   ],
   "https://www.parahumans.net/2019/12/14/radiation-18-9/": [
     {
       "before": "the next titan",
       "after": "the next Titan"
+    },
+    {
+      "before": "Kenzie said.  Give me a minute.",
+      "after": "Kenzie said.  “Give me a minute."
+    },
+    {
+      "before": "Sveta said.  Especially if we",
+      "after": "Sveta said.  “Especially if we"
+    },
+    {
+      "before": "from the cold, though his face",
+      "after": "from the cold; though his face"
     }
   ],
   "https://www.parahumans.net/2019/12/17/radiation-18-10/": [
     {
       "before": "one titan dogging me",
       "after": "one Titan dogging me"
+    },
+    {
+      "before": "Capes on two rises",
+      "after": "Capes on two risers"
     }
   ],
   "https://www.parahumans.net/2019/12/21/interlude-18-z-radiation/": [
@@ -8035,6 +8195,15 @@
     {
       "before": "and saw her Aunt and Uncle approaching",
       "after": "and saw her aunt and uncle approaching"
+    },
+    {
+      "regExp": "([Tt]he) Giantess",
+      "replacement": "$1 giantess",
+      "_comment": "14 other instances in this chapter are not capitalized"
+    },
+    {
+      "before": "had allies. connections.",
+      "after": "had allies. Connections."
     }
   ],
   "https://www.parahumans.net/2019/12/24/infrared-19-1/": [
@@ -8046,6 +8215,14 @@
       "regExp": "([Tt]he) stranger",
       "replacement": "$1 Stranger",
       "_comment": "See convert-worker.js; this corrects an over-correction"
+    },
+    {
+      "before": "doing the damage herself",
+      "after": "doing the damage themselves"
+    },
+    {
+      "before": "<em>This</em>?  This",
+      "after": "<em>This?</em>  This"
     }
   ],
   "https://www.parahumans.net/2019/12/28/infrared-19-2/": [
@@ -8069,6 +8246,46 @@
     {
       "before": "because the titan was",
       "after": "because the Titan was"
+    },
+    {
+      "before": "endless flesh monster were",
+      "after": "endless flesh monsters were"
+    },
+    {
+      "before": "putting it of balance",
+      "after": "putting it off balance"
+    },
+    {
+      "before": "What lay us below",
+      "after": "What lay below us"
+    },
+    {
+      "before": "<em>Do you have any regrets now</em>?",
+      "after": "<em>Do you have any regrets now?</em>"
+    },
+    {
+      "before": "Stygean Blue",
+      "after": "stygian blue"
+    },
+    {
+      "before": "Except the feeling of breached",
+      "after": "Except the feeling of being breached"
+    },
+    {
+      "before": "best guess of it’s location",
+      "after": "best guess of its location"
+    },
+    {
+      "before": "Dream Room",
+      "after": "dream room"
+    },
+    {
+      "before": "‘EM",
+      "after": "’EM"
+    },
+    {
+      "before": "In effect, Powers were different",
+      "after": "In effect, powers were different"
     }
   ],
   "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
@@ -8079,6 +8296,30 @@
     {
       "before": "can’t induce triggers  There were parahumans",
       "after": "can’t induce triggers.  There were parahumans"
+    },
+    {
+      "before": "into the conversation, “You do some",
+      "after": "into the conversation, “you do some"
+    },
+    {
+      "before": "<em>None of us</em> do, Egg thought",
+      "after": "<em>None of us do</em>, Egg thought"
+    },
+    {
+      "before": "Our ‘number zero’s wife",
+      "after": "Our ‘number zero’s’ wife"
+    },
+    {
+      "before": "his voice was hard, “You took",
+      "after": "his voice was hard, “you took"
+    },
+    {
+      "before": "<em>You don’t get to do that</em>!",
+      "after": "<em>You don’t get to do that!</em>"
+    },
+    {
+      "before": "Almost a Figurehead",
+      "after": "Almost a figurehead"
     }
   ],
   "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
@@ -8097,12 +8338,28 @@
     {
       "before": "that stranger",
       "after": "that Stranger"
+    },
+    {
+      "before": "I could Strands worked to braid together",
+      "after": "I could see strands working to braid together"
+    },
+    {
+      "before": "any of the Master Protocols",
+      "after": "any of the master protocols"
     }
   ],
   "https://www.parahumans.net/2020/01/07/infrared-19-4/": [
     {
       "before": "talked to them?  or done",
       "after": "talked to them?  Or done"
+    },
+    {
+      "before": "all nighters",
+      "after": "all-nighters"
+    },
+    {
+      "before": "the other cases",
+      "after": "the other Cases"
     }
   ],
   "https://www.parahumans.net/2020/01/11/infrared-19-b/": [
