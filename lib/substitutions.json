@@ -124,6 +124,10 @@
     {
       "before": "Really dad",
       "after": "Really Dad"
+    },
+    {
+      "before": "The Parahumans wiki",
+      "after": "The parahumans wiki"
     }
   ],
   "https://parahumans.wordpress.com/2011/08/09/agitation-3-1/": [
@@ -2529,6 +2533,10 @@
     {
       "before": "weeks, <i>months.  </i>Anticipating",
       "after": "weeks, <em>months</em>.  Anticipating"
+    },
+    {
+      "before": "as much or more about Parahumans than",
+      "after": "as much or more about parahumans than"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/08/migration-17-1/": [
@@ -2776,6 +2784,10 @@
     {
       "before": "that was why Masters tend to be",
       "after": "that was why masters tend to be"
+    },
+    {
+      "before": "the top researchers on Parahumans",
+      "after": "the top researchers on parahumans"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/07/interlude-18-donation-bonus-3/": [
@@ -5196,6 +5208,10 @@
     {
       "before": "fighting, ‘rene",
       "after": "fighting, ’rene"
+    },
+    {
+      "before": "I studied Parahumans before",
+      "after": "I studied parahumans before"
     }
   ],
   "https://www.parahumans.net/2018/06/26/torch-interlude-7-x/": [
@@ -5717,6 +5733,10 @@
     {
       "before": "fucking teacher wouldn’t",
       "after": "fucking Teacher wouldn’t"
+    },
+    {
+      "before": "That the Parahumans were taking over",
+      "after": "That the parahumans were taking over"
     }
   ],
   "https://www.parahumans.net/2018/10/13/gleaming-9-15/": [
@@ -6820,6 +6840,12 @@
     {
       "before": "Instead a 1,—2, 4",
       "after": "Instead a 1, −2, 4"
+    }
+  ],
+  "https://www.parahumans.net/2019/05/21/breaking-14-2/": [
+    {
+      "before": "if Parahumans like Swansong",
+      "after": "if parahumans like Swansong"
     }
   ],
   "https://www.parahumans.net/2019/05/25/breaking-14-3/": [
@@ -8334,6 +8360,10 @@
       "before": "Can’t fist bump",
       "after": "Can’t fist-bump",
       "_comment": "Here it's a verb"
+    },
+    {
+      "before": "that other Parahumans are",
+      "after": "that other parahumans are"
     }
   ],
   "https://www.parahumans.net/2020/01/04/infrared-19-3/": [
