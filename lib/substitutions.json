@@ -2987,7 +2987,7 @@
     {
       "before": "Unfortunate tinker",
       "after": "Unfortunate tinker",
-      "_comment": "See convert.js; this corrects an over-correction"
+      "_comment": "See convert-worker.js; this corrects an over-correction"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/19/interlude-19/": [
@@ -3068,7 +3068,7 @@
     {
       "before": "the Clairvoyant",
       "after": "the clairvoyant",
-      "_comment": "see convert.js; this corrects an over-correction"
+      "_comment": "See convert-worker.js; this corrects an over-correction"
     },
     {
       "before": "maintain eye contact.  he could feel the warmth",
@@ -7724,6 +7724,11 @@
     {
       "before": "Victoria,” my Aunt said",
       "after": "Victoria,” my aunt said"
+    },
+    {
+      "regExp": "([Tt]he) stranger",
+      "replacement": "$1 Stranger",
+      "_comment": "See convert-worker.js; this corrects an over-correction"
     }
   ],
   "https://www.parahumans.net/2019/12/28/infrared-19-2/": [
@@ -7738,6 +7743,11 @@
     {
       "before": "scream—no sound when viewing crystal-pictures, of course-, and",
       "after": "scream—no sound when viewing crystal-pictures, of course—and"
+    },
+    {
+      "regExp": "([Tt]he) stranger",
+      "replacement": "$1 Stranger",
+      "_comment": "See convert-worker.js; this corrects an over-correction"
     }
   ],
   "https://www.parahumans.net/2020/01/01/interlude-19-a/": [
