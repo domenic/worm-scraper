@@ -1200,6 +1200,11 @@
     {
       "before": "of her head, “And my",
       "after": "of her head. “And my"
+    },
+    {
+      "before": "KOOROW   BULLIT<br />\nMILK              STUMPY<br />\nBROOTUS  JOODUS<br />\nAXIL     GINGIR",
+      "after": "KOOROW\u00A0\u00A0\u00A0BULLIT<br />\nMILK\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0STUMPY<br />\nBROOTUS\u00A0\u00A0JOODUS<br />\nAXIL\u00A0\u00A0\u00A0\u00A0\u00A0GINGIR",
+      "_comment": "This section plays poorly with our space-normalizing heuristic."
     }
   ],
   "https://parahumans.wordpress.com/2012/03/31/interlude-8/": [
@@ -2925,6 +2930,10 @@
     {
       "before": "and be brought it",
       "after": "and he brought it"
+    },
+    {
+      "before": "propellers   One caught her",
+      "after": "propellers.  One caught her"
     }
   ],
   "https://parahumans.wordpress.com/2013/03/02/scourge-19-4/": [
@@ -6569,7 +6578,7 @@
       "after": "morning breath—more than morning breath—but there"
     },
     {
-      "before": "<p><strong><a href=\"https://www.parahumans.net/2019/03/26/heavens-12-none/\">Previous Chapter</a>                                                                                      <a href=\"https://www.parahumans.net/2019/04/02/black-13-1/\">Next Chapter</a></strong></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>",
+      "before": "<p><strong><a href=\"https://www.parahumans.net/2019/03/26/heavens-12-none/\">Previous Chapter</a>                                                                                    <a href=\"https://www.parahumans.net/2019/04/02/black-13-1/\">Next Chapter</a></strong></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>",
       "after": "<div style=\"page-break-after: always;\">&#160;</div>\n<div style=\"page-break-after: always;\">&#160;</div>",
       "_comment": "This is the best way I can think of to emulate the end of chapter 'fake out' in an ebook format"
     },
@@ -6596,7 +6605,7 @@
   ],
   "https://www.parahumans.net/2019/04/02/black-13-1/": [
     {
-      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><strong><a href=\"https://www.parahumans.net/2019/03/29/heavens-12-x/\">Previous Chapter</a>                                                                                      <a href=\"https://www.parahumans.net/2019/04/05/black-13-2/\">Next Chapter</a></strong></p>\n",
+      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><strong><a href=\"https://www.parahumans.net/2019/03/29/heavens-12-x/\">Previous Chapter</a>                                                                                    <a href=\"https://www.parahumans.net/2019/04/05/black-13-2/\">Next Chapter</a></strong></p>\n",
       "after": "",
       "_comment": "Our usual heuristics of removing the first paragraph to remove the previous/next chapter links are broken here because of the 'go back and look at the fake out' comment at the top"
     },
