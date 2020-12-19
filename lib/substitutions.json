@@ -4162,6 +4162,10 @@
     {
       "before": "on the other earth",
       "after": "on the other Earth"
+    },
+    {
+      "before": "name?  did it start",
+      "after": "name?  Did it start"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/29/30-7/": [
@@ -6227,6 +6231,10 @@
     {
       "before": "<em>apparently I</em>",
       "after": "<em>apparently</em> I"
+    },
+    {
+      "before": "Hey Little V",
+      "after": "Hey little V"
     }
   ],
   "https://www.parahumans.net/2019/01/29/blinding-11-10/": [
@@ -6272,7 +6280,7 @@
     },
     {
       "before": "<em>Go you, Little</em> V.",
-      "after": "<em>Go you, Little V.</em>"
+      "after": "<em>Go you, little V.</em>"
     },
     {
       "before": "the King on the chess board",
@@ -6657,10 +6665,6 @@
     {
       "before": "For some of the heartbroken",
       "after": "For some of the Heartbroken"
-    },
-    {
-      "before": "agent-parahuman",
-      "after": "agent–parahuman"
     }
   ],
   "https://www.parahumans.net/2019/04/20/black-13-6/": [
@@ -7556,36 +7560,172 @@
     {
       "before": "Some—<em>many-</em> were unwillingly",
       "after": "Some—<em>many</em>—were unwillingly"
+    },
+    {
+      "before": "looking down at my hand at her arm and my hand",
+      "after": "looking down at her arm and my hand"
+    },
+    {
+      "before": "more more thing hanging over our heads",
+      "after": "one more thing hanging over our heads"
+    },
+    {
+      "before": "my mothers cheeks",
+      "after": "my mother’s cheeks"
+    },
+    {
+      "before": "—Understand, please",
+      "after": "—understand, please"
+    },
+    {
+      "before": "“Victoria,” Crystal’s voice was gentle",
+      "after": "“Victoria.” Crystal’s voice was gentle"
     }
   ],
   "https://www.parahumans.net/2019/10/05/sundown-17-2/": [
     {
       "before": "egg for Crystal and mom",
       "after": "egg for Crystal and Mom"
+    },
+    {
+      "before": "<p><strong>Me:</strong><br />",
+      "after": "<p style=\"padding-left: 30px;\"><strong>Me:</strong><br />"
+    },
+    {
+      "before": "<p><strong>Vista (Little V):</strong><br />",
+      "after": "<p style=\"padding-left: 30px;\"><strong>Vista (Little V):</strong><br />"
+    },
+    {
+      "before": "few minutes of peace, damn it.—",
+      "after": "few minutes of peace, damn it—"
+    },
+    {
+      "regExp": "‘Clear",
+      "replacement": "’Clear"
     }
   ],
   "https://www.parahumans.net/2019/10/08/sundown-17-3/": [
     {
       "before": "say, Math class",
       "after": "say, math class"
+    },
+    {
+      "before": "hang outs",
+      "after": "hangouts"
+    },
+    {
+      "before": "<em>‘</em>",
+      "after": "’"
+    },
+    {
+      "before": "“—Which I’m not.”",
+      "after": "“—which I’m not.”"
+    },
+    {
+      "before": "Vista for the kid’s sake",
+      "after": "Vista for the kids’ sake"
+    },
+    {
+      "before": "Day to day activities",
+      "after": "Day-to-day activities"
+    },
+    {
+      "before": "tower crescent avenue",
+      "after": "Tower Crescent Avenue"
+    },
+    {
+      "before": "all had to deal with ‘heavy’.",
+      "after": "all had to deal with ‘heavy’.”"
+    },
+    {
+      "before": "stuff?” I spoke up, “it get into that control",
+      "after": "stuff?” I spoke up. “It gets into that control"
+    },
+    {
+      "before": "talked to me a like",
+      "after": "talked to me like"
+    },
+    {
+      "before": "call me Big V",
+      "after": "call me big V"
     }
   ],
   "https://www.parahumans.net/2019/10/12/sundown-17-4/": [
     {
       "before": "on resisting Master influence",
       "after": "on resisting master influence"
+    },
+    {
+      "before": "CDs and Vinyls",
+      "after": "CDs and vinyls"
+    },
+    {
+      "before": "“P.R.T.”",
+      "after": "“PRT.”"
+    },
+    {
+      "before": "second or third string Wardens",
+      "after": "second- or third-string Wardens"
+    },
+    {
+      "before": "intern level clerks",
+      "after": "intern-level clerks"
+    },
+    {
+      "before": "half way",
+      "after": "halfway"
+    },
+    {
+      "before": "her tone didn’t soft",
+      "after": "her tone didn’t soften"
+    },
+    {
+      "before": "Jessica, Mr…",
+      "after": "Jessica, Mr.…"
+    },
+    {
+      "before": "—Captive",
+      "after": "—captive"
+    },
+    {
+      "before": "come from?  what language",
+      "after": "come from?  What language"
     }
   ],
   "https://www.parahumans.net/2019/10/15/sundown-17-5/": [
     {
       "before": "Is mom walking without difficulty",
       "after": "Is Mom walking without difficulty"
+    },
+    {
+      "before": "Through valkyrie",
+      "after": "Through Valkyrie"
+    },
+    {
+      "before": "“‘Lo.”",
+      "after": "“’Lo.”"
     }
   ],
   "https://www.parahumans.net/2019/10/19/sundown-17-6/": [
     {
       "before": "Probably dad",
       "after": "Probably Dad"
+    },
+    {
+      "before": "and no and no rejiggered rat",
+      "after": "and no rejiggered rat"
+    },
+    {
+      "before": "Harder headed",
+      "after": "Harder-headed"
+    },
+    {
+      "before": "<em>you proved my sister</em> right?  <em>Tired,",
+      "after": "<em>you proved my sister </em>right</em>?  Tired,"
+    },
+    {
+      "before": "boundary,” He whispered",
+      "after": "boundary,” he whispered"
     }
   ],
   "https://www.parahumans.net/2019/10/22/sundown-17-7/": [
@@ -7596,6 +7736,10 @@
     {
       "before": "Golem explained</p>",
       "after": "Golem explained.</p>"
+    },
+    {
+      "before": "see the Lab",
+      "after": "see the lab"
     }
   ],
   "https://www.parahumans.net/2019/10/26/sundown-17-8/": [
@@ -7606,6 +7750,40 @@
     {
       "before": "She’s aggressive  If anyone makes",
       "after": "She’s aggressive.  If anyone makes"
+    },
+    {
+      "before": "—They mobbed Lookout",
+      "after": "—they mobbed Lookout"
+    },
+    {
+      "before": "Of Course Kenzie",
+      "after": "Of course Kenzie"
+    },
+    {
+      "before": "Rain about Girls",
+      "after": "Rain about girls"
+    },
+    {
+      "before": "I typed: The <em>one",
+      "after": "I typed: <em>The one"
+    },
+    {
+      "before": "realize,” Seir called out.  “If a fight",
+      "after": "realize,” Seir called out, “if a fight"
+    },
+    {
+      "before": "was emotion resistant",
+      "after": "was emotion-resistant"
+    }
+  ],
+  "https://www.parahumans.net/2019/10/29/sundown-17-9/": [
+    {
+      "before": "—Are you going to be wishing",
+      "after": "—are you going to be wishing"
+    },
+    {
+      "before": "Asking question?",
+      "after": "Asking a question?"
     }
   ],
   "https://www.parahumans.net/2019/11/02/sundown-17-10/": [
@@ -7616,6 +7794,40 @@
     {
       "before": "that didn’t betray too much</p>",
       "after": "that didn’t betray too much.</p>"
+    },
+    {
+      "before": "say Molasses",
+      "after": "say molasses"
+    },
+    {
+      "before": "‘nother",
+      "after": "’nother"
+    },
+    {
+      "before": "‘she peed on me!’",
+      "after": "‘she peed on me!’."
+    },
+    {
+      "before": "madam Mayor",
+      "after": "Madam Mayor"
+    }
+  ],
+  "https://www.parahumans.net/2019/11/05/interlude-17-x-sundown/": [
+    {
+      "before": "five-o’clock shadow",
+      "after": "five o’clock shadow"
+    },
+    {
+      "before": "nervous looking guy",
+      "after": "nervous-looking guy"
+    },
+    {
+      "before": "you have <em>drugs?  Alcohol?  Cigarettes</em>?  I have",
+      "after": "you have <em>drugs</em>?  <em>Alcohol?</em>  <em>Cigarettes?</em>  I have"
+    },
+    {
+      "before": "Not by mom or dad",
+      "after": "Not by Mom or Dad"
     }
   ],
   "https://www.parahumans.net/2019/11/09/interlude-17-y-sundown/": [
@@ -7626,6 +7838,14 @@
     {
       "before": "new titan",
       "after": "new Titan"
+    },
+    {
+      "before": "anti parahumans",
+      "after": "anti-parahumans"
+    },
+    {
+      "before": "hit the Anti-parahumans",
+      "after": "hit the anti-parahumans"
     }
   ],
   "https://www.parahumans.net/2019/11/12/interlude-17-z-sundown/": [
@@ -7636,6 +7856,42 @@
     {
       "regExp": "titan(?![a-z])",
       "replacement": "Titan"
+    },
+    {
+      "before": "What if you <em>weren’t?</em>",
+      "after": "What if you <em>weren’t</em>?"
+    },
+    {
+      "before": "Victor, Can you go join Tribute",
+      "after": "Victor, can you go join Tribute"
+    },
+    {
+      "before": "The forcefield above him elaborate and getting",
+      "after": "The forcefield above him was elaborate and getting"
+    },
+    {
+      "before": "Their faculties were diminished, but</p>",
+      "after": "Their faculties were diminished, but—</p>"
+    },
+    {
+      "before": "Flashbang, he saw was one of the",
+      "after": "Flashbang, he saw, was one of the"
+    },
+    {
+      "before": "the palm, Out each foot, and out of the mouth.lifting one",
+      "after": "the palm.  Out each foot, and out of the mouth.  Lifting one"
+    },
+    {
+      "before": "no eyes; only a blindfold",
+      "after": "no eyes, only a blindfold"
+    },
+    {
+      "before": "lightness of a feather landing, came to perch",
+      "after": "lightness of a feather landing, it came to perch"
+    },
+    {
+      "before": "…The only things that are",
+      "after": "…the only things that are"
     }
   ],
   "https://www.parahumans.net/2019/11/16/radiation-18-1/": [
@@ -7816,6 +8072,16 @@
     {
       "before": "the horrifying titan",
       "after": "the horrifying Titan"
+    },
+    {
+      "before": "that stranger",
+      "after": "that Stranger"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/07/infrared-19-4/": [
+    {
+      "before": "talked to them?  or done",
+      "after": "talked to them?  Or done"
     }
   ],
   "https://www.parahumans.net/2020/01/11/infrared-19-b/": [
