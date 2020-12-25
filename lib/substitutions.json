@@ -3949,6 +3949,10 @@
     {
       "before": "this,” I said. “I",
       "after": "this,” I said, “I"
+    },
+    {
+      "before": "Second Triggers",
+      "after": "Second triggers"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/05/venom-29-8/": [
@@ -8652,6 +8656,22 @@
     {
       "before": "my Uncle said",
       "after": "my uncle said"
+    },
+    {
+      "before": "<em>Anywhere else</em>?",
+      "after": "<em>Anywhere else?</em>"
+    },
+    {
+      "before": "do you understand about Trigger events",
+      "after": "do you understand about trigger events"
+    },
+    {
+      "before": "good day,” my mother said, “The best",
+      "after": "good day,” my mother said, “the best"
+    },
+    {
+      "before": "happen to you,” My mother said",
+      "after": "happen to you,” my mother said"
     }
   ],
   "https://www.parahumans.net/2020/02/11/infrared-19-f/": [
@@ -8662,6 +8682,30 @@
     {
       "before": "while mom did her own thing",
       "after": "while Mom did her own thing"
+    },
+    {
+      "before": "still hadn’t been repeated from the fights",
+      "after": "still hadn’t been repaired from the fights"
+    },
+    {
+      "before": "“Hey!” the girl turned",
+      "after": "“Hey!” The girl turned"
+    },
+    {
+      "before": "Lookout, How long do you need",
+      "after": "Lookout, how long do you need"
+    },
+    {
+      "before": "You guy should know",
+      "after": "You guys should know"
+    },
+    {
+      "before": "he’d gotten more of <em>dad</em>",
+      "after": "he’d gotten more of <em>Dad</em>"
+    },
+    {
+      "before": "Its Capricorn",
+      "after": "It’s Capricorn"
     }
   ],
   "https://www.parahumans.net/2020/02/15/infrared-19-10/": [
@@ -8676,6 +8720,14 @@
     {
       "before": "figure out while she was gone.  we’ll see who",
       "after": "figure out while she was gone.  We’ll see who"
+    },
+    {
+      "before": "miligram",
+      "after": "milligram"
+    },
+    {
+      "before": "same clothes that had been issues to the refugees",
+      "after": "same clothes that had been issued to the refugees"
     }
   ],
   "https://www.parahumans.net/2020/02/18/infrared-19-g/": [
