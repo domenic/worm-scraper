@@ -4422,6 +4422,10 @@
     {
       "before": "How do you even think rec—how do you think",
       "after": "How do you even think rec— How do you think"
+    },
+    {
+      "before": "built in protections",
+      "after": "built-in protections"
     }
   ],
   "https://www.parahumans.net/2017/12/01/daybreak-1-8/": [
@@ -4494,6 +4498,10 @@
     {
       "before": "She huffed out out a small",
       "after": "She huffed out a small"
+    },
+    {
+      "before": "a built in glare",
+      "after": "a built-in glare"
     }
   ],
   "https://www.parahumans.net/2017/12/30/flare-2-7/": [
@@ -6662,6 +6670,12 @@
       "after": "“It’s winter,”"
     }
   ],
+  "https://www.parahumans.net/2019/04/05/black-13-2/": [
+    {
+      "before": "built in protection",
+      "after": "built-in protection"
+    }
+  ],
   "https://www.parahumans.net/2019/04/09/black-13-3/": [
     {
       "before": "you have have surmised",
@@ -8616,6 +8630,10 @@
     {
       "before": "<em>Skitter, Khepri</em>",
       "after": "<em>Skitter</em>, <em>Khepri</em>"
+    },
+    {
+      "before": "built in spears",
+      "after": "built-in spears"
     }
   ],
   "https://www.parahumans.net/2020/02/08/infrared-19-9/": [
