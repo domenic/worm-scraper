@@ -7950,6 +7950,10 @@
     {
       "regExp": "titan(?![a-z])",
       "replacement": "Titan"
+    },
+    {
+      "before": "the Fallen Raid or the Prison?",
+      "after": "the Fallen raid or the prison?"
     }
   ],
   "https://www.parahumans.net/2019/11/19/radiation-18-2/": [
@@ -8446,6 +8450,14 @@
     {
       "before": "can understand your Aunt and Uncle",
       "after": "can understand your aunt and uncle"
+    },
+    {
+      "before": "—And I think I have a grasp",
+      "after": "—and I think I have a grasp"
+    },
+    {
+      "before": "emotion driven",
+      "after": "emotion-driven"
     }
   ],
   "https://www.parahumans.net/2020/01/14/infrared-19-c/": [
@@ -8464,6 +8476,24 @@
     {
       "before": "—<em>die quickly, if he has to die</em>.",
       "after": "<em>—die quickly, if he has to die.</em>"
+    },
+    {
+      "before": "close mouthed",
+      "after": "close-mouthed"
+    },
+    {
+      "before": "“…Don’t really trust",
+      "after": "“…don’t really trust"
+    }
+  ],
+  "https://www.parahumans.net/2020/01/18/infrared-19-5/": [
+    {
+      "before": "liqud Titan",
+      "after": "liquid Titan"
+    },
+    {
+      "before": "done at the Prison",
+      "after": "done at the prison"
     }
   ],
   "https://www.parahumans.net/2020/01/21/infrared-19-6/": [
@@ -8482,24 +8512,96 @@
     {
       "before": "‘fragile one’",
       "after": "‘Fragile One’"
+    },
+    {
+      "before": "“—But there won’t be any effects",
+      "after": "“—but there won’t be any effects"
+    },
+    {
+      "before": "One of his Titans lurked",
+      "after": "One of his giants lurked"
+    },
+    {
+      "before": "furously",
+      "after": "furiously"
+    },
+    {
+      "before": "what I’d looked, hadn’t registered",
+      "after": "what I’d looked at, hadn’t registered"
+    },
+    {
+      "before": "Mother Titan",
+      "after": "Mother Giant"
+    },
+    {
+      "before": "Adrenline",
+      "after": "Adrenaline"
+    },
+    {
+      "before": "ex-Prison",
+      "after": "ex-prison"
+    },
+    {
+      "before": "Chris and the Syringe",
+      "after": "Chris and the syringe"
+    },
+    {
+      "before": "“…She might have gotten",
+      "after": "“…she might have gotten"
+    },
+    {
+      "before": "“—It was Jessica accepting",
+      "after": "“—it was Jessica accepting"
+    },
+    {
+      "before": "We saw people running around.</p>",
+      "after": "We saw people running around.”</p>"
     }
   ],
   "https://www.parahumans.net/2020/01/25/infrared-19-d/": [
     {
       "before": "look after mom",
       "after": "look after Mom"
+    },
+    {
+      "before": "pink-a line of red-pink",
+      "after": "pink—a line of red—pink"
+    },
+    {
+      "before": "recruited for busy work",
+      "after": "recruited for busywork"
+    },
+    {
+      "before": "Steamwheel went Rogue",
+      "after": "Steamwheel went rogue"
+    },
+    {
+      "before": "mother said.  Such a horrible",
+      "after": "mother said.  “Such a horrible"
     }
   ],
   "https://www.parahumans.net/2020/01/28/infrared-19-e/": [
     {
       "before": "so mom doesn’t end up alone",
       "after": "so Mom doesn’t end up alone"
+    },
+    {
+      "before": "“No!” she was almost drowned out",
+      "after": "“No!” She was almost drowned out"
     }
   ],
   "https://www.parahumans.net/2020/02/02/infrared-19-7/": [
     {
       "before": "I really wasn’t.  really",
       "after": "I really wasn’t.  Really"
+    },
+    {
+      "before": "‘I have that and ‘I don’t want it’",
+      "after": "‘I have that and I don’t want it’"
+    },
+    {
+      "before": "number boy",
+      "after": "Number Boy"
     }
   ],
   "https://www.parahumans.net/2020/02/04/infrared-19-8/": [
@@ -8510,6 +8612,10 @@
     {
       "before": "relatively speaking” Number Five",
       "after": "relatively speaking,” Number Five"
+    },
+    {
+      "before": "<em>Skitter, Khepri</em>",
+      "after": "<em>Skitter</em>, <em>Khepri</em>"
     }
   ],
   "https://www.parahumans.net/2020/02/08/infrared-19-9/": [
