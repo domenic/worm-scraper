@@ -21,7 +21,7 @@ worm-scraper --help
 If this outputs some help documentation, then the installation process went smoothly. You can move on to assemble the eBook by typing
 
 ```bash
-worm-scraper download convert scaffold zip
+worm-scraper
 ```
 
 This will take a while, but will eventually produce a `Worm.epub` file!
@@ -29,7 +29,7 @@ This will take a while, but will eventually produce a `Worm.epub` file!
 If you'd like to get _Ward_ instead of _Worm_, use `--book=ward`, e.g.
 
 ```bash
-worm-scraper download convert scaffold zip --book=ward
+worm-scraper --book=ward
 ```
 
 ## EPUB vs. other formats
