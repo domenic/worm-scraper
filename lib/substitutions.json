@@ -3667,6 +3667,10 @@
     {
       "before": "Focus  Memorize.",
       "after": "Focus.  Memorize."
+    },
+    {
+      "before": "The Entity slowed",
+      "after": "The entity slowed"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/13/extinction-27-1/": [
@@ -8734,6 +8738,14 @@
     {
       "before": "Imp and the heartbroken",
       "after": "Imp and the Heartbroken"
+    },
+    {
+      "before": "That’s the way it always goes I get close to people",
+      "after": "That’s the way it always goes—I get close to people"
+    },
+    {
+      "before": "The voices, a veritable <em>crowd</em>, was audible now",
+      "after": "The voices, a veritable <em>crowd</em>, were audible now"
     }
   ],
   "https://www.parahumans.net/2020/02/23/infrared-19-z/": [
@@ -8744,18 +8756,141 @@
     {
       "before": "pink and black titan",
       "after": "pink and black Titan"
+    },
+    {
+      "before": "throguh",
+      "after": "through"
     }
   ],
   "https://www.parahumans.net/2020/02/25/last-20-1/": [
     {
       "before": "across this clearing.  eyes, cameras",
       "after": "across this clearing.  Eyes, cameras"
+    },
+    {
+      "before": "monsters, and to use the phrasing he liked",
+      "after": "monsters, to use the phrasing he liked"
+    },
+    {
+      "before": "about giving short speeches.  I couldn’t help",
+      "after": "about giving short speeches, I couldn’t help"
+    },
+    {
+      "before": "this Endbringer that wasn’t brutish and noisy",
+      "after": "this Endbringer wasn’t brutish and noisy"
+    },
+    {
+      "before": "like a dance with wings",
+      "after": "like a dancer with wings"
+    },
+    {
+      "before": "a gravely sound",
+      "after": "a gravelly sound"
+    },
+    {
+      "before": "trying to remain peripherally aware of.",
+      "after": "trying to remain peripherally aware."
+    },
+    {
+      "before": "The scream, the fact was",
+      "after": "The scream, the fact we"
+    },
+    {
+      "before": "The water receded before  tsunami",
+      "after": "The water receded before a tsunami"
+    },
+    {
+      "before": "Stay the course!</p>",
+      "after": "Stay the course!”</p>"
+    }
+  ],
+  "https://www.parahumans.net/2020/02/29/last-20-2/": [
+    {
+      "before": "<em>Go</em>!",
+      "after": "<em>Go!</em>"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/03/last-20-3/": [
+    {
+      "before": "Get-between the words",
+      "after": "Get——between the words"
     }
   ],
   "https://www.parahumans.net/2020/03/07/last-20-4/": [
     {
       "before": "peace<em>!”</em> Cryptid growled",
       "after": "peace!” Cryptid growled"
+    },
+    {
+      "before": "I’m going crazy,” Sveta remarked. “It’s you",
+      "after": "I’m going crazy,” Sveta remarked, “it’s you"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/10/last-20-5/": [
+    {
+      "before": "“…It’s slipping through our",
+      "after": "“…it’s slipping through our"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/15/last-20-6/": [
+    {
+      "before": "Strikes, brutes, breakers",
+      "after": "Strikers, brutes, breakers"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/17/last-20-7/": [
+    {
+      "before": "the pain in the ass heroine",
+      "after": "the pain-in-the-ass heroine"
+    },
+    {
+      "before": "manton limit",
+      "after": "Manton limit"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/21/last-20-8/": [
+    {
+      "before": "For Humanity?",
+      "after": "For humanity?"
+    },
+    {
+      "before": "a plan for Endgame",
+      "after": "a plan for endgame"
+    },
+    {
+      "before": "Saturday Morning cartoon",
+      "after": "Saturday-morning cartoon",
+      "_comment": "https://en.wikipedia.org/wiki/Saturday-morning_cartoon"
+    },
+    {
+      "before": "Simurgh driven future",
+      "after": "Simurgh-driven future"
+    },
+    {
+      "before": "the Entities",
+      "after": "the entities"
+    }
+  ],
+  "https://www.parahumans.net/2020/03/25/last-20-9/": [
+    {
+      "before": "you could help miss—help Antares",
+      "after": "you could help Miss—help Antares"
+    },
+    {
+      "before": "<em>Did I scare him</em>?",
+      "after": "<em>Did I scare him?</em>"
+    },
+    {
+      "regExp": "nurse Leah",
+      "replacement": "Nurse Leah"
+    },
+    {
+      "before": "“…But I have to draw",
+      "after": "“…but I have to draw"
+    },
+    {
+      "before": "break Capricorn’s parents hearts",
+      "after": "break Capricorn’s parents’ hearts"
     }
   ],
   "https://www.parahumans.net/2020/03/31/last-20-10/": [
@@ -8764,32 +8899,139 @@
       "after": "shaping it as it rolled out.  It became a circular"
     }
   ],
+  "https://www.parahumans.net/2020/04/04/last-20-b/": [
+    {
+      "before": "Aurora Borealis",
+      "after": "aurora borealis"
+    },
+    {
+      "before": "the snow fall and",
+      "after": "the snowfall and"
+    },
+    {
+      "before": "the more boy crazy girls",
+      "after": "the more boy-crazy girls"
+    },
+    {
+      "before": "hostage with <em>us, too!</em>",
+      "after": "hostage with <em>us</em>, <em>too</em>!"
+    },
+    {
+      "before": "done, prez",
+      "after": "done, Prez"
+    },
+    {
+      "before": "The—-bye.",
+      "after": "The——bye."
+    },
+    {
+      "before": "who would gave gone after",
+      "after": "who would have gone after"
+    },
+    {
+      "before": "a problem?” Her dad asked",
+      "after": "a problem?” her dad asked"
+    },
+    {
+      "before": "her fathers hand",
+      "after": "her father’s hand"
+    }
+  ],
   "https://www.parahumans.net/2020/04/07/last-20-11/": [
     {
-      "before": "had harangued the P.R.T., even",
-      "after": "had harangued the PRT, even"
+      "before": "had harangued the P.R.T., even though the Patrol had",
+      "after": "had harangued the PRT, even though the patrol had"
     },
     {
       "before": "“Actually,” Tattletale said. “I’ve been going",
       "after": "“Actually,” Tattletale said, “I’ve been going"
+    },
+    {
+      "before": "It’s not hell either",
+      "after": "It’s not Hell either"
+    },
+    {
+      "before": "damocles",
+      "after": "Damocles"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/11/last-20-e1/": [
+    {
+      "before": "newly formed Protectorate",
+      "after": "newly-formed Protectorate"
+    },
+    {
+      "before": "looked out over the city, and feeling <em>shock</em>",
+      "after": "looked out over the city, and felt <em>shock</em>"
+    }
+  ],
+  "https://www.parahumans.net/2020/04/14/last-20-e2/": [
+    {
+      "before": "a few years where father felt like",
+      "after": "a few years where Father felt like"
+    },
+    {
+      "before": "“—And the escaped prisoners",
+      "after": "“—and the escaped prisoners"
+    },
+    {
+      "before": "case by case basis",
+      "after": "case-by-case basis"
     }
   ],
   "https://www.parahumans.net/2020/04/18/last-20-e3/": [
     {
       "before": "madness inducing years of isolation",
       "after": "madness-inducing years of isolation"
+    },
+    {
+      "before": "Finale!  <em>Now</em>!",
+      "after": "Finale!  <em>Now!</em>"
     }
   ],
   "https://www.parahumans.net/2020/04/21/last-20-e4/": [
     {
       "before": "grown around the the maille sheath",
       "after": "grown around the maille sheath"
+    },
+    {
+      "before": "the size of a deserted earth",
+      "after": "the size of a deserted Earth"
     }
   ],
   "https://www.parahumans.net/2020/04/25/last-20-e5/": [
     {
       "before": "She has has some past therapy",
       "after": "She has had some past therapy"
+    },
+    {
+      "before": "<p>It was a sunny spring",
+      "after": "<p><em>It was a sunny spring"
+    },
+    {
+      "before": "living like a king.</p>",
+      "after": "living like a king.</em></p>"
+    },
+    {
+      "before": "dont’",
+      "after": "don’t"
+    },
+    {
+      "before": "its a nightmare I know",
+      "after": "it’s a nightmare I know"
+    },
+    {
+      "before": "what to do.”</p>\n<p>“Imp was saying Lookout",
+      "after": "what to do.</p>\n<p>“Imp was saying Lookout",
+      "_comment": "https://english.stackexchange.com/q/2288/242244"
+    },
+    {
+      "before": "listening, lost in tinkering—</p>",
+      "after": "listening, lost in tinkering—”</p>"
+    },
+    {
+      "before": "<p>:Transmit<strong><br />\nI’ve got",
+      "after": "<p style=\"padding-left: 30px;\">:Transmit<strong><br />I’ve got"
     }
   ],
   "https://www.parahumans.net/2020/04/28/last-20-e6/": [
@@ -8812,6 +9054,22 @@
     {
       "before": "Back to mom",
       "after": "Back to Mom"
+    },
+    {
+      "before": "Gold morning",
+      "after": "Gold Morning"
+    },
+    {
+      "before": "pay it safe",
+      "after": "play it safe"
+    },
+    {
+      "before": "“—You’ll want to pass on",
+      "after": "“—you’ll want to pass on"
+    },
+    {
+      "before": "cross the Ocean",
+      "after": "cross the ocean"
     }
   ],
   "https://www.parahumans.net/?p=3365&preview=true": [
@@ -8846,6 +9104,18 @@
     {
       "before": "with black slacks.  his hair was chin",
       "after": "with black slacks.  His hair was chin"
+    },
+    {
+      "before": "human right’s abuses",
+      "after": "human rights abuses"
+    },
+    {
+      "before": "<em>‘us</em>‘",
+      "after": "‘<em>us</em>’"
+    },
+    {
+      "before": "captain Gaile",
+      "after": "Captain Gaile"
     }
   ]
 }
