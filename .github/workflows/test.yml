@@ -1,0 +1,32 @@
+name: Test
+on:
+  pull_request:
+    branches:
+    - master
+  push:
+    branches:
+    - master
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 14
+    - run: rnpm run lint
+    - run: npm install
+    - run: node ./lib/worm-scraper.js --book=worm
+    - run: node ./lib/worm-scraper.js --book=ward
+  epubcheck:
+    name: EPUBCheck
+    needs: build
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/setup-java@v1
+      with:
+        java-version: 17
+        java-package: jre
+    - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
+    - run: java -jar epubcheck.jar --help
