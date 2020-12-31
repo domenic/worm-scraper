@@ -17,9 +17,9 @@ jobs:
       with:
         node-version: 14
 
-    - run: npm run lint
-
     - run: npm install
+
+    - run: npm run lint
 
     - uses: actions/cache@v2
       with:
