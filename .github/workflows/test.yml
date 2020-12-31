@@ -21,6 +21,9 @@ jobs:
 
     - run: npm run lint
 
+    # CI would take too long if we did the download every time too. So, we cache it. This does mean we're vulnerable to
+    # source changes exposing problems in our code, but those are pretty infrequent. If they occur, we need to bump the
+    # cache key.
     - uses: actions/cache@v2
       with:
         key: worm-ward-cache-2020-12-31
@@ -39,4 +42,5 @@ jobs:
         java-version: 15
         java-package: jre
     - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
-    - run: java -jar epubcheck.jar --help
+    - run: ls ~/.m2/repository/
+    - run: java -jar ~/.m2/repository/epubcheck.jar --help
