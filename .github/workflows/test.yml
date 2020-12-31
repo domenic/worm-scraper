@@ -7,8 +7,8 @@ on:
     branches:
     - master
 jobs:
-  build:
-    name: Build
+  test:
+    name: Test
     runs-on: ubuntu-20.04
     steps:
     - uses: actions/checkout@v2
@@ -32,15 +32,12 @@ jobs:
     - run: node ./lib/worm-scraper.js --book=worm
 
     - run: node ./lib/worm-scraper.js --book=ward
-  epubcheck:
-    name: EPUBCheck
-    needs: build
-    runs-on: ubuntu-20.04
-    steps:
+
     - uses: actions/setup-java@v1
       with:
         java-version: 15
         java-package: jre
+
     - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
-    - run: ls ~/.m2/repository/org/w3c/
-    - run: java -jar ~/.m2/repository/org/w3c/epubcheck.jar --help
+    - run: ls ~/.m2/repository/org/w3c/epubcheck/
+    - run: java -jar ~/.m2/repository/org/w3c/epubcheck/4.2.4.jar --help
