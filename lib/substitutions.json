@@ -926,16 +926,14 @@
       "after": "crash when the wave rolled"
     },
     {
-      "regExp": "\n ?<em>\\s*([^<]+)</em>(<br />|</p>)",
-      "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>"
+      "regExp": "</em><br />\n<em>\\s*",
+      "replacement": "</em></p>\n<p style=\"padding-left: 30px;\"><em>",
+      "_comment": "These are clearly paragraphs. Also the leading space is strange."
     },
     {
-      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<]+)</em>(<br />|</p>)",
-      "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>"
-    },
-    {
-      "regExp": "\n<p style=\"padding-left:30px;\"><em>([^<\n]+)<br />\n([^>\n]+)</em><br />\n",
-      "replacement": "\n<p style=\"padding-left:30px;\"><i>$1</i></p>\n<p style=\"padding-left:30px;\"><i>$2</i></p>\n"
+      "before": "<em>Word choice, ‘too’:  haunted by demons.<br />\nSwearing: antisocial.</em>",
+      "after": "<em>Word choice, ‘too’:  haunted by demons.</em></p>\n<p><em>Swearing: antisocial.</em>",
+      "_comment": "This one has the <em> surrounding the <br />, unlike the others."
     }
   ],
   "https://parahumans.wordpress.com/2012/03/10/extermination-8-3/": [
