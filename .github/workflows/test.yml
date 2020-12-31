@@ -38,6 +38,6 @@ jobs:
         java-version: 15
         java-package: jre
 
-    - run: curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip
-    - run: unzip epubcheck-4.2.4.zip
+    - run: curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip --output epubcheck.zip
+    - run: unzip epubcheck.zip
     - run: java -jar epubcheck-4.2.4/epubcheck.jar --help
