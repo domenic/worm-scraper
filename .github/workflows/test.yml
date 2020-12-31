@@ -38,6 +38,6 @@ jobs:
         java-version: 15
         java-package: jre
 
-    - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
-    - run: ls ~/.m2/repository/org/w3c/epubcheck/4.2.4/
-    - run: java -jar ~/.m2/repository/org/w3c/epubcheck/4.2.4/epubcheck-4.2.4.jar --help
+    - run: curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip
+    - run: unzip epubcheck-4.2.4.zip
+    - run: java -jar epubcheck-4.2.4/epubcheck.jar --help
