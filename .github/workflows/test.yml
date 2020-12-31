@@ -42,5 +42,5 @@ jobs:
         java-version: 15
         java-package: jre
     - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
-    - run: ls ~/.m2/repository/
-    - run: java -jar ~/.m2/repository/epubcheck.jar --help
+    - run: ls ~/.m2/repository/org/w3c/
+    - run: java -jar ~/.m2/repository/org/w3c/epubcheck.jar --help
