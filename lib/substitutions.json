@@ -7785,7 +7785,7 @@
     },
     {
       "before": "<em>you proved my sister</em> right?  <em>Tired,",
-      "after": "<em>you proved my sister </em>right</em>?  Tired,"
+      "after": "<em>you proved my sister </em>right<em>?  Tired,"
     },
     {
       "before": "boundary,” He whispered",
