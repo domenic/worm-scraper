@@ -39,5 +39,5 @@ jobs:
         java-package: jre
 
     - run: mvn dependency:get -Dartifact=org.w3c:epubcheck:4.2.4
-    - run: ls ~/.m2/repository/org/w3c/epubcheck/
-    - run: java -jar ~/.m2/repository/org/w3c/epubcheck/4.2.4.jar --help
+    - run: ls ~/.m2/repository/org/w3c/epubcheck/4.2.4/
+    - run: java -jar ~/.m2/repository/org/w3c/epubcheck/4.2.4/epubcheck-4.2.4.jar --help
