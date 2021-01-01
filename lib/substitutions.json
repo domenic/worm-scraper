@@ -4398,6 +4398,10 @@
     {
       "before": "minutes passed.  the chance rose",
       "after": "minutes passed.  The chance rose"
+    },
+    {
+      "before": "Collin",
+      "after": "Colin"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/12/teneral-e-4/": [
