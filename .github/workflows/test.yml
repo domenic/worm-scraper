@@ -44,7 +44,7 @@ jobs:
         unzip epubcheck.zip
 
     - name: Check Worm.epub
-      run: java -jar epubcheck-4.2.4/epubcheck.jar Worm.epub
+      run: java -jar epubcheck-4.2.4/epubcheck.jar --failonwarnings Worm.epub
 
     - name: Check Ward.epub
-      run: java -jar epubcheck-4.2.4/epubcheck.jar Ward.epub
+      run: java -jar epubcheck-4.2.4/epubcheck.jar --failonwarnings Ward.epub
