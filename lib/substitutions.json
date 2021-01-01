@@ -3696,6 +3696,10 @@
       "before": "Psychosomas were men,",
       "after": "Psychosomas were men:",
       "comment": "This is a strange sentence, but these changes make it flow better"
+    },
+    {
+      "before": "tall, bald and narrow",
+      "after": "tall, bald, and narrow"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/06/interlude-26a/": [
