@@ -862,6 +862,10 @@
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%C2%BD-bonus/": [
     {
+      "before": "Get Ready!",
+      "after": "Get ready!"
+    },
+    {
       "before": "‘boyfriend’; Not",
       "after": "‘boyfriend’; not"
     },
