@@ -8,7 +8,7 @@
     "parahuman",
     "scraper"
   ],
-  "version": "4.11.0",
+  "version": "4.12.0",
   "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
   "license": "WTFPL",
   "repository": "domenic/worm-scraper",
