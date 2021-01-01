@@ -2773,6 +2773,11 @@
     {
       "before": "stranger class",
       "after": "stranger-class"
+    },
+    {
+      "before": "real ly",
+      "after": "really",
+      "comment": "There's an empty em element in the middle of this word that gets converted to a space"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/05/monarch-18-6/": [
