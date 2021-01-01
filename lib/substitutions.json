@@ -1399,6 +1399,10 @@
     {
       "before": "of this</em> guy.",
       "after": "of this guy.</em>"
+    },
+    {
+      "before": "Kid Win, Flechette and Vista",
+      "after": "Kid Win, Flechette, and Vista"
     }
   ],
   "https://parahumans.wordpress.com/2012/04/14/sentinel-9-4/": [
