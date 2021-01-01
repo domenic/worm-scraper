@@ -38,6 +38,13 @@ jobs:
         java-version: 15
         java-package: jre
 
-    - run: curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip --output epubcheck.zip
-    - run: unzip epubcheck.zip
-    - run: java -jar epubcheck-4.2.4/epubcheck.jar --help
+    - name: Get EPUBCheck
+      run: |
+        curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip --location --output epubcheck.zip
+        unzip epubcheck.zip
+
+    - name: Check Worm.epub
+    - run: java -jar epubcheck-4.2.4/epubcheck.jar --help Worm.epub
+
+    - name: Check Ward.epub
+    - run: java -jar epubcheck-4.2.4/epubcheck.jar --help Ward.epub
