@@ -3691,6 +3691,11 @@
     {
       "before": "The Nyx were women",
       "after": "The Nyxes were women"
+    },
+    {
+      "before": "Psychosomas were men,",
+      "after": "Psychosomas were men:",
+      "comment": "This is a strange sentence, but these changes make it flow better"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/06/interlude-26a/": [
