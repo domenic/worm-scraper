@@ -3203,6 +3203,19 @@
     {
       "before": "to,” I said. “Is",
       "after": "to,” I said, “is"
+    },
+    {
+      "before": "are sorry your",
+      "after": "are <em>sorry</em> your",
+      "comment": "All the other 'sorry's are emphasized in this paragraph"
+    },
+    {
+      "before": "<em>sorry that</em>",
+      "after": "<em>sorry</em> that"
+    },
+    {
+      "before": "scott-free",
+      "after": "scot-free"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/25/imago-21-7/": [
