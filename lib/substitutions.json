@@ -4446,6 +4446,10 @@
     {
       "before": "boyfriends are my <em>ex-</em>boyfriends",
       "after": "boyfriends are my <em>ex</em>-boyfriends"
+    },
+    {
+      "before": "that ‘because I can’t isn’t an",
+      "after": "that ‘because I can’t’ isn’t an"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
