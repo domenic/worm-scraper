@@ -862,6 +862,10 @@
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%C2%BD-bonus/": [
     {
+      "before": "Get Ready!",
+      "after": "Get ready!"
+    },
+    {
       "before": "‘boyfriend’; Not",
       "after": "‘boyfriend’; not"
     },
@@ -1817,12 +1821,12 @@
     {
       "before": "see the Doctor",
       "after": "see the doctor",
-      "comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
+      "_comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
     },
     {
       "before": "the Doctor spoke",
       "after": "the doctor spoke",
-      "comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
+      "_comment": "Unlike the Cauldron Doctor, this is not used as a proper noun"
     },
     {
       "before": "asinine confession again, “It’s",
@@ -2131,6 +2135,10 @@
   ],
   "https://parahumans.wordpress.com/2012/07/26/interlude-12%C2%BD/": [
     {
+      "before": "implode, it has created a powerful vacuum in someone’s mouth, that",
+      "after": "implode, and it has created a powerful vacuum in someone’s mouth that"
+    },
+    {
       "before": "doesn’t,” Madcap said. “But",
       "after": "doesn’t,” Madcap said, “but"
     },
@@ -2419,12 +2427,20 @@
     {
       "before": "Once dad and the sibs realized",
       "after": "Once Dad and the sibs realized"
+    },
+    {
+      "before": "scott free",
+      "after": "scot-free"
     }
   ],
   "https://parahumans.wordpress.com/2012/11/24/monarch-16-1/": [
     {
       "before": "; Nobody",
       "after": "; nobody"
+    },
+    {
+      "before": "version on",
+      "after": "version of"
     },
     {
       "before": "is,” Tattletale said. “They’ve",
@@ -2753,6 +2769,11 @@
     {
       "before": "stranger class",
       "after": "stranger-class"
+    },
+    {
+      "before": "real ly",
+      "after": "really",
+      "comment": "There's an empty em element in the middle of this word that gets converted to a space"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/05/monarch-18-6/": [
@@ -3174,6 +3195,19 @@
     {
       "before": "to,” I said. “Is",
       "after": "to,” I said, “is"
+    },
+    {
+      "before": "are sorry your",
+      "after": "are <em>sorry</em> your",
+      "_comment": "All the other 'sorry's are emphasized in this paragraph"
+    },
+    {
+      "before": "<em>sorry that</em>",
+      "after": "<em>sorry</em> that"
+    },
+    {
+      "before": "scott-free",
+      "after": "scot-free"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/25/imago-21-7/": [
@@ -3184,6 +3218,10 @@
     {
       "before": "Ironic,” she mumbled. “Coming",
       "after": "Ironic,” she mumbled, “coming"
+    },
+    {
+      "before": "to looked around",
+      "after": "to look around"
     }
   ],
   "https://parahumans.wordpress.com/2013/04/27/interlude-21-donation-bonus-1/": [
@@ -3309,6 +3347,10 @@
     {
       "before": "their ears</p>",
       "after": "their ears.</p>"
+    },
+    {
+      "before": "it’s import",
+      "after": "its import"
     }
   ],
   "https://parahumans.wordpress.com/2013/05/25/drone-23-1/": [
@@ -3368,6 +3410,10 @@
     {
       "before": "it,” Imp said. “She’s",
       "after": "it,” Imp said, “she’s"
+    },
+    {
+      "before": "electorcuted",
+      "after": "electrocuted"
     }
   ],
   "https://parahumans.wordpress.com/2013/06/06/interlude-23/": [
@@ -3388,6 +3434,12 @@
     {
       "before": "And,” I said. “We",
       "after": "And,” I said, “we"
+    }
+  ],
+  "https://parahumans.wordpress.com/2013/06/11/crushed-24-2/": [
+    {
+      "before": "They destroying",
+      "after": "They were destroying"
     }
   ],
   "https://parahumans.wordpress.com/2013/06/15/crushed-24-3/": [
@@ -3467,6 +3519,10 @@
     {
       "before": "said.  Except without",
       "after": "said.  “Except without"
+    },
+    {
+      "before": "line, t had",
+      "after": "line, it had"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/06/scarab-25-3/": [
@@ -3615,6 +3671,27 @@
     {
       "before": "—<em>break up the fog!</em>",
       "after": "<em>—break up the fog!</em>"
+    },
+    {
+      "before": "The Nyx were women",
+      "after": "The Nyxes were women"
+    },
+    {
+      "before": "Psychosomas were men,",
+      "after": "Psychosomas were men:",
+      "_comment": "This is a strange sentence, but these changes make it flow better"
+    },
+    {
+      "before": "Night hags",
+      "after": "Night Hags"
+    },
+    {
+      "before": "Mannequin changed tacks",
+      "after": "Mannequin changed tack"
+    },
+    {
+      "before": "Rachel had changed tacks",
+      "after": "Rachel had changed tack"
     }
   ],
   "https://parahumans.wordpress.com/2013/08/06/interlude-26a/": [
@@ -4031,6 +4108,10 @@
     {
       "before": "coordinating two teams</em>.",
       "after": "coordinating two teams.</em>"
+    },
+    {
+      "before": "undecision",
+      "after": "indecision"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/22/speck-30-4/": [
@@ -4143,6 +4224,10 @@
     {
       "before": "I revoked my control over her, leaving in in the middle",
       "after": "I revoked my control over her, leaving her in the middle"
+    },
+    {
+      "before": "suffered for",
+      "after": "suffered from"
     }
   ],
   "https://parahumans.wordpress.com/2013/10/26/speck-30-6/": [
@@ -4289,6 +4374,14 @@
     {
       "before": "minutes passed.  the chance rose",
       "after": "minutes passed.  The chance rose"
+    },
+    {
+      "before": "Collin",
+      "after": "Colin"
+    },
+    {
+      "before": "systems teacher had",
+      "after": "systems Teacher had"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/12/teneral-e-4/": [
@@ -4329,6 +4422,10 @@
     {
       "before": "boyfriends are my <em>ex-</em>boyfriends",
       "after": "boyfriends are my <em>ex</em>-boyfriends"
+    },
+    {
+      "before": "that ‘because I can’t isn’t an",
+      "after": "that ‘because I can’t’ isn’t an"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
