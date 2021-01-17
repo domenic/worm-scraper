@@ -5061,7 +5061,7 @@
   ],
   "https://www.parahumans.net/2018/05/26/torch-7-4/": [
     {
-      "before": "<p style=\"text-align: center;\"><a href=\"https://www.parahumans.net/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
+      "before": "<p style=\"text-align: center;\"><a href=\"/2018/05/26/eclipse-x-1/\"><strong>⊙</strong></a></p>",
       "after": "",
       "_comment": "This appears to be intentional, but it just duplicates the Next Chapter link (i.e. turning the page in the eBook), so we remove it"
     },
@@ -6674,7 +6674,7 @@
       "after": "morning breath—more than morning breath—but there"
     },
     {
-      "before": "<p><strong><a href=\"https://www.parahumans.net/2019/03/26/heavens-12-none/\">Previous Chapter</a>                                                                                    <a href=\"https://www.parahumans.net/2019/04/02/black-13-1/\">Next Chapter</a></strong></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>",
+      "before": "<p><strong><a href=\"/2019/03/26/heavens-12-none/\">Previous Chapter</a>                                                                                    <a href=\"/2019/04/02/black-13-1/\">Next Chapter</a></strong></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>",
       "after": "<div style=\"page-break-after: always;\">&#160;</div>\n<div style=\"page-break-after: always;\">&#160;</div>",
       "_comment": "This is the best way I can think of to emulate the end of chapter 'fake out' in an ebook format"
     },
@@ -6701,7 +6701,7 @@
   ],
   "https://www.parahumans.net/2019/04/02/black-13-1/": [
     {
-      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><strong><a href=\"https://www.parahumans.net/2019/03/29/heavens-12-x/\">Previous Chapter</a>                                                                                    <a href=\"https://www.parahumans.net/2019/04/05/black-13-2/\">Next Chapter</a></strong></p>\n",
+      "before": "<p style=\"text-align: center;\">⊙</p>\n<p><strong><a href=\"/2019/03/29/heavens-12-x/\">Previous Chapter</a>                                                                                    <a href=\"/2019/04/05/black-13-2/\">Next Chapter</a></strong></p>\n",
       "after": "",
       "_comment": "Our usual heuristics of removing the first paragraph to remove the previous/next chapter links are broken here because of the 'go back and look at the fake out' comment at the top"
     },
