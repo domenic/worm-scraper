@@ -23,12 +23,12 @@
     "lint": "eslint lib"
   },
   "dependencies": {
-    "archiver": "^5.1.0",
-    "cli-progress": "^3.8.2",
+    "archiver": "^5.2.0",
+    "cli-progress": "^3.9.0",
     "cpr": "^3.0.1",
     "jsdom": "^16.4.0",
     "requisition": "^1.5.0",
-    "workerpool": "^6.0.3",
+    "workerpool": "^6.1.0",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
