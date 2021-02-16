@@ -32,7 +32,8 @@
     "yargs": "^16.2.0"
   },
   "devDependencies": {
-    "eslint": "^7.16.0"
+    "eslint": "^7.20.0",
+    "@domenic/eslint-config": "^1.0.0"
   },
   "engines": {
     "node": ">=12.10.0"
