@@ -27,13 +27,13 @@
     "cli-progress": "^3.10.0",
     "cpr": "^3.0.1",
     "jsdom": "^19.0.0",
-    "requisition": "^1.5.0",
+    "minipass-fetch": "^1.4.1",
     "workerpool": "^6.2.0",
     "yargs": "^17.3.1"
   },
   "devDependencies": {
-    "eslint": "^8.7.0",
-    "@domenic/eslint-config": "^2.0.0"
+    "@domenic/eslint-config": "^2.0.0",
+    "eslint": "^8.7.0"
   },
   "engines": {
     "node": ">=16.13.2"
