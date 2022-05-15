@@ -16,6 +16,11 @@
       "after": "each others’ houses"
     },
     {
+      "before:" "My house is old,",
+      "after": "My house was old,",
+      "_comment:" "The tense doesn't match the rest of the text."
+    },
+    {
       "before": "x-acto",
       "after": "X-Acto"
     }
@@ -100,6 +105,10 @@
     {
       "before": "I felt painfully conspicuous",
       "after": "I felt painfully conspicuous."
+    },
+    {
+      "before": "Justin Beiber",
+      "after": "Justin Bieber"
     },
     {
       "before": "Lisa said. “Entire",
@@ -861,6 +870,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/03/08/interlude-7%C2%BD-bonus/": [
+    {
+      "before": "she been blossoming",
+      "after": "she had been blossoming"
+    },
     {
       "before": "Get Ready!",
       "after": "Get ready!"
@@ -1809,6 +1822,10 @@
       "after": "Charlotte,” I frowned, “look"
     },
     {
+      "before": "non-sequitor",
+      "after": "non-sequitur"
+    },
+    {
       "before": "Did they… was he",
       "after": "Did they… Was he"
     },
@@ -2177,6 +2194,11 @@
     {
       "before": "Grue,” Trickster said. “Get",
       "after": "Grue,” Trickster said, “get"
+    },
+    {
+      "before": "Nothing she can’t do outside the bubble",
+      "after": "Nothing she can do outside the bubble",
+      "_comment": "This doesn't make sense logically with 'can’t'."
     }
   ],
   "https://parahumans.wordpress.com/2012/08/18/snare-13-7/": [
@@ -2309,6 +2331,11 @@
   ],
   "https://parahumans.wordpress.com/2012/10/20/colony-15-2/": [
     {
+      "before": "turned something",
+      "after": "taken something",
+      "_comment": "'turned' is repeated later in the sentence."
+    },
+    {
       "before": "on,” Tattletale said. “Let’s",
       "after": "on,” Tattletale said, “let’s"
     },
@@ -2318,6 +2345,11 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/10/23/colony-15-3/": [
+    {
+      "before": "whether or not I agreed or not",
+      "after": "whether I agreed or not",
+      "_comment": "Alternatively, the second 'or not' could be deleted instead of the first."
+    },
     {
       "before": "Woah,” Regent said. “Relax",
       "after": "Woah,” Regent said, “relax"
@@ -2329,6 +2361,11 @@
     {
       "before": "the street</p>",
       "after": "the street.</p>"
+    },
+    {
+      "before": "dishonest members",
+      "after": "dishonest member",
+      "_comment": "He's talking only about Skitter here."
     }
   ],
   "https://parahumans.wordpress.com/2012/10/27/colony-15-4/": [
@@ -2485,6 +2522,11 @@
     {
       "before": "decisions:  Holding back",
       "after": "decisions: holding back"
+    },
+    {
+      "before": "their positioning, they had planned this",
+      "after": "their positioning… they had planned this",
+      "_comment": "A comma seems like the wrong choice here."
     }
   ],
   "https://parahumans.wordpress.com/2012/12/22/monarch-16-9/": [
@@ -2593,6 +2635,11 @@
     {
       "before": "GWER-.</p>",
       "after": "GWER—.</p>"
+    },
+    {
+      "before": "the Birdcage",
+      "after": "the birdcage",
+      "_comment": "A literal birdcage, not the parahuman prison."
     }
   ],
   "https://parahumans.wordpress.com/2013/01/12/migration-17-5/": [
@@ -2753,15 +2800,27 @@
       "after": "Well,” Tattletale said, “funny"
     },
     {
+      "before": "Uber",
+      "after": "Über"
+    },
+    {
       "before": "stranger class",
       "after": "stranger-class"
     }
   ],
   "https://parahumans.wordpress.com/2013/02/05/monarch-18-6/": [
     {
+      "before": "he encouragement",
+      "after": "the encouragement"
+    },
+    {
       "before": "‘okay’",
       "after": "‘OK’",
       "_comment": "This is a note written with bugs and thus probably uses two letters instead of four"
+    },
+    {
+      "before": "Uber",
+      "after": "Über"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/31/interlude-18-donation-bonus-2/": [
@@ -3032,6 +3091,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/03/23/chrysalis-20-2/": [
+    {
+      "before": "something together something",
+      "after": "something together"
+    },
     {
       "before": "of anxiety</em>.",
       "after": "of anxiety.</em>"
@@ -3306,6 +3369,10 @@
   ],
   "https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/": [
     {
+      "before": "Sumimasen deshita",
+      "after": "<i>Sumimasen deshita</i>"
+    },
+    {
       "before": "“is it reassuring",
       "after": "“Is it reassuring"
     },
@@ -3338,6 +3405,11 @@
       "after": "of the ship.’  It’s"
     },
     {
+      "before": "supervillain-turned hero",
+      "after": "supervillain-turned-hero",
+      "_comment": "Alternatively: 'supervillain turned hero'."
+    },
+    {
       "before": "Las Vegas Rogue",
       "after": "Las Vegas rogue"
     },
@@ -3360,6 +3432,10 @@
   ],
   "https://parahumans.wordpress.com/2013/05/30/drone-23-3/": [
     {
+      "before": "nerf",
+      "after": "Nerf"
+    },
+    {
       "before": "Nine,” Glenn said. “I",
       "after": "Nine,” Glenn said, “I"
     },
@@ -3370,6 +3446,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/06/01/drone-23-4/": [
+    {
+      "before": "FIrst",
+      "after": "First"
+    },
     {
       "before": "said.  Someone",
       "after": "said.  “Someone"
@@ -3386,6 +3466,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/06/06/interlude-23/": [
+    {
+      "before": "one—or two-word",
+      "after": "one- or two-word"
+    },
     {
       "before": "her mouth:  A click",
       "after": "her mouth: a click"
@@ -3486,6 +3570,15 @@
   ],
   "https://parahumans.wordpress.com/2013/07/02/scarab-25-2/": [
     {
+      "before": "Enough or three",
+      "after": "Enough for three"
+    },
+    {
+      "before": "—3",
+      "after": "-3",
+      "_comment": "This is a computer display and thus probably uses a regular hyphen for the minus sign."
+    },
+    {
       "before": "said.  Except without",
       "after": "said.  “Except without"
     },
@@ -3560,6 +3653,11 @@
     {
       "before": "<span style=\"text-decoration:underline;\"><strong>Lord</strong></span><span style=\"text-decoration:underline;\"> <strong>Walston</strong></span>",
       "after": "<span style=\"text-decoration:underline;\"><strong>Lord Walston</strong></span>"
+    },
+    {
+      "before": "—16",
+      "after": "-16",
+      "_comment": "This is a computer display and thus probably uses a regular hyphen for the minus sign."
     }
   ],
   "https://parahumans.wordpress.com/2013/07/18/sting-26-1/": [
@@ -3577,6 +3675,11 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/07/20/sting-26-2/": [
+    {
+      "before": "It didn’t hurt that",
+      "after": "It didn’t help that",
+      "_comment": "This makes more sense with 'help'"
+    },
     {
       "before": "And gauntlet</em>, to reply to the last one",
       "after": "And gauntlet, to reply to the last one</em>"
@@ -3789,6 +3892,10 @@
   ],
   "https://parahumans.wordpress.com/2013/08/31/cockroaches-28-1/": [
     {
+      "before": "“No, I said.",
+      "after": "“No,” I said."
+    },
+    {
       "before": "could save issue",
       "after": "could say issue"
     },
@@ -3855,6 +3962,10 @@
     {
       "before": "I’m <em>not?  Fuck</em>.  There’s",
       "after": "I’m <em>not</em>?  <em>Fuck.</em>  There’s"
+    },
+    {
+      "before": "‘I <em>don’t know</em>,”",
+      "after": "“I <em>don’t know</em>,”"
     },
     {
       "before": "I suspect It’s a",
@@ -4382,7 +4493,7 @@
     },
     {
       "before": "that ‘because I can’t isn’t an",
-      "after": "that ‘because I can’t’ isn’t an"
+      "after": "that ‘because I can’ isn’t an"
     }
   ],
   "https://parahumans.wordpress.com/2013/11/19/interlude-end/": [
