@@ -1,12 +1,12 @@
 {
   "name": "worm-scraper",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "worm-scraper",
-      "version": "5.0.0",
+      "version": "5.1.0",
       "license": "WTFPL",
       "dependencies": {
         "archiver": "^5.3.1",
