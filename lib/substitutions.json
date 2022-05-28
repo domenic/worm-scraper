@@ -16,11 +16,6 @@
       "after": "each others’ houses"
     },
     {
-      "before:" "My house is old,",
-      "after": "My house was old,",
-      "_comment:" "The tense doesn't match the rest of the text."
-    },
-    {
       "before": "x-acto",
       "after": "X-Acto"
     }
@@ -2525,7 +2520,7 @@
     },
     {
       "before": "their positioning, they had planned this",
-      "after": "their positioning… they had planned this",
+      "after": "their positioning… They had planned this",
       "_comment": "A comma seems like the wrong choice here."
     }
   ],
@@ -2800,10 +2795,6 @@
       "after": "Well,” Tattletale said, “funny"
     },
     {
-      "before": "Uber",
-      "after": "Über"
-    },
-    {
       "before": "stranger class",
       "after": "stranger-class"
     }
@@ -2817,10 +2808,6 @@
       "before": "‘okay’",
       "after": "‘OK’",
       "_comment": "This is a note written with bugs and thus probably uses two letters instead of four"
-    },
-    {
-      "before": "Uber",
-      "after": "Über"
     }
   ],
   "https://parahumans.wordpress.com/2013/01/31/interlude-18-donation-bonus-2/": [
@@ -3370,7 +3357,7 @@
   "https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/": [
     {
       "before": "Sumimasen deshita",
-      "after": "<i>Sumimasen deshita</i>"
+      "after": "<i lang=\"ja-JP\">Sumimasen deshita</i>"
     },
     {
       "before": "“is it reassuring",
@@ -3406,8 +3393,7 @@
     },
     {
       "before": "supervillain-turned hero",
-      "after": "supervillain-turned-hero",
-      "_comment": "Alternatively: 'supervillain turned hero'."
+      "after": "supervillain-turned-hero"
     },
     {
       "before": "Las Vegas Rogue",
