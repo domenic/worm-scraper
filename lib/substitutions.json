@@ -1004,6 +1004,10 @@
   ],
   "https://parahumans.wordpress.com/2012/03/13/extermination-8-4/": [
     {
+      "before": "it woul be",
+      "after": "it would be"
+    },
+    {
       "before": "petered out<em>, h</em>e",
       "after": "petered out, he"
     },
@@ -1061,6 +1065,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2012/03/17/extermination-8-5/": [
+    {
+      "before": "remanied latched on",
+      "after": "remained latched on"
+    },
     {
       "before": "past tense-, or",
       "after": "past tense—or"
@@ -2302,6 +2310,12 @@
       "after": "belt: he"
     }
   ],
+  "https://parahumans.wordpress.com/2012/10/11/interlude-14/": [
+    {
+      "before": "hard about it",
+      "after": "heard about it"
+    }
+  ],
   "https://parahumans.wordpress.com/2012/10/13/interlude-14-5-bonus-interlude/": [
     {
       "before": "d<em>oes he",
@@ -2643,6 +2657,10 @@
   ],
   "https://parahumans.wordpress.com/2013/01/12/migration-17-5/": [
     {
+      "before": "Villians",
+      "after": "Villains"
+    },
+    {
       "before": "been replying",
       "after": "been replaying"
     },
@@ -2724,6 +2742,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/01/15/migration-17-8/": [
+    {
+      "before": "saying for ten days",
+      "after": "staying for ten days"
+    },
     {
       "before": "replied.  <i>Need to talk about being more secure with our names.  “</i>What’s going on?”",
       "after": "replied.  <em>Need to talk about being more secure with our names.</em>  “What’s going on?”"
@@ -3381,6 +3403,10 @@
     }
   ],
   "https://parahumans.wordpress.com/2013/05/25/drone-23-1/": [
+    {
+      "before": "abilites",
+      "after": "abilities"
+    },
     {
       "before": "Defiant spoke, “Let’s",
       "after": "Defiant spoke. “Let’s"
