@@ -35,7 +35,7 @@ jobs:
 
     - uses: actions/setup-java@v4
       with:
-        distribution: oracle
+        distribution: zulu
         java-version: 21
         java-package: jre
 
