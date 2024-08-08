@@ -2,20 +2,20 @@ name: Test
 on:
   pull_request:
     branches:
-    - master
+    - main
   push:
     branches:
-    - master
+    - main
 jobs:
   test:
     name: Test
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
-    - uses: actions/setup-node@v2
+    - uses: actions/setup-node@v4
       with:
-        node-version: 16
+        node-version: 20
 
     - run: npm install
 
@@ -24,7 +24,7 @@ jobs:
     # CI would take too long if we did the download every time too. So, we cache it. This does mean we're vulnerable to
     # source changes exposing problems in our code, but those are pretty infrequent. If they occur, we need to bump the
     # cache key.
-    - uses: actions/cache@v2
+    - uses: actions/cache@v4
       with:
         key: worm-ward-cache-2021-01-17
         path: ./cache
@@ -33,18 +33,19 @@ jobs:
 
     - run: node ./lib/worm-scraper.js --book=ward
 
-    - uses: actions/setup-java@v1
+    - uses: actions/setup-java@v4
       with:
-        java-version: 15
+        distribution: zulu
+        java-version: 21
         java-package: jre
 
     - name: Get EPUBCheck
       run: |
-        curl https://github.com/w3c/epubcheck/releases/download/v4.2.4/epubcheck-4.2.4.zip --location --output epubcheck.zip
+        curl https://github.com/w3c/epubcheck/releases/download/v5.1.0/epubcheck-5.1.0.zip --location --output epubcheck.zip
         unzip epubcheck.zip
 
     - name: Check Worm.epub
-      run: java -jar epubcheck-4.2.4/epubcheck.jar --failonwarnings Worm.epub
+      run: java -jar epubcheck-5.1.0/epubcheck.jar --failonwarnings Worm.epub
 
     - name: Check Ward.epub
-      run: java -jar epubcheck-4.2.4/epubcheck.jar --failonwarnings Ward.epub
+      run: java -jar epubcheck-5.1.0/epubcheck.jar --failonwarnings Ward.epub
