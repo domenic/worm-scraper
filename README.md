@@ -1,6 +1,6 @@
 # _Worm_ Scraper
 
-Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/) and its sequel [_Ward_](https://www.parahumans.net/) into an ebook format.
+Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/), its sequel [_Ward_](https://www.parahumans.net/), and the bridge series [_Glow-worm_](https://www.parahumans.net/2017/10/21/glow-worm-0-1/) into an ebook format.
 
 ## How to use
 
@@ -30,6 +30,12 @@ If you'd like to get _Ward_ instead of _Worm_, use `--book=ward`, e.g.
 
 ```bash
 worm-scraper --book=ward
+```
+
+Similarly, for _Glow-worm_:
+
+```bash
+worm-scraper --book=glow-worm
 ```
 
 ## Reading EPUBs on Amazon Kindle
