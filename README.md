@@ -32,11 +32,9 @@ If you'd like to get _Ward_ instead of _Worm_, use `--book=ward`, e.g.
 worm-scraper --book=ward
 ```
 
-## EPUB vs. other formats
+## Reading EPUBs on Amazon Kindle
 
-EPUB is one of the primary ebook formats, but it is not recognized by all readers, including most Amazon Kindle devices. You can use an online converter or other tool to convert EPUB to Kindle MOBI, or any other format.
-
-Alternately, if you are a developer, a pull request adding support for MOBI output would be appreciated; please open an issue to discuss how you plan to proceed.
+EPUBs are not the native format for Amazon Kindle devices and apps. However, you can send them to your Kindle library by following [Amazon's instructions](https://www.amazon.com/gp/help/customer/display.html?nodeId=G5WYD9SAF7PGXRNA).
 
 ## Text fixups
 
