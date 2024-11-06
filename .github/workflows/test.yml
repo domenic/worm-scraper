@@ -31,6 +31,8 @@ jobs:
 
     - run: node ./lib/worm-scraper.js --book=worm
 
+    - run: node ./lib/worm-scraper.js --book=glow-worm
+
     - run: node ./lib/worm-scraper.js --book=ward
 
     - uses: actions/setup-java@v4
@@ -46,6 +48,9 @@ jobs:
 
     - name: Check Worm.epub
       run: java -jar epubcheck-5.1.0/epubcheck.jar --failonwarnings Worm.epub
+
+    - name: Check Glow-worm.epub
+      run: java -jar epubcheck-5.1.0/epubcheck.jar --failonwarnings Glow-worm.epub
 
     - name: Check Ward.epub
       run: java -jar epubcheck-5.1.0/epubcheck.jar --failonwarnings Ward.epub
