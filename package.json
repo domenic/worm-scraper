@@ -1,6 +1,6 @@
 {
   "name": "worm-scraper",
-  "description": "Scrapes the web serial Worm and its sequel Ward into an eBook format",
+  "description": "Scrapes the web serial Worm and its sequel Ward into an ebook format",
   "keywords": [
     "ebook",
     "worm",
