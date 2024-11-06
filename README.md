@@ -1,6 +1,6 @@
 # _Worm_ Scraper
 
-Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/) and its sequel [_Ward_](https://www.parahumans.net/) into an eBook format.
+Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/) and its sequel [_Ward_](https://www.parahumans.net/) into an ebook format.
 
 ## How to use
 
@@ -18,7 +18,7 @@ This will take a while as it downloads this program and its dependencies from th
 worm-scraper --help
 ```
 
-If this outputs some help documentation, then the installation process went smoothly. You can move on to assemble the eBook by typing
+If this outputs some help documentation, then the installation process went smoothly. You can move on to assemble the ebook by typing
 
 ```bash
 worm-scraper
@@ -34,7 +34,7 @@ worm-scraper --book=ward
 
 ## EPUB vs. other formats
 
-EPUB is one of the primary eBook formats, but it is not recognized by all readers, including most Amazon Kindle devices. You can use an online converter or other tool to convert EPUB to Kindle MOBI, or any other format.
+EPUB is one of the primary ebook formats, but it is not recognized by all readers, including most Amazon Kindle devices. You can use an online converter or other tool to convert EPUB to Kindle MOBI, or any other format.
 
 Alternately, if you are a developer, a pull request adding support for MOBI output would be appreciated; please open an issue to discuss how you plan to proceed.
 
@@ -42,4 +42,4 @@ Alternately, if you are a developer, a pull request adding support for MOBI outp
 
 This project makes a lot of fixups to the original text, mostly around typos, punctuation, capitalization, and consistency. You can get a more specific idea of what these are via the code; there's [`convert-worker.js`](https://github.com/domenic/worm-scraper/blob/master/lib/convert-worker.js), where some things are handled generally, and [`substitutions.json`](https://github.com/domenic/worm-scraper/blob/master/lib/substitutions.json), for one-off fixes.
 
-This process is designed to be extensible, so if you notice any problems with the original text that you think should be fixed, file an issue to let me know, and we can update the fixup code so that the resulting eBook is improved. (Or better yet, send a pull request!)
+This process is designed to be extensible, so if you notice any problems with the original text that you think should be fixed, file an issue to let me know, and we can update the fixup code so that the resulting ebook is improved. (Or better yet, send a pull request!)
