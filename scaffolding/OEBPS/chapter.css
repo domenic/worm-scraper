@@ -1,0 +1,18 @@
+:root.arc-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+:root.arc-title h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+:root.arc-title .arc-label {
+  display: block;
+  font-size: 0.6em;
+  font-weight: normal;
+}
