@@ -1,18 +1,21 @@
-:root.arc-title {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  text-align: center;
-}
-
 :root.arc-title h1 {
   font-size: 2.5em;
   margin: 0;
+  text-align: center;
+
+  /* Flexbox support seems spotty on e-readers, so we hack it. */
+  position: absolute;
+  top: 50%;
+  margin-top: -2.5em;
+  width: 100vw;
 }
 
 :root.arc-title .arc-label {
   display: block;
   font-size: 0.6em;
   font-weight: normal;
+}
+
+:root.chapter h1 {
+  text-align: center;
 }
