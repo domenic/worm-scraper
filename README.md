@@ -38,7 +38,11 @@ Similarly, for _Glow-worm_:
 worm-scraper --book=glow-worm
 ```
 
-## Configuring chapter titles
+## Reading EPUBs on Amazon Kindle
+
+EPUBs are not the native format for Amazon Kindle devices and apps. However, you can send them to your Kindle library by following [Amazon's instructions](https://www.amazon.com/gp/help/customer/display.html?nodeId=G5WYD9SAF7PGXRNA).
+
+## Chapter titles
 
 The original chapter titles, i.e. the ones that appear as heading at the top of each chapter published online, are not very book-like. They vary wildly, e.g. "Gestation 1.1", "Daybreak – 1.2", "Interlude 1", "Flare – Interlude 2", "Interlude 10.y", "Interlude 10.5 (Bonus)", "Interlude 14.5 (Bonus Interlude)".
 
@@ -50,15 +54,17 @@ If you want the original chapter titles, you can pass the following option:
 worm-scraper --chapter-titles=original
 ```
 
-There's a third option, which is to have the interludes (and _Ward_'s epilogues) include character names. Samples of this format include "Interlude: Danny" or "Interlude: Armsmaster". _This can be a slight spoiler_, because the reading experience of many interludes relies on you gradually discovering who the main character is and how they relate to what you've seen before. It can also spoil you on which characters survive, if you look ahead in the table of contents.
+There's a third option, which is to have the interludes (and _Ward_'s epilogues) include character names. Samples of this format include "Interlude: Danny" or "Interlude: Armsmaster". Use
+
+```bash
+worm-scraper --chapter-titles=character-names
+```
+
+for this. _This can be a slight spoiler_, because the reading experience of many interludes relies on you gradually discovering who the main character is and how they relate to what you've seen before. It can also spoil you on which characters survive, if you look ahead in the table of contents.
 
 This style is _sort of_ aligned with how the interludes are presented in the table of contents [for _Worm_](https://parahumans.wordpress.com/table-of-contents/) and [for _Ward_](https://www.parahumans.net/table-of-contents/). But even those are inconsistent, and `worm-scraper` departs from the table of contents names in several cases. `worm-scraper` generally tries to pick the name name by which the character is first referred to in the chapter, to minimize the spoiler effect, but sometimes takes influence from the original tables of contents, or the names chosen by [the Fandom wiki](https://worm.fandom.com/wiki/Chapter_List).
 
-You can see all the chosen character-name titles in the [`chapter-data/`](./chapter-data/) directory's files. (But, beware of spoilers.) If you strongly disagree with a choice made, please file an issue.
-
-## Reading EPUBs on Amazon Kindle
-
-EPUBs are not the native format for Amazon Kindle devices and apps. However, you can send them to your Kindle library by following [Amazon's instructions](https://www.amazon.com/gp/help/customer/display.html?nodeId=G5WYD9SAF7PGXRNA).
+You can see all the chosen character-name titles in the [`chapter-data/`](./chapter-data/) directory's files. If you strongly disagree with a choice made, please file an issue.
 
 ## Text fixups
 
