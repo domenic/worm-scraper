@@ -17,6 +17,7 @@
   },
   "bin": "lib/worm-scraper.js",
   "files": [
+    "chapter-data/",
     "covers/",
     "lib/",
     "scaffolding/",
