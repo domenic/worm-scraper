@@ -26,7 +26,7 @@ jobs:
     # cache key.
     - uses: actions/cache@v4
       with:
-        key: worm-ward-cache-2024-11-06
+        key: worm-scraper-cache-2025-01-02
         path: ./cache
 
     - run: node ./lib/worm-scraper.js --book=worm
