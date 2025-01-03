@@ -3597,6 +3597,10 @@
     {
       "before": "line, t had",
       "after": "line, it had"
+    },
+    {
+      "before": "between each attack.<br />\nThese coming days and weeks",
+      "after": "between each attack.</p>\n<p>These coming days and weeks"
     }
   ],
   "https://parahumans.wordpress.com/2013/07/06/scarab-25-3/": [
@@ -4626,6 +4630,18 @@
     {
       "before": "<strong>Glitzglam *New Message*: I</strong>",
       "after": "<strong>Glitzglam *New Message*:</strong> I"
+    },
+    {
+      "before": "<p><strong>Glitzglam *New Message*:</strong> i can field them<br />",
+      "after": "<p style=\"padding-left: 60px;\"><strong>Glitzglam *New Message*:</strong> i can field them<br />"
+    },
+    {
+      "before": "<p>Point_Me_@_The_Sky: S’okay.<br />",
+      "after": "<p style=\"padding-left: 60px;\"><strong>Point_Me_@_The_Sky:</strong> S’okay.<br />"
+    },
+    {
+      "before": "<b><strong>Glitzglam *New Message*:</strong> </b>",
+      "after": "<strong>Glitzglam *New Message*:</strong> "
     },
     {
       "before": "day to day life",
