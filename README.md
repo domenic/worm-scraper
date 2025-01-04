@@ -64,7 +64,7 @@ for this. _This can be a slight spoiler_, because the reading experience of many
 
 This style is _sort of_ aligned with how the interludes are presented in the table of contents [for _Worm_](https://parahumans.wordpress.com/table-of-contents/) and [for _Ward_](https://www.parahumans.net/table-of-contents/). But even those are inconsistent, and `worm-scraper` departs from the table of contents names in several cases. `worm-scraper` generally tries to pick the name name by which the character is first referred to in the chapter, to minimize the spoiler effect, but sometimes takes influence from the original tables of contents, or the names chosen by [the Fandom wiki](https://worm.fandom.com/wiki/Chapter_List).
 
-You can see all the chosen character-name titles in the [`chapter-data/`](./chapter-data/) directory's files. If you strongly disagree with a choice made, please file an issue.
+You can see all the chosen character-name titles in the [`book-data/`](./book-data/) directory's files. If you strongly disagree with a choice made, please file an issue.
 
 ## Text fixups
 
