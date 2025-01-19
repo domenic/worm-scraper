@@ -3602,8 +3602,11 @@
   - listening, lost in tinkering—</p>
   + listening, lost in tinkering—”</p>
 
-  - <p>:Transmit<strong><br />\nI’ve got
-  + <p style="padding-left: 30px;">:Transmit<strong><br />I’ve got
+  - <strong>:</strong>Transmit<br />
+  + :Transmit<br />
+
+  - <p>:Transmit<br />\n<strong>I’ve got
+  + <p style="padding-left: 30px;">:Transmit<br />\n<strong>I’ve got
 
 
 @ https://www.parahumans.net/2020/04/28/last-20-e6/
