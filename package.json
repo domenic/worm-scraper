@@ -21,6 +21,7 @@
     "covers/",
     "lib/",
     "scaffolding/",
+    "substitutions/",
     "npm-shrinkwrap.json"
   ],
   "scripts": {
