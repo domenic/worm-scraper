@@ -7,14 +7,16 @@ on:
     branches:
     - main
 jobs:
-  test:
-    name: Test
+  derive-minimum:
+    name: Derive minimum Node version
     runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.calc.outputs.version }}
     steps:
     - uses: actions/checkout@v4
 
     - name: Derive lowest Node that matches package.json
-      id: min
+      id: calc
       run: |
         npm install --no-save semver
         MIN=$(node - <<'JS'
@@ -28,9 +30,21 @@ jobs:
         )
         echo "version=$MIN" >>"$GITHUB_OUTPUT"
 
+  test-min:
+    needs: derive-minimum
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node_version:
+          - ${{ needs.derive-minimum.outputs.version }}
+          - 'latest'
+    name: Test on Node ${{ matrix.node_version }}
+    steps:
+    - uses: actions/checkout@v4
+
     - uses: actions/setup-node@v4
       with:
-        node-version: ${{ steps.min.outputs.version }}
+        node-version: ${{ matrix.node_version }}
 
     - run: npm install
 
