@@ -30,7 +30,7 @@ jobs:
         )
         echo "version=$MIN" >>"$GITHUB_OUTPUT"
 
-  test-min:
+  test:
     needs: derive-minimum
     runs-on: ubuntu-latest
     strategy:
@@ -47,7 +47,7 @@ jobs:
       with:
         node-version: ${{ matrix.node_version }}
 
-    - run: npm install
+    - run: npm ci
 
     - run: npm run lint
 
