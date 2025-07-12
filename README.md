@@ -4,7 +4,7 @@ Scrapes the web serial [_Worm_](https://parahumans.wordpress.com/), its sequel [
 
 ## How to use
 
-First you'll need a modern version of [Node.js](https://nodejs.org/en/). The earliest version tested is v20.16.0.
+First you'll need a modern version of [Node.js](https://nodejs.org/en/). The earliest version tested is listed in [`package.json`](./package.json), although installing the latest or latest LTS version is always a good idea.
 
 Then, open a terminal ([Mac documentation](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line), [Windows documentation](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)) and install the program by typing
 
