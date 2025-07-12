@@ -16,13 +16,11 @@ jobs:
     - name: Derive lowest Node that matches package.json
       id: min
       run: |
-        RANGE=$(jq -r '.engines.node' package.json)
-
         npm install --no-save semver
         MIN=$(node - <<'JS'
           'use strict';
           const semver = require('semver');
-          const range  = process.env.RANGE;
+          const range  = require('./package.json').engines.node;
           const v = semver.minVersion(range);
           if (!v) { throw new Error(`Cannot resolve minimum for "${range}"`); }
           console.log(v.version);
