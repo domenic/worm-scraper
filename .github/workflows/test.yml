@@ -13,9 +13,26 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Derive lowest Node that matches package.json
+      id: min
+      run: |
+        RANGE=$(jq -r '.engines.node' package.json)
+
+        npm install --no-save semver
+        MIN=$(node - <<'JS'
+          'use strict';
+          const semver = require('semver');
+          const range  = process.env.RANGE;
+          const v = semver.minVersion(range);
+          if (!v) { throw new Error(`Cannot resolve minimum for "${range}"`); }
+          console.log(v.version);
+        JS
+        )
+        echo "version=$MIN" >>"$GITHUB_OUTPUT"
+
     - uses: actions/setup-node@v4
       with:
-        node-version-file: 'package.json'
+        node-version: ${{ steps.min.outputs.version }}
 
     - run: npm install
 
