@@ -5,11 +5,9 @@ module.exports = {
   groupPosition: 3,
 
   // Synposis from https://www.parahumans.net/
-  /* eslint-disable max-len */
   description: `The unwritten rules that govern the fights and outright wars between ‘capes’ have been amended: everyone gets their second chance. It’s an uneasy thing to come to terms with when notorious supervillains and even monsters are playing at being hero. The world ended two years ago, and as humanity straddles the old world and the new, there aren’t records, witnesses, or facilities to answer the villains’ past actions in the present. One of many compromises, uneasy truces and deceptions that are starting to splinter as humanity rebuilds.
 
 None feel the injustice of this new status quo or the lack of established footing more than the past residents of the parahuman asylums. The facilities hosted parahumans and their victims, but the facilities are ruined or gone; one of many fragile ex-patients is left to find a place in a fractured world. She’s perhaps the person least suited to have anything to do with this tenuous peace or to stand alongside these false heroes. She’s put in a position to make the decision: will she compromise to help forge what they call, with dark sentiment, a second golden age? Or will she stand tall as a gilded dark age dawns?`,
-  /* eslint-enable max-len */
 
   arcs: [
     {

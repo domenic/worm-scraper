@@ -6,7 +6,6 @@ module.exports = {
   groupPosition: 2,
 
   // From https://www.parahumans.net/table-of-contents/
-  // eslint-disable-next-line max-len
   description: `The Glow-worm chapters were a teaser event leading up to Worm 2. They aren’t required reading but offer flavor and additional angles by which to view certain characters. They take the form of forum posts, chat conversations and emails. They’re best described as a kind of a post-Worm-epilogue, pseudo-Ward-prologue bridge between the series.`,
 
   // We have a choice between https://parahumans.wordpress.com/2017/10/21/glowworm-p-1/ and

@@ -12,7 +12,8 @@ export default [
   ...domenicConfig,
   {
     rules: {
-      "no-console": "off"
+      "no-console": "off",
+      "max-len": ["error", { code: 120, ignoreRegExpLiterals: true, ignoreTemplateLiterals: true, ignoreUrls: true }]
     }
   }
 ];

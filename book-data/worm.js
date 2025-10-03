@@ -6,7 +6,6 @@ module.exports = {
   groupPosition: 1,
 
   // First paragraph of https://parahumans.wordpress.com/about/
-  // eslint-disable-next-line max-len
   description: `An introverted teenage girl with an unconventional superpower, Taylor goes out in costume to find escape from a deeply unhappy and frustrated civilian life. Her first attempt at taking down a supervillain sees her mistaken for one, thrusting her into the midst of the local ‘cape’ scene’s politics, unwritten rules, and ambiguous morals. As she risks life and limb, Taylor faces the dilemma of having to do the wrong things for the right reasons.`,
 
   arcs: [
