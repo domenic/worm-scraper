@@ -736,7 +736,7 @@ module.exports = {
           simplifiedTitle: "1"
         },
         {
-          url: "https://parahumans.wordpress.com/2012/10/18/interlude-15-donation-bonus/",
+          url: "https://parahumans.wordpress.com/2012/10/18/interlude-15-bonus/",
           simplifiedTitle: "Interlude I",
           characterNamesTitle: "Interlude: Carol"
         },
