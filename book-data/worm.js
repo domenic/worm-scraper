@@ -1113,7 +1113,7 @@ module.exports = {
           simplifiedTitle: "3"
         },
         {
-          url: "https://parahumans.wordpress.com/2013/05/11/cell-22-4",
+          url: "https://parahumans.wordpress.com/2013/05/11/cell-22-4/",
           simplifiedTitle: "4"
         },
         {
