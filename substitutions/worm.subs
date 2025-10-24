@@ -5436,7 +5436,7 @@
 
 @ https://parahumans.wordpress.com/2013/05/21/interlude-22-donation-bonus-1/
   - Sumimasen deshita
-  + <i lang="ja">Sumimasen deshita</i>
+  + <i lang="ja-Latn">Sumimasen deshita</i>
 
   - “is it reassuring
   + “Is it reassuring
@@ -5601,25 +5601,28 @@
   + her mouth: a click
 
   r “<em>Qiān chū.</em>”  Three
-  s “<i lang="zh-CN">Qiān chū</i>,” Three
+  s “<i lang="zh-Latn-pinyin">Qiān chū</i>,” Three
 
   - “<em>Yàngbǎn qiáng!</em>”  Five
-  + “<i lang="zh-CN">Yàngbǎn qiáng!</i>” Five
+  + “<i lang="zh-Latn-pinyin">Yàngbǎn qiáng!</i>” Five
 
   - “<em>Yàngbǎn qiáng!</em>”  The group
-  + “<i lang="zh-CN">Yàngbǎn qiáng!</i>” the group
+  + “<i lang="zh-Latn-pinyin">Yàngbǎn qiáng!</i>” the group
 
   - “<em>Shèntòu!</em>”  Three ordered
-  + “<i lang="zh-CN">Shèntòu!</i>” Three ordered
+  + “<i lang="zh-Latn-pinyin">Shèntòu!</i>” Three ordered
 
   r <em>Zhàn wěn</em>
-  s <i lang="zh-CN">Zhàn wěn</i>
+  s <i lang="zh-Latn-pinyin">Zhàn wěn</i>
 
   - <em>Tíng!</em>
-  + <i lang="zh-CN">Tíng!</i>
+  + <i lang="zh-Latn-pinyin">Tíng!</i>
 
   - <em>Dǎpò</em>
-  + <i lang="zh-CN">Dǎpò</i>
+  + <i lang="zh-Latn-pinyin">Dǎpò</i>
+
+  - “Tā shì fúshè kuòsàn,” Three said
+  + “<i lang="zh-Latn-pinyin">Tā shì fúshè kuòsàn</i>,” Three said
 
   - Shén yù
   + Shén Yù
@@ -5689,6 +5692,12 @@
 
   - guess…” I said, searching for the phrase, “A gamble’s
   + guess…” I said, searching for the phrase.  “A gamble’s
+
+  - <em>Shì de!</em>
+  + <i lang="zh-Latn-pinyin">Shì de!</i>
+
+  - “Shì de!”
+  + “<i lang="zh-Latn-pinyin">Shì de!</i>”
 
 
 @ https://parahumans.wordpress.com/2013/06/20/crushed-24-5/
