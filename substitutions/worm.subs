@@ -1503,9 +1503,6 @@
   - throat, “Kiss
   + throat, “kiss
 
-  - good looking girl
-  + good-looking girl
-
   - anything new here,” Brian whispered to me, “And we can’t
   + anything new here,” Brian whispered to me, “and we can’t
 
@@ -7308,6 +7305,10 @@
 
   - It might even by why she balked at the end
   + It might even be why she balked at the end
+
+  r (?<! {2}|“|>)Clairvoyant
+  s clairvoyant
+  # Per the above
 
 
 @ https://parahumans.wordpress.com/2013/11/02/teneral-e-1/
