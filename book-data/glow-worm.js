@@ -25,47 +25,56 @@ module.exports = {
         {
           url: "https://www.parahumans.net/2017/10/21/glow-worm-0-1/",
           simplifiedTitle: "1",
-          characterNamesTitle: "Point_Me_@_The_Sky"
+          characterNamesTitle: "Point_Me_@_The_Sky",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/10/24/glow-worm-0-2/",
           simplifiedTitle: "2",
-          characterNamesTitle: "Capricorn"
+          characterNamesTitle: "Capricorn",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/10/26/glow-worm-0-3/",
           simplifiedTitle: "3",
-          characterNamesTitle: "Mangled_Wings"
+          characterNamesTitle: "Mangled_Wings",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/10/28/glow-worm-0-4/",
           simplifiedTitle: "4",
-          characterNamesTitle: "of5"
+          characterNamesTitle: "of5",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/10/31/glow-worm-0-5/",
           simplifiedTitle: "5",
-          characterNamesTitle: "Point_Me_@_The_Sky, part 2"
+          characterNamesTitle: "Point_Me_@_The_Sky, part 2",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/10/31/glow-worm-0-6/",
           simplifiedTitle: "6",
-          characterNamesTitle: "Questionable_Cephalopod"
+          characterNamesTitle: "Questionable_Cephalopod",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/11/02/glow-worm-0-7/",
           simplifiedTitle: "7",
-          characterNamesTitle: "Heart_Shaped_Pupil"
+          characterNamesTitle: "Heart_Shaped_Pupil",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/11/04/glow-worm-0-8/",
           simplifiedTitle: "8",
-          characterNamesTitle: "Space_Squid"
+          characterNamesTitle: "Space_Squid",
+          mostlyMessageboard: true
         },
         {
           url: "https://www.parahumans.net/2017/11/07/glow-worm-0-9/",
           simplifiedTitle: "9",
-          characterNamesTitle: "Point_Me_@_The_Sky, part 3"
+          characterNamesTitle: "Point_Me_@_The_Sky, part 3",
+          mostlyMessageboard: true
         }
       ]
     }
