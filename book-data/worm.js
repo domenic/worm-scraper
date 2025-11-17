@@ -1007,7 +1007,8 @@ module.exports = {
         {
           url: "https://parahumans.wordpress.com/2013/03/16/interlude-19-y/",
           simplifiedTitle: "Interlude II",
-          characterNamesTitle: "Interlude: XxVoid_CowboyxX"
+          characterNamesTitle: "Interlude: XxVoid_CowboyxX",
+          mostlyMessageboard: true
         },
         {
           url: "https://parahumans.wordpress.com/2013/03/19/interlude-19/",
