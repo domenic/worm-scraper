@@ -25,7 +25,8 @@
     "npm-shrinkwrap.json"
   ],
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "node --test"
   },
   "dependencies": {
     "archiver": "^8.0.0",
